@@ -7,7 +7,7 @@ redirect_from:
   - /teaching
 ---
  
-## CURRENT TEACHING 
+## CURRENT TEACHING
 
 **UT Dallas**, ***School of Economic, Political and Policy Sciences*** (Fall 2022) 
 
@@ -17,10 +17,7 @@ In this discussion-based and interdisciplinary seminar, we examine concepts, cau
 
 Students get free access to DataCamp to prepare themselves for the coding part of this course. [Link to DataCamp for UTD students](#PendingDatacampApproval)
 
-<center>
-<img src="https://asobolev.com/files/figs/major-cyber-attacks.gif" style="height:500%;">
-<figcaption><i>Major Cyber Attacks Across the Globe</i></figcaption>
-</center>
+![](https://asobolev.com/files/figs/major-cyber-attacks.gif)
 
 ## TEACHING EXPERIENCE
 
@@ -62,3 +59,10 @@ This cross-disciplinary seminar focuses on two broad questions. First: how do po
   * Models of Risk in Politics and Economics (MA, 2012-13)
 
   * Political Theory, Lecturer (2011-13)
+  
+<!--
+  <center>
+<img src="https://asobolev.com/files/figs/major-cyber-attacks.gif" style="height:500%;">
+<figcaption><i>Major Cyber Attacks Across the Globe</i></figcaption>
+</center>
+-->
