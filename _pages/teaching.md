@@ -9,17 +9,22 @@ redirect_from:
  
 ## CURRENT TEACHING
 
-**UT Dallas**, ***School of Economic, Political and Policy Sciences*** (Fall 2022) 
+**UT Dallas**, ***School of Economic, Political and Policy Sciences*** (Fall 2023) 
 
-  * *PPPE  / PSCI 6302* Political Violence and Conflict in Cyberspace  [Class Website](https://elearning.utdallas.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_4287675_1&course_id=_210379_1)
+  * *PPPE/PSCI 6302* Conflict in Cyberspace [Class Website](https://coursebook.utdallas.edu/search/pppe6302.501.23f)
 
-In this discussion-based and interdisciplinary seminar, we examine concepts, causes, and consequences of different types of political violence and war, with a special focus on how cyber attacks compare causally and strategically to more conventional types of conflicts. Finally, we will discuss the different policy responses to cyber versus conventional attacks.
+Cyberspace is not an isolated concept. It expands beyond the conventional concepts of networks. While many of the digital security issues faced by companies and customers are highly technical, their underlying causes and systematic effects are inherently behavioral. Despite its technical specificities, cyberspace is a domain of human interactions. It makes little sense to approach cybersecurity from a narrow, purely technical perspective. Yet many courses focus on 'mechanics' of cybersecurity at the expense of behavioral and political aspects. In contrast, this class explores cyberspace as a synergistic entity. First, it examines conflicts and violence in pre-digital age. Next, it discusses orgins, organization, and evolution of cyberspace. Finally, it explores how cyberspace reshapes conventional conflicts and produces new ones.
 
-Students get free access to DataCamp to prepare themselves for the coding part of this course. [Link to DataCamp for UTD students](#PendingDatacampApproval)
+Students get free access to **DataCamp** to prepare themselves for the coding part of this course. [Link to DataCamp for UTD students](#PendingDatacampApproval)
 
 ![](https://asobolev.com/files/figs/major-cyber-attacks.gif)
 
 ## TEACHING EXPERIENCE
+
+**UT Dallas**, ***School of Economic, Political and Policy Sciences***
+
+
+  * *PPPE  / PSCI 6302* Political Violence and Conflict in Cyberspace  [Class Website](https://elearning.utdallas.edu/webapps/blackboard/content/listContentEditable.jsp?content_id=_4287675_1&course_id=_210379_1)
 
 **UT Dallas**, ***School of Economic, Political and Policy Sciences*** (Fall 2021) 
 
