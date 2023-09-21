@@ -92,4 +92,17 @@ Social media platforms, national governments, and academics develop sophisticate
 
 -->
 
+<li><p>Had an arrival delay of two or more hours</p>
+<div class="tutorial-exercise" data-label="filterex1" data-completion="1" data-diagnostics="1" data-startover="1" data-lines="0">
+<script type="application/json" data-ui-opts="1">{"engine":"r","has_checker":false,"caption":"<span data-i18n=\"text.enginecap\" data-i18n-opts=\"{&quot;engine&quot;:&quot;R&quot;}\">R Code<\/span>"}</script>
+</div>
+<div class="tutorial-exercise-support" data-label="filterex1-solution" data-completion="1" data-diagnostics="1" data-startover="1" data-lines="0">
+<pre class="text"><code>filter(flights, arr_delay &gt;= 120) # arr_delay is in minutes</code></pre>
+</div>
+</li>
+
+
+
+
+
 <script type="text/javascript" src="//cdn.datacamp.com/dcl-react.js.gz"></script>
