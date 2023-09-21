@@ -80,8 +80,6 @@ Non-democratic governments actively use cyber technologies for political purpose
 
 Social media platforms, national governments, and academics develop sophisticated methods to detect state-sponsored political commentators on the Internet. Most of these methods are based on a combination of arbitrarily chosen criteria, often including the country of origin of the account’s email address or phone number, usage of specific characters, and specific keywords in the message. I argue that such methods may be unable to identify a significant proportion of paid political commentators. These commentators are apparently aware of the risks and try hard to hide their troll identity. They do not only post a lot of politically irrelevant information, but they also calibrate their behavior by adjusting the profiles of their accounts in the direction of profiles of regular users of social media. In contrast to methods with arbitrarily chosen criteria, models that employ “ground truth” data without pre-specified metrics can deliver predictions with a high degree of accuracy.
 
-
-
 <div>
 
 <iframe width='100%' height='300' src='https://rdrr.io/snippets/embed/' frameborder='0'></iframe>
