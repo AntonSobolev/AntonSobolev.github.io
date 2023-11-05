@@ -147,7 +147,7 @@ This file contains statewise cyber crime in India from year 2016-2018
 
 <iframe
     src="https://iframe.embednpages.com/BoKF2NnsjLx7o4p4nAdc"
-    style="width:100%; height:100%; min-height: 500px; padding:0; border:2px solid #ccc; border-radius: 10px;"
+    style="width:100%; height:100%; min-height: 500px; padding:0; border:0px solid #ccc; border-radius: 10px;"
     />
 
 
