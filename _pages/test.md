@@ -145,7 +145,10 @@ This file contains statewise cyber crime in India from year 2016-2018
 
 
 
-<iframe src="https://cyber-conflict.notion.site/Notion-Test-Page-0b841c040ceb464a903977c12d962b53" width="100%" height="500px" frameborder="0"></iframe>
+<iframe
+    src="https://iframe.embednpages.com/BoKF2NnsjLx7o4p4nAdc"
+    style="width:100%; height:100%; min-height: 500px; padding:0; border:2px solid #ccc; border-radius: 10px;"
+    />
 
 
 
