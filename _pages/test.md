@@ -15,12 +15,8 @@ output:
 
 Test ==Test== Test 
 
-Test
-
 H~2~0
-
 H~~2~~0
-
 Test
 
 - [x] Write the press release
@@ -35,15 +31,6 @@ Test
 >
 > Back to the first level.
 
-
-| Month    | Assignee | Backup |
-
-Test
-
-|          |          | 
-| -------- | -------- | 
-| **definition** | text text text text text text text text text text text text text text text text text text text text text
-| -------- | -------- |
 
 
 Foo *bar*
@@ -112,49 +99,18 @@ a + b
 
 
 
-Data Repositories:
 
-Kaggle :: cyber
-https://www.kaggle.com/datasets/amritvirsinghx/cyber-crime-statewise
-https://ieee-dataport.org/datasets
-https://osf.io/search/?q=cyber&page=1
-https://dataverse.harvard.edu/
-
-Standalone Datasets
-DCID
-https://drryanmaness.wixsite.com/cyberconflict/cyber-conflict-dataset
-
-Raw Sources:
-https://www.cfr.org/cyber-operations/#Map
-
-  https://www.kaggle.com/datasets/fireballbyedimyrnmom/cyber-incidents-up-to-2020?resource=download
-
-To start:
-scholar.google.com
-
-Other types of data
-
-Google Trends
-https://www.digitalattackmap.com/
-
-https://osf.io/search/?q=cyber&page=1
-
-Kaggle (https://www.kaggle.com/datasets/amritvirsinghx/cyber-crime-statewise)
-Cyber Crime Statewise (INDIA)
-This file contains statewise cyber crime in India from year 2016-2018
-
-
-
+<!--
 <iframe
     src="https://iframe.embednpages.com/BoKF2NnsjLx7o4p4nAdc"
     style="width:100%; height:100%; min-height: 500px; padding:0; border:0px solid #ccc; border-radius: 10px;"
     />
 
-
 <iframe src="https://www.notioniframe.com/notion/27m7elxyumk" style="width: 100%; height: 100vh; border: 2; padding: 0"></iframe>
 
 
 <iframe src="https://snackthis.co/p/345bfb910bb44f74aa9188aada9a583a" style="width: 100%; height: 100vh; border: 2; padding: 0"></iframe>
+ -->   
 
 
 
