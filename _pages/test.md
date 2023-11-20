@@ -159,3 +159,121 @@ This file contains statewise cyber crime in India from year 2016-2018
 
 
 
+
+
+
+<head>
+    <title>Time Tracker</title>
+    <style>
+        .container {
+            display: grid;
+            grid-template-columns: auto 100px auto;
+            align-items: center;
+            justify-content: start;
+            gap: 10px;
+        }
+        #timeTracker, #status, .inputs {
+            text-align: center;
+        }
+        #timeTracker {
+            font-size: 3em;
+        }
+        .inputs {
+            display: flex;
+            flex-wrap: nowrap;
+            gap: 5px;
+        }
+        .inputs input, .inputs button {
+            width: 60px;
+        }
+        #status {
+            font-family: monospace;
+            overflow: hidden;
+            white-space: nowrap;
+        }
+    </style>
+    <script>
+        let intervalId;
+        let isTracking = false;
+        let startTime;
+        let numberOfSlots;
+        let slotDuration;
+
+        function initializeTime() {
+            const now = new Date();
+            startTime = now;
+            document.getElementById('startTime').valueAsDate = now;
+        }
+
+        function toggleTracking() {
+            if (isTracking) {
+                clearInterval(intervalId);
+                isTracking = false;
+            } else {
+                startTracking();
+                isTracking = true;
+            }
+        }
+
+        function startTracking() {
+            if (!startTime) {
+                initializeTime();
+            }
+
+            numberOfSlots = parseInt(document.getElementById("numberOfSlots").value, 10);
+            slotDuration = parseInt(document.getElementById("slotDuration").value, 10);
+
+            if (isNaN(numberOfSlots) || numberOfSlots <= 0 || isNaN(slotDuration) || slotDuration <= 0) {
+                alert("Please enter valid values.");
+                return;
+            }
+
+            intervalId = setInterval(updateTime, 60000);
+            updateTime();
+        }
+
+        function updateTime() {
+            const currentTime = new Date();
+            const elapsedMinutes = Math.floor((currentTime - startTime) / (1000 * 60));
+            const totalDuration = numberOfSlots * slotDuration;
+            const percentage = Math.min((elapsedMinutes / totalDuration) * 100, 100).toFixed(0);
+
+            let displayString = "□".repeat(numberOfSlots);
+            const elapsedSlots = Math.floor(elapsedMinutes / slotDuration);
+            const slotsLeft = numberOfSlots - elapsedSlots - 1;
+
+            if (elapsedSlots < numberOfSlots) {
+                displayString = "■".repeat(elapsedSlots) + "•" + "□".repeat(numberOfSlots - elapsedSlots - 1);
+            } else {
+                displayString = "■".repeat(numberOfSlots);
+            }
+
+            document.getElementById("timeTracker").innerText = displayString;
+            document.getElementById("status").innerText = `${Math.max(slotsLeft, 0)} | ${percentage}%`;
+        }
+
+        function resetTracking() {
+            clearInterval(intervalId);
+            isTracking = false;
+            document.getElementById("timeTracker").innerText = "□".repeat(numberOfSlots);
+            document.getElementById("status").innerText = "";
+        }
+
+        document.addEventListener('DOMContentLoaded', initializeTime);
+    </script>
+</head>
+<body>
+    <div class="container">
+        <div class="inputs">
+            <input type="datetime-local" id="startTime" title="Start Time" />
+            <input type="number" id="numberOfSlots" min="1" max="999" title="Number of Slots" placeholder="#" />
+            <input type="number" id="slotDuration" min="1" max="999" title="Slot Duration (minutes)" placeholder="Len" />
+            <button onclick="toggleTracking()">⏯️</button>
+            <button onclick="resetTracking()">🔄</button>
+        </div>
+        <div id="status"></div>
+        <div id="timeTracker">□□□□</div>
+    </div>
+</body>
+
+
