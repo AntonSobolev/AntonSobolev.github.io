@@ -25,20 +25,25 @@ Server 01
     b = 6
 
   </code>
-  <code data-type="sample-code">
+  <code data-type="sample-code" data-lang="r">
     # Server 1
+
     # library(httr)
+    
     # Specify the URL of the CSV file
+
 # url <- "https://asobolev.com/files/0-Data/cyberattacks-across-the-globe-cases.csv"
 
 # Use httr::GET to fetch the CSV content without SSL certificate verification
     
-response <- GET(url, config = httr::config(ssl_verifypeer = 0L))
+# response <- GET(url, config = httr::config(ssl_verifypeer = 0L))
 
-csv_content <- content(response, "text")
+# csv_content <- content(response, "text")
   
 # Read the CSV into a data frame
-require(data.table)
+
+# require(data.table)
+
 d <- fread(csv_content)
     
 head(d)
