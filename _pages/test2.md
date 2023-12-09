@@ -1,10 +1,10 @@
 ---
 title: ""
-permalink: /test/
-excerpt: "Test"
+permalink: /test2/
+excerpt: "Test2"
 author_profile: true
 redirect_from: 
-  - /test
+  - /test2
 output:
   html_document:
     self_contained: false
