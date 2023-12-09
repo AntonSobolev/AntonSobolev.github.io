@@ -31,13 +31,9 @@ Test
 >
 > Back to the first level.
 
-
-
-Foo *bar*
-=========
-
-Foo *bar*
 ---------
+
+
 
 
 <!--
@@ -73,6 +69,7 @@ a + b
   <code data-type="pre-exercise-code">
     # This will get executed each time the exercise gets initialized
     b = 6
+    d <- read.csv('asoblev.com/files/0-Data/cyberattacks-across-the-globe-cases.csv')
   </code>
   <code data-type="sample-code">
     # Create a variable a, equal to 5
