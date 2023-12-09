@@ -27,25 +27,21 @@ Server 01
   </code>
   <code data-type="sample-code">
     # Server 1
-    library(httr)
-
-      library(httr)
-
+    # library(httr)
     # Specify the URL of the CSV file
-    
-    url <- "https://asobolev.com/files/0-Data/cyberattacks-across-the-globe-cases.csv"
+# url <- "https://asobolev.com/files/0-Data/cyberattacks-across-the-globe-cases.csv"
 
-    # Use httr::GET to fetch the CSV content without SSL certificate verification
+# Use httr::GET to fetch the CSV content without SSL certificate verification
     
-    response <- GET(url, config = httr::config(ssl_verifypeer = 0L))
+response <- GET(url, config = httr::config(ssl_verifypeer = 0L))
 
-    csv_content <- content(response, "text")
+csv_content <- content(response, "text")
   
-    # Read the CSV into a data frame
-    require(data.table)
-    d <- fread(csv_content)
+# Read the CSV into a data frame
+require(data.table)
+d <- fread(csv_content)
     
-    head(d)
+head(d)
 
 
   </code>
