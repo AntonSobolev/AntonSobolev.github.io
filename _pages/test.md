@@ -12,6 +12,23 @@ output:
 
 ## ARTICLES
 
+<details>
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
+
+  ### Some Javascript
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
+</details>
+
 
 Test ==Test== Test 
 
@@ -69,7 +86,7 @@ a + b
   <code data-type="pre-exercise-code">
     # This will get executed each time the exercise gets initialized
     b = 6
-    d <- read.csv('asoblev.com/files/0-Data/cyberattacks-across-the-globe-cases.csv')
+    d <- read.csv('https://asoblev.com/files/0-Data/cyberattacks-across-the-globe-cases.csv')
   </code>
   <code data-type="sample-code">
     # Create a variable a, equal to 5
