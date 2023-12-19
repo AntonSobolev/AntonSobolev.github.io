@@ -10,23 +10,26 @@ output:
     self_contained: false
 ---
 
-## ARTICLES
 
-<details>
-  <summary>Click me</summary>
-  
-  ### Heading
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
 
   ### Some Javascript
-  ```js
+
+```js
   function logSomething(something) {
     console.log('Something', something);
   }
   ```
+
+
+
+<details>
+    <summary>
+    Office Hours Booking
+    </summary>
+  
+    <script src="https://embed.ycb.me" async="true" data-domain="anton-sobolev">
+    </script>
+ 
 </details>
 
 
@@ -43,13 +46,6 @@ Test
 
 <script async src="https://comments.app/js/widget.js?3" data-comments-app-website="q36ec_qn" data-limit="5"></script>
 
-Test
-
-> This is the first level of quoting.
->
-> > This is nested blockquote.
->
-> Back to the first level.
 
 ---------
 
@@ -134,122 +130,6 @@ a + b
 
 
 
-
-<head>
-    <title>Time Tracker</title>
-    <style>
-        .container {
-            display: grid;
-            grid-template-columns: auto 100px auto;
-            align-items: center;
-            justify-content: start;
-            gap: 10px;
-        }
-        #timeTracker, #status, .inputs {
-            text-align: center;
-        }
-        #timeTracker {
-            font-size: 3em;
-        }
-        .inputs {
-            display: flex;
-            flex-wrap: nowrap;
-            gap: 5px;
-        }
-        .inputs input, .inputs button {
-            width: 60px;
-        }
-        #status {
-            font-family: monospace;
-            overflow: hidden;
-            white-space: nowrap;
-        }
-    </style>
-    <script>
-        let intervalId;
-        let isTracking = false;
-        let startTime;
-        let numberOfSlots;
-        let slotDuration;
-
-        function initializeTime() {
-            const now = new Date();
-            startTime = now;
-            document.getElementById('startTime').valueAsDate = now;
-        }
-
-        function toggleTracking() {
-            if (isTracking) {
-                clearInterval(intervalId);
-                isTracking = false;
-            } else {
-                startTracking();
-                isTracking = true;
-            }
-        }
-
-        function startTracking() {
-            if (!startTime) {
-                initializeTime();
-            }
-
-            numberOfSlots = parseInt(document.getElementById("numberOfSlots").value, 10);
-            slotDuration = parseInt(document.getElementById("slotDuration").value, 10);
-
-            if (isNaN(numberOfSlots) || numberOfSlots <= 0 || isNaN(slotDuration) || slotDuration <= 0) {
-                alert("Please enter valid values.");
-                return;
-            }
-
-            intervalId = setInterval(updateTime, 60000);
-            updateTime();
-        }
-
-        function updateTime() {
-            const currentTime = new Date();
-            const elapsedMinutes = Math.floor((currentTime - startTime) / (1000 * 60));
-            const totalDuration = numberOfSlots * slotDuration;
-            const percentage = Math.min((elapsedMinutes / totalDuration) * 100, 100).toFixed(0);
-
-            let displayString = "□".repeat(numberOfSlots);
-            const elapsedSlots = Math.floor(elapsedMinutes / slotDuration);
-            const slotsLeft = numberOfSlots - elapsedSlots - 1;
-
-            if (elapsedSlots < numberOfSlots) {
-                displayString = "■".repeat(elapsedSlots) + "•" + "□".repeat(numberOfSlots - elapsedSlots - 1);
-            } else {
-                displayString = "■".repeat(numberOfSlots);
-            }
-
-            document.getElementById("timeTracker").innerText = displayString;
-            document.getElementById("status").innerText = `${Math.max(slotsLeft, 0)} | ${percentage}%`;
-        }
-
-        function resetTracking() {
-            clearInterval(intervalId);
-            isTracking = false;
-            document.getElementById("timeTracker").innerText = "□".repeat(numberOfSlots);
-            document.getElementById("status").innerText = "";
-        }
-
-        document.addEventListener('DOMContentLoaded', initializeTime);
-    </script>
-</head>
-<body>
-    <div class="container">
-        <div class="inputs">
-            <input type="datetime-local" id="startTime" title="Start Time" />
-            <input type="number" id="numberOfSlots" min="1" max="999" title="Number of Slots" placeholder="#" />
-            <input type="number" id="slotDuration" min="1" max="999" title="Slot Duration (minutes)" placeholder="Len" />
-            <button onclick="toggleTracking()">⏯️</button>
-            <button onclick="resetTracking()">🔄</button>
-        </div>
-        <div id="status"></div>
-        <div id="timeTracker">□□□□</div>
-    </div>
-</body>
-
-
 <!-- Start of Async Callbell Code -->
 <script>
   window.callbellSettings = {
@@ -260,3 +140,6 @@ a + b
   (function(){var w=window;var ic=w.callbell;if(typeof ic==="function"){ic('reattach_activator');ic('update',callbellSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Callbell=i;var l=function(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://dash.callbell.eu/include/'+window.callbellSettings.token+'.js';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);};if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()
 </script>
 <!-- End of Async Callbell Code -->
+
+
+<script src="https://embed.ycb.me"	async="true"	data-domain="anton-sobolev"></script>
