@@ -1,7 +1,9 @@
 if (!require("pacman")) install.packages("pacman")
 if (!require("pacman")) install.packages("pacman")
 p_load(data.table,plyr, dplyr, ggplot2, ggpubr, ggrepel) # two modern packages to modify data objects in R
+
 `%+%` <- function(x,y){paste0(x, y)} # collapse two strings into one
+
 `%gic%` <- function(x,y) {grepl(x, y, ignore.case = TRUE)}
 theme_set(theme_pubr(border = TRUE)) # make figures beautiful and ascetic by default
 
@@ -27,3 +29,6 @@ theme_set(theme_pubr(border = TRUE)) # make figures beautiful and ascetic by def
     return(dt)
   }
 }
+
+
+l <- function(x){length(x)}
