@@ -84,8 +84,9 @@ a + b
 <div data-datacamp-exercise data-lang="r">
   <code data-type="pre-exercise-code">
     # This will get executed each time the exercise gets initialized
-    b = 6
-    d <- read.csv('https://asobolev.com/files/0-Data/cyberattacks-across-the-globe-cases.csv')
+    b <- 6
+    a <- 5
+    
   </code>
   <code data-type="sample-code">
     # Create a variable a, equal to 5
