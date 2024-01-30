@@ -21,8 +21,14 @@ Server 01
 
 <div data-datacamp-exercise data-lang="r">
   <code data-type="pre-exercise-code">
-    # This will get executed each time the exercise gets initialized
-    b = 6
+    b <- 6
+  
+    url <- "https://asobolev.com/files/0-Data/cyberattacks-across-the-globe-cases.csv"
+    response <- GET(url, config = httr::config(ssl_verifypeer = 0L))
+    csv_content <- content(response, "text")
+    require(data.table)
+    d <- fread(csv_content)
+    head(d)
 
   </code>
   <code data-type="sample-code" data-lang="r">
