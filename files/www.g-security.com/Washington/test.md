@@ -1,10 +1,10 @@
 ---
 title: ""
-permalink: /test/
+permalink: /www.g-security.com/test/
 excerpt: "Test"
 author_profile: true
 redirect_from: 
-  - /test
+  - /www.g-security.com/test/
 output:
   html_document:
     self_contained: false
