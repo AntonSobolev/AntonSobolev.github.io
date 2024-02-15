@@ -1,0 +1,267 @@
+source	target	year	attack_on	method	success	num
+US	Russia	2008	Government	Intrusion	0	1
+US	Russia	2008	Government	Infiltration	0	1
+Russia	US	2008	Government	Infiltration	0	1
+Russia	US	2008	Government	Infiltration	0	1
+Russia	US	2008	Military	Intrusion	0	1
+US	Russia	2008	Government	Infiltration	1	1
+Russia	US	2009	Government	Intrusion	0	1
+Russia	US	2009	Private	Infiltration	0	1
+Russia	US	2011	Private	Intrusion	0	1
+Russia	US	2013	Private	Intrusion	0	1
+Russia	US	2013	Government	Intrusion	0	1
+Russia	US	2014	Military	DDoS	0	1
+Russia	US	2014	Military	Intrusion	0	1
+Russia	US	2014	Private	Intrusion	0	1
+Russia	US	2014	Private	Intrusion	0	1
+Russia	US	2014	Government	Intrusion	0	1
+Russia	US	2014	Government	Intrusion	0	1
+Russia	US	2014	Private	Intrusion	0	1
+Russia	US	2015	Military	Intrusion	0	1
+Russia	US	2015	Private	Intrusion	0	1
+Russia	US	2015	Military	Intrusion	0	1
+US	Russia	2015	Private	Intrusion	0	1
+US	Russia	2015	Military	Intrusion	0	1
+Russia	US	2016	Private	Intrusion	0	1
+US	Russia	2016	Military	Infiltration	0	1
+Russia	US	2016	Private	Intrusion	0	1
+US	Iran	2007	Military	Infiltration	0	1
+US	Iran	2008	Government	Intrusion	0	1
+US	Iran	2009	Military	Infiltration	1	1
+US	Iran	2009	Military	Infiltration	0	1
+Iran	US	2009	Private	Defacement	0	1
+US	Iran	2010	Government	Intrusion	0	1
+Iran	US	2011	Private	Intrusion	0	1
+Iran	US	2011	Private	Intrusion	1	1
+US	Iran	2011	Military	Intrusion	0	1
+Iran	US	2012	Private	DDoS	0	1
+Iran	US	2013	Private	Intrusion	0	1
+Iran	US	2013	Military	Intrusion	0	1
+Iran	US	2013	Private	Intrusion	0	1
+Iran	US	2013	Private	Intrusion	0	1
+Iran	US	2014	Private	Infiltration	0	1
+Iran	US	2015	Government	Intrusion	0	1
+US	Iran	2015	Military	Intrusion	0	1
+Iran	US	2015	Government	Intrusion	0	1
+Iran	US	2015	Private	Intrusion	0	1
+Iran	US	2015	Government	Intrusion	0	1
+Syria	US	2011	Government	Defacement	0	1
+China	US	2001	Government	Defacement	0	1
+China	US	2003	Military	Intrusion	0	1
+US	China	2006	Government	Infiltration	1	1
+China	US	2006	Government	Intrusion	0	1
+China	US	2006	Government	Intrusion	0	1
+China	US	2006	Military	Intrusion	0	1
+China	US	2006	Government	Infiltration	0	1
+China	US	2006	Military	Infiltration	0	1
+China	US	2007	Government	DDoS	0	1
+China	US	2007	Government	Intrusion	0	1
+US	China	2007	Military	Infiltration	1	1
+China	US	2007	Government	Infiltration	0	1
+US	China	2008	Military	DDoS	1	1
+China	US	2008	Government	Intrusion	0	1
+China	US	2008	Government	Intrusion	0	1
+China	US	2008	Private	Intrusion	0	1
+China	US	2009	Government	Intrusion	0	1
+China	US	2009	Government	Intrusion	0	1
+China	US	2009	Private	Intrusion	0	1
+China	US	2009	Private	Intrusion	0	1
+US	China	2009	Military	Intrusion	1	1
+China	US	2009	Private	Infiltration	0	1
+China	US	2009	Government	Infiltration	0	1
+China	US	2010	Government	Infiltration	0	1
+US	China	2010	Private	Intrusion	1	1
+China	US	2010	Military	Intrusion	0	1
+China	US	2010	Government	Intrusion	0	1
+China	US	2010	Private	Intrusion	0	1
+China	US	2011	Government	Intrusion	0	1
+China	US	2011	Military	Infiltration	0	1
+China	US	2011	Private	Intrusion	0	1
+China	US	2011	Government	Infiltration	0	1
+China	US	2012	Private	Intrusion	0	1
+China	US	2012	Government	Intrusion	0	1
+China	US	2012	Private	Intrusion	0	1
+China	US	2013	Military	Intrusion	0	1
+China	US	2013	Private	Intrusion	0	1
+China	US	2013	Government	Intrusion	0	1
+China	US	2014	Military	Intrusion	0	1
+China	US	2014	Private	Intrusion	0	1
+China	US	2014	Government	Intrusion	1	1
+China	US	2014	Private	Intrusion	0	1
+China	US	2014	Private	Intrusion	0	1
+China	US	2014	Government	Intrusion	0	1
+China	US	2014	Government	Intrusion	0	1
+China	US	2014	Private	Intrusion	0	1
+China	US	2015	Private	DDoS	0	1
+China	US	2015	Private	Intrusion	0	1
+US	N Korea	2008	Government	DDoS	1	1
+N Korea	US	2009	Government	DDoS	0	1
+US	N Korea	2010	Military	Infiltration	0	1
+N Korea	US	2011	Government	DDoS	0	1
+N Korea	US	2011	Government	Defacement	0	1
+N Korea	US	2014	Government	Intrusion	0	1
+US	N Korea	2015	Military	Infiltration	0	1
+N Korea	US	2016	Private	Intrusion	0	1
+Russia	Canada	2011	Private	Intrusion	0	1
+Russia	Canada	2014	Military	DDoS	0	1
+Russia	UK	2011	Private	Intrusion	0	1
+Russia	UK	2014	Military	DDoS	0	1
+Russia	UK	2016	Private	Intrusion	0	1
+Russia	France	2015	Private	Intrusion	0	1
+Russia	France	2015	Private	Infiltration	0	1
+Russia	France	2016	Private	Intrusion	0	1
+Russia	Germany	2014	Private	Intrusion	0	1
+Russia	Germany	2014	Private	Infiltration	0	1
+Russia	Germany	2015	Government	Intrusion	0	1
+Russia	Poland	2009	Government	Intrusion	0	1
+Russia	Poland	2014	Government	Intrusion	0	1
+Russia	Poland	2014	Private	Defacement	0	1
+Russia	Estonia	2007	Government	Defacement	0	1
+Russia	Estonia	2007	Private	Defacement	0	1
+Russia	Estonia	2007	Government	DDoS	0	1
+Russia	Estonia	2007	Private	DDoS	0	1
+Russia	Lithuania	2005	Government	Intrusion	0	1
+Russia	Lithuania	2008	Private	Defacement	0	1
+Russia	Lithuania	2008	Government	Defacement	0	1
+Russia	Lithuania	2012	Private	DDoS	0	1
+Russia	Ukraine	2005	Government	Intrusion	0	1
+Russia	Ukraine	2009	Government	Intrusion	0	1
+Russia	Ukraine	2013	Government	Intrusion	0	1
+Russia	Ukraine	2014	Government	DDoS	0	1
+Russia	Ukraine	2014	Private	DDoS	0	1
+Russia	Ukraine	2014	Government	DDoS	0	1
+Russia	Ukraine	2014	Government	Intrusion	0	1
+Russia	Ukraine	2014	Military	DDoS	0	1
+Russia	Ukraine	2014	Military	Intrusion	0	1
+Russia	Ukraine	2014	Private	Defacement	0	1
+Ukraine	Russia	2015	Military	DDoS	0	1
+Russia	Ukraine	2015	Private	DDoS	0	1
+Russia	Ukraine	2015	Private	Infiltration	0	1
+Russia	Ukraine	2016	Private	Intrusion	0	1
+Russia	Ukraine	2016	Private	Intrusion	0	1
+Ukraine	Russia	2016	Private	DDoS	0	1
+Russia	Ukraine	2016	Private	Infiltration	0	1
+Russia	Georgia	2007	Government	Intrusion	0	1
+Russia	Georgia	2008	Government	Intrusion	0	1
+Russia	Georgia	2008	Government	DDoS	0	1
+Georgia	Russia	2008	Government	DDoS	0	1
+Russia	Georgia	2008	Private	DDoS	0	1
+Russia	Georgia	2008	Government	Defacement	0	1
+Russia	Georgia	2014	Military	Intrusion	0	1
+Russia	Turkey	2015	Private	DDoS	0	1
+Russia	Turkey	2015	Government	DDoS	0	1
+Turkey	Russia	2016	Military	Intrusion	0	1
+Turkey	Russia	2016	Private	DDoS	0	1
+Iran	Turkey	2014	Private	Intrusion	0	1
+Iran	Turkey	2015	Government	Intrusion	0	1
+Iran	Israel	2000	Government	DDoS	0	1
+Iran	Israel	2001	Government	DDoS	0	1
+Israel	Iran	2006	Government	Defacement	0	1
+Iran	Israel	2006	Government	DDoS	0	1
+Israel	Iran	2007	Military	Infiltration	0	1
+Iran	Israel	2008	Government	DDoS	0	1
+Israel	Iran	2009	Military	Infiltration	1	1
+Israel	Iran	2009	Military	Infiltration	0	1
+Israel	Iran	2009	Military	Infiltration	0	1
+Israel	Iran	2011	Military	Intrusion	0	1
+Iran	Israel	2013	Government	Infiltration	0	1
+Iran	Israel	2014	Private	Intrusion	0	1
+Israel	Iran	2014	Government	Intrusion	0	1
+Iran	Israel	2014	Government	Intrusion	0	1
+Iran	Israel	2015	Private	Intrusion	0	1
+Iran	Israel	2015	Military	Intrusion	0	1
+Iran	Israel	2015	Private	Intrusion	0	1
+Iran	Israel	2015	Government	Intrusion	0	1
+Iran	Saudi Arabia	2012	Government	Infiltration	0	1
+Iran	Saudi Arabia	2012	Government	Infiltration	0	1
+Iran	Saudi Arabia	2014	Government	Intrusion	0	1
+Iran	Saudi Arabia	2014	Government	Intrusion	0	1
+Iran	Saudi Arabia	2015	Government	Intrusion	0	1
+Iran	Saudi Arabia	2015	Private	Intrusion	0	1
+Iran	Saudi Arabia	2016	Private	Infiltration	0	1
+Israel	Syria	2007	Military	Intrusion	1	1
+Israel	Lebanon	2011	Private	Infiltration	0	1
+China	Taiwan	2001	Government	Intrusion	0	1
+China	Taiwan	2001	Government	Intrusion	0	1
+China	Taiwan	2007	Government	Intrusion	0	1
+China	Taiwan	2007	Government	Intrusion	0	1
+China	Taiwan	2008	Government	Intrusion	0	1
+Taiwan	China	2013	Government	Intrusion	0	1
+China	Taiwan	2015	Government	Intrusion	0	1
+China	Taiwan	2015	Government	Intrusion	0	1
+China	Japan	2001	Military	Infiltration	0	1
+China	Japan	2005	Government	DDoS	0	1
+China	Japan	2008	Government	Intrusion	0	1
+China	Japan	2011	Government	Intrusion	0	1
+China	Japan	2011	Government	Intrusion	0	1
+China	Japan	2012	Government	DDoS	0	1
+China	Japan	2014	Government	Intrusion	0	1
+China	Japan	2015	Private	Intrusion	0	1
+China	India	2007	Government	Intrusion	0	1
+China	India	2007	Government	Intrusion	0	1
+China	India	2009	Government	Intrusion	0	1
+China	India	2009	Government	Intrusion	0	1
+China	India	2010	Military	Infiltration	0	1
+China	India	2012	Private	Intrusion	0	1
+China	India	2016	Military	Intrusion	0	1
+China	Vietnam	2007	Government	Intrusion	0	1
+China	Vietnam	2009	Government	Intrusion	0	1
+China	Vietnam	2009	Government	Intrusion	0	1
+China	Vietnam	2011	Government	Infiltration	0	1
+Vietnam	China	2012	Government	Infiltration	0	1
+China	Philippines	2009	Government	Intrusion	0	1
+China	Philippines	2009	Government	Intrusion	0	1
+China	Philippines	2009	Government	Intrusion	0	1
+China	Philippines	2015	Government	Intrusion	0	1
+China	Philippines	2016	Government	DDoS	0	1
+S Korea	N Korea	2008	Government	Infiltration	0	1
+N Korea	S Korea	2007	Military	Infiltration	0	1
+N Korea	S Korea	2009	Government	DDoS	0	1
+N Korea	S Korea	2009	Government	Infiltration	0	1
+N Korea	S Korea	2010	Private	DDoS	0	1
+S Korea	N Korea	2011	Government	Defacement	0	1
+N Korea	S Korea	2011	Government	Defacement	0	1
+N Korea	S Korea	2011	Private	DDoS	0	1
+N Korea	S Korea	2011	Private	Infiltration	0	1
+N Korea	S Korea	2011	Private	DDoS	0	1
+N Korea	S Korea	2011	Government	Defacement	0	1
+N Korea	S Korea	2011	Private	Intrusion	0	1
+N Korea	S Korea	2013	Private	Intrusion	0	1
+N Korea	S Korea	2013	Private	Infiltration	0	1
+N Korea	S Korea	2013	Military	Infiltration	0	1
+N Korea	S Korea	2013	Private	Intrusion	0	1
+N Korea	S Korea	2013	Private	DDoS	0	1
+N Korea	S Korea	2014	Private	Intrusion	0	1
+N Korea	S Korea	2014	Private	Intrusion	0	1
+N Korea	S Korea	2015	Government	Intrusion	0	1
+N Korea	S Korea	2016	Government	Intrusion	0	1
+N Korea	S Korea	2016	Military	Intrusion	0	1
+N Korea	Japan	2009	Government	DDoS	0	1
+S Korea	Japan	2001	Government	DDoS	0	1
+S Korea	Japan	2004	Private	DDoS	0	1
+Japan	S Korea	2004	Government	DDoS	0	1
+Japan	S Korea	2005	Government	DDoS	0	1
+S Korea	Japan	2008	Government	Intrusion	0	1
+S Korea	Japan	2010	Government	DDoS	0	1
+Japan	S Korea	2010	Government	DDoS	0	1
+S Korea	Japan	2011	Government	Intrusion	0	1
+Pakistan	India	2001	Government	Defacement	0	1
+India	Pakistan	2003	Government	Infiltration	0	1
+India	Pakistan	2003	Government	Defacement	0	1
+India	Pakistan	2008	Government	Defacement	0	1
+Pakistan	India	2008	Government	Defacement	0	1
+Pakistan	India	2008	Government	Defacement	0	1
+Pakistan	India	2010	Government	Defacement	0	1
+India	Pakistan	2010	Government	Defacement	0	1
+Pakistan	India	2010	Government	Defacement	0	1
+India	Pakistan	2010	Government	Defacement	0	1
+Pakistan	India	2011	Government	Defacement	0	1
+Pakistan	India	2013	Military	Infiltration	0	1
+India	Pakistan	2013	Private	Infiltration	0	1
+Pakistan	India	2013	Military	Intrusion	0	1
+Pakistan	India	2014	Private	Defacement	0	1
+India	Pakistan	2014	Private	Defacement	0	1
+Pakistan	India	2015	Private	DDoS	0	1
+Pakistan	India	2016	Government	Intrusion	0	1
+Pakistan	India	2016	Military	Intrusion	0	1
+Pakistan	India	2016	Military	Defacement	0	1

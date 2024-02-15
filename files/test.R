@@ -1,0 +1,10 @@
+Sys.sleep(10)
+a <- 1
+Sys.sleep(10)
+Sys.sleep(10)
+print(1)
+Sys.sleep(10)
+print(2)
+Sys.sleep(10)
+print(3)
+save.image(file='test.RData')
