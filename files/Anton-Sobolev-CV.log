@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.21)  28 NOV 2024 11:10
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.21)  28 NOV 2024 16:08
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -520,8 +520,8 @@ Package rerunfilecheck Info: File `Anton-Sobolev-CV.out' has not changed.
 (rerunfilecheck)             Checksum: B505CC6DCA4ED34A151EC56920E4FF11;1465.
  ) 
 Here is how much of TeX's memory you used:
- 14935 strings out of 476025
- 233190 string characters out of 5790017
+ 14936 strings out of 476025
+ 233201 string characters out of 5790017
  1864388 words of memory out of 5000000
  34909 multiletter control sequences out of 15000+600000
  557474 words of font info for 231 fonts, out of 8000000 for 9000
@@ -531,6 +531,10 @@ Here is how much of TeX's memory you used:
 pdfTeX warning (dest): name{working} has been referenced but does not exist, re
 placed by a fixed one
 
+
+pdfTeX warning (dest): name{forthcoming} has been referenced but does not exist
+, replaced by a fixed one
+
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome/FontAwesome.
 pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></us
 r/local/texlive/2023/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/local/
@@ -539,10 +543,10 @@ xlive/2023/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive/2
 023/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2023/te
 xmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-dis
 t/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Anton-Sobolev-CV.pdf (3 pages, 152574 bytes).
+Output written on Anton-Sobolev-CV.pdf (3 pages, 152626 bytes).
 PDF statistics:
- 155 PDF objects out of 1000 (max. 8388607)
- 132 compressed objects within 2 object streams
- 29 named destinations out of 1000 (max. 500000)
+ 156 PDF objects out of 1000 (max. 8388607)
+ 133 compressed objects within 2 object streams
+ 30 named destinations out of 1000 (max. 500000)
  65633 words of extra memory for PDF output out of 74296 (max. 10000000)
 

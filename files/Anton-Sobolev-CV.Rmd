@@ -69,7 +69,7 @@ Higher School of Economics, Moscow
 
 ## Articles
 
-[**"Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0"**](https://doi.org/10.1017/S0003055420000295) in *PLoS One*, 2024, forthcoming (with Jessi Hanson-DeFusco, Abdul Stanekzai, Alexis McMaster, Hamid Popalzai, Heer Shah, Min Shi, and Nandita Kumar)
+[**"Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0"**](#forthcoming) in *PLoS One*, 2024, forthcoming (with Jessi Hanson-DeFusco, Abdul Stanekzai, Alexis McMaster, Hamid Popalzai, Heer Shah, Min Shi, and Nandita Kumar)
 
 [**"News and Geolocated Social Media Accurately Measure Protest Size Variation"**](https://doi.org/10.1017/S0003055420000295) in *American Political Science Review*, 2020, 114(4), 1343-1351 (with Keith Chen, Jungseock Joo, and Zachary Steinert-Threlkeld)
 
@@ -137,37 +137,39 @@ APSA (2021, 2018, 2016, 2014), MPSA (2022, 2018, 2017, 2014), Annual conference 
 
 **UT Dallas**, ***School of Economic, Political and Policy Sciences***
 
-\hskip 1cm  Political Violence and Conflict over Cyberspace (2022F)
+\hskip 1cm Conflict in Cyberspace ('22F-'24F)
 
-\hskip 1cm  Capstone in Cybersecurity and Policy (2022S)
+\hskip 1cm  Capstone in Cyber: Security and Policy ('22S-'25S)
 
-\hskip 1cm Cyber Policy (2021F)
+\hskip 1cm Open-Source Intelligence ('24S-'25S)
+
+\hskip 1cm Cyber Policy ('21F)
 
 **Yale University**, ***Department of Political Science***
 
-\hskip 1cm Big Data, AI, and Russian Politics (2020-21)
+\hskip 1cm Big Data, AI, and Russian Politics ('20,'21)
 
 **University of California, Los Angeles**, ***Anderson School of Business***
 
-\hskip 1cm Technology Analytics (MBA), with Prof. Keith Chen (2018)
+\hskip 1cm Technology Analytics (MBA), with Prof. Keith Chen ('18)
 
-\hskip 1cm Competitive Analytics (MSBA), with Prof. Keith Chen (2018)
+\hskip 1cm Competitive Analytics (MSBA), with Prof. Keith Chen ('18)
 
 **University of California, Los Angeles**, ***Department of Political Science***
 
-\hskip 1cm Politics and Government of Post-Communist Russia, with Prof. Daniel Treisman (2014-17)
+\hskip 1cm Politics and Government of Post-Communist Russia, with Prof. Daniel Treisman ('14-'17)
 
-\hskip 1cm Diversity, Disagreement, and Democracy, with Prof. Susanne Lohmann (2016)
+\hskip 1cm Diversity, Disagreement, and Democracy, with Prof. Susanne Lohmann ('16)
 
-\hskip 1cm Data Analysis, with Prof. Erin Hartman (2018)
+\hskip 1cm Data Analysis, with Prof. Erin Hartman ('18)
 
-\hskip 1cm Politics and Strategy, with Prof. Michael Chwe (2017)
+\hskip 1cm Politics and Strategy, with Prof. Michael Chwe ('17)
 
 **Higher School of Economics, Moscow**, ***Department of Political Science***
 
-\hskip 1cm Models of Risk in Politics and Economics (MA, 2012-13)
+\hskip 1cm Models of Risk in Politics and Economics (MA, '12-'13)
 
-\hskip 1cm Political Theory (2011-13)
+\hskip 1cm Political Theory ('11-'13)
 
 # SERVICE
 
