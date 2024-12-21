@@ -15,6 +15,38 @@ My work has been published in [_American Political Science Review_](https://doi.
 You can find my Google Scholar profile [here](https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en) and my CV [here](cv/).
 
 
+
+
+### INFORMATION CONTROL
+
+
+### Information Control
+
+**INFORMATION CONTROL**
+
+**Information Control**
+<div class="publication-list">
+  <div class="category">
+    <div class="category-header">■━┓ <span>Technology In the Protest</span></div>
+    <ul class="articles">
+      <li>┣━ Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies [’13]</li>
+      <li>┣━ Stability of Revolutionary Governments [’19]</li>
+      <li>┗━ News and Geolocated Social Media Accurately Measure Protest Size Variation [’20]</li>
+    </ul>
+  </div>
+  <div class="category">
+    <div class="category-header">■━┓ <span>Manipulation</span></div>
+    <ul class="articles">
+      <li>┣━ Fantastic Beasts and How To Find Them: Three Perspectives on Identification of Paid Political Trolls</li>
+      <li>┣━ Fantastic Beasts and Whether They Matter: Causal Effect of Paid Political Trolls on Online Discussions</li>
+      <li>┣━ Fantastic Beasts and Where They Lead: How Trolls Manipulate Search Engines</li>
+      <li>┣━ How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia</li>
+      <li>┗━ Backup for an Autocrat: The Subtle Art of Delayed Propaganda</li>
+    </ul>
+  </div>
+</div>
+
+
 <!--
 Prior to my appointment at Yale, I received my Ph.D. in Political Science and M.Sc. in Statistics from University of California, Los Angeles. Before coming to UCLA, I was a research fellow at the Center for the Study of Institutions and Development at Higher School of Economics in Moscow (2013-14).
 
