@@ -41,3 +41,59 @@
 @import "print";
 
 
+.publication-list {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  
+  .category {
+    margin-bottom: 20px;
+  }
+  
+  .category-header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+    font-weight: bold;
+  }
+  
+  .category-header::before {
+    content: '■━┓';
+    margin-right: 8px;
+    color: #444;
+    font-family: "Courier New", Courier, monospace; 
+  }
+  
+  .category-header span {
+    text-decoration: underline;
+  }
+  
+  .articles {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border-left: 2px solid #444;
+    padding-left: 10px;
+  }
+  
+  .articles li {
+    position: relative;
+    padding-left: 20px;
+    text-indent: -20px;
+    white-space: pre-wrap; /* Для переноса строк */
+  }
+  
+  .articles li::before {
+    content: attr(data-symbol);
+    position: absolute;
+    left: 0;
+    top: 0;
+    color: #444;
+  }
+  
+
+  .category-header::before {
+    content: '■━┓';
+    font-family: "Courier New", Courier, monospace; /* Для точной работы символов */
+  } 
