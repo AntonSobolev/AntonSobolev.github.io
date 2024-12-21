@@ -72,6 +72,18 @@ You can find my Google Scholar profile [here](https://scholar.google.com/citatio
 
 
 
+
+<ul class="articles">
+  <li><span class="line-symbol">┣━</span> Fantastic Beasts and How To Find Them: Three Perspectives on Identification of Paid Political Trolls</li>
+  <li><span class="line-symbol">┣━</span> Fantastic Beasts and Whether They Matter: Causal Effect of Paid Political Trolls on Online Discussions</li>
+  <li><span class="line-symbol">┣━</span> Fantastic Beasts and Where They Lead: How Trolls Manipulate Search Engines</li>
+  <li><span class="line-symbol">┣━</span> How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia</li>
+  <li><span class="line-symbol">┗━</span> Backup for an Autocrat: The Subtle Art of Delayed Propaganda</li>
+</ul>
+
+
+
+
 <!--
 Prior to my appointment at Yale, I received my Ph.D. in Political Science and M.Sc. in Statistics from University of California, Los Angeles. Before coming to UCLA, I was a research fellow at the Center for the Study of Institutions and Development at Higher School of Economics in Moscow (2013-14).
 
