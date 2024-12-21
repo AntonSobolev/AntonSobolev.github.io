@@ -90,10 +90,20 @@
     left: 0;
     top: 0;
     color: #444;
+    font-family: "Courier New", Courier, monospace; 
+  }
+
+
+  .line-symbol {
+    display: inline-block;
+    width: 2em; /* Same width for alignment */
+    text-align: right; /* Aligns symbols to the right */
+    font-family: "Courier New", Courier, monospace;
+    color: #444;
   }
   
-
-  .category-header::before {
-    content: '■━┓';
-    font-family: "Courier New", Courier, monospace; /* Для точной работы символов */
-  } 
+  .line-symbol.last-symbol {
+    color: #000; /* Optional: Different color for the last item */
+    font-weight: bold; /* Optional: Make it stand out */
+  }
+  
