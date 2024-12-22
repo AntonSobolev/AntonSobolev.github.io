@@ -20,86 +20,26 @@ redirect_from:
   }
 </style>
 
-.folder-tree i {
-  margin-right: 0.25em;
-  font-size: 1em;
-}
-
-.folder-tree ul {
-  border-left: 1px solid black;
-  padding-left: 0;
-  text-indent: 0;
-  margin-left: calc(16px + 1.25em / 2 - 1px);
-  list-style: none;
-}
-
-.folder-tree ul:first-child {
-  margin-left: 0;
-  border-left: 0;
-}
-
-.folder-tree li ul {
-  margin-top: -0.30em;
-}
-
-.folder-tree li ul li:first-child {
-  padding-top: 0.30em;
-}
-
-.folder-tree li:before {
-  content: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' width='16' height='16' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='rgba%280,0,0,1%29' stroke-linecap='round' stroke-linejoin='round' stroke-width='1' d='m 0,8 16,0'/%3e%3c/svg%3e");
-}
-
-.folder-tree li.folder {
-  margin-bottom: 4px;
-}
-
-.folder-tree li span.folder {
-  font-weight: 600;
-}
-
-
-
-
-
-
 
 
 # Research Agenda
-
-## Research Agenda
-
-### Research Agenda
-
-#### Research Agenda
-
-**Research Agenda**
 
 ▨ Under Press <span style="color:limegreen;">▨ Under Review </span> ▨ Under Construction
 
 <pre>
 
-Information Control and Contentious Politics
-
+**Information Control and Contentious Politics**
 ■━┓ [Technology & Protest]
-  <span class="chain-indent">
-  ┣━**[’13]** Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies
-  </span>
-
-
-<span style="color:limegreen;">      </span>┃  Problems of Post-Communism, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva)
-
-&nbsp;&nbsp;┣━**[’19]** Stability of Revolutionary Governments In The Face of Mass Protest
-
-┃  European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva)
-
-┣━**[’20]** News and Geolocated Social Media Accurately Measure Protest Size Variation
-
-┗━**[   ]** Protest Fragmentation
+  ┣━ **[’13]** Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies
+  ┃  Problems of Post-Communism, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva)
+  ┣━ **[’19]** Stability of Revolutionary Governments In The Face of Mass Protest
+  ┃  European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva)
+  ┣━ **[’20]** News and Geolocated Social Media Accurately Measure Protest Size Variation
+  ┗━ **[   ]** Protest Fragmentation
 
 ■━┓ [Information Manipulation]
 
-┣━**[   ]**  Fantastic Beasts and How To Find Them: Three Perspectives on Identification of Paid Political Trolls
+┣━**[   ] ** <span style="color:lawngreen;">  Fantastic Beasts and How To Find Them: Three Perspectives on Identification of Paid Political Trolls </span>
 
 ┣━**[   ]**  Fantastic Beasts and Whether They Matter: Causal Effect of Paid Political Trolls on Online Discussions
 
