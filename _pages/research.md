@@ -110,6 +110,19 @@ Political Economy & Economics
 </ul>
 
 
+.folder-tree {
+    font-family: 'Courier New', monospace;
+}
+
+
+{{ $content := .Inner | markdownify }}
+<div class="folder-tree">
+{{ (replaceRE `<li>([^<>]+)::([^<> ]+)` "<li class='$2'><i class='far fa-$2 fa-fw'></i><span class='$2'>$1</span>" $content) | safeHTML }}
+</div>
+
+
+
+
 {{< tree >}}
 - home::folder
   - .config::folder
