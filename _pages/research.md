@@ -26,9 +26,10 @@ redirect_from:
 
 ▨ Under Press <span style="color:green;">▨ Under Review </span> ▨ Under Construction
 
-<pre>
+
 
 **Information Control and Contentious Politics**
+<pre>
 ■━┓ [Technology & Protest]
   ┣━ **[’13]** Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies
   ┃  Problems of Post-Communism, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva)
@@ -39,17 +40,12 @@ redirect_from:
 
 ■━┓ [Information Manipulation]
   ┣━ **[   ]** <span style="color:green;">  Fantastic Beasts and How To Find Them: Three Perspectives on Identification of Paid Political Trolls </span>
-
-┣━**[   ]**  Fantastic Beasts and Whether They Matter: Causal Effect of Paid Political Trolls on Online Discussions
-
-┣━**[   ]**  Fantastic Beasts and Where They Lead: How Trolls Manipulate Search Engines
-
-┣━**[   ]**  How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia
-
-┗━**[   ]**  Backup for an Autocrat: A Subtle Art of Delayed Propaganda
-
-Cyber Policy & Security
-
+  ┣━**[   ]**  Fantastic Beasts and Whether They Matter: Causal Effect of Paid Political Trolls on Online Discussions
+  ┣━**[   ]**  Fantastic Beasts and Where They Lead: How Trolls Manipulate Search Engines
+  ┣━**[   ]**  How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia
+  ┗━**[   ]**  Backup for an Autocrat: A Subtle Art of Delayed Propaganda
+</pre>
+Cyber Policy & Security**
 ■━┓
 
 ┣━**[   ]** The Last Call for Authenticity: AI Reshaping Voice Fraud Landscape
