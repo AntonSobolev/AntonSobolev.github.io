@@ -38,8 +38,7 @@ redirect_from:
   ┗━ **[   ]** Protest Fragmentation
 
 ■━┓ [Information Manipulation]
-
-┣━**[   ] ** <span style="color:lawngreen;">  Fantastic Beasts and How To Find Them: Three Perspectives on Identification of Paid Political Trolls </span>
+  ┣━ **[   ]** <span style="color:lawngreen;">  Fantastic Beasts and How To Find Them: Three Perspectives on Identification of Paid Political Trolls </span>
 
 ┣━**[   ]**  Fantastic Beasts and Whether They Matter: Causal Effect of Paid Political Trolls on Online Discussions
 
