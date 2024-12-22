@@ -29,14 +29,14 @@ redirect_from:
 
 
 **Information Control and Contentious Politics**
-<pre>
+
 ■━┓ [Technology & Protest]
-  ┣━ **[’13]** Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies
-  ┃  Problems of Post-Communism, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva)
-  ┣━ **[’19]** Stability of Revolutionary Governments In The Face of Mass Protest
-  ┃  European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva)
-  ┣━ **[’20]** News and Geolocated Social Media Accurately Measure Protest Size Variation
-  ┗━ **[   ]** Protest Fragmentation
+<pre> </pre>  ┣━ **[’13]** Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies
+<pre> </pre>  ┃  Problems of Post-Communism, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva)
+<pre> </pre>  ┣━ **[’19]** Stability of Revolutionary Governments In The Face of Mass Protest
+<pre> </pre>  ┃  European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva)
+<pre> </pre>  ┣━ **[’20]** News and Geolocated Social Media Accurately Measure Protest Size Variation
+<pre> </pre>  ┗━ **[   ]** Protest Fragmentation
 
 ■━┓ [Information Manipulation]
   ┣━ **[   ]** <span style="color:green;">  Fantastic Beasts and How To Find Them: Three Perspectives on Identification of Paid Political Trolls </span>
@@ -44,7 +44,7 @@ redirect_from:
   ┣━**[   ]**  Fantastic Beasts and Where They Lead: How Trolls Manipulate Search Engines
   ┣━**[   ]**  How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia
   ┗━**[   ]**  Backup for an Autocrat: A Subtle Art of Delayed Propaganda
-</pre>
+
 
 
 
