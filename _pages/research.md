@@ -39,6 +39,8 @@ redirect_from:
 
 ▨ Under Press <span style="color:limegreen;">▨ Under Review </span> ▨ Under Construction
 
+<pre>
+
 Information Control and Contentious Politics
 
 ■━┓ [Technology & Protest]
@@ -102,7 +104,7 @@ Political Economy & Economics
 ┗━ [’14] Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia
 
 
-
+</pre>
 
 
 
