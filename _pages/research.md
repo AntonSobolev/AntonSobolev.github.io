@@ -24,15 +24,15 @@ redirect_from:
 
 # Research Agenda
 
-▨ Under Press <span style="color:green;">▨ Under Review </span> ▨ Under Construction
+▨ Under Press <span style="color:green;"> ▨ Under Review </span> <span style="color:gray;"> ▨ Under Construction
 
 
 
 **Information Control and Contentious Politics**
 
 ■━┓ [Technology & Protest]
-<pre> </pre>  ┣━ **[’13]** Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies
-<pre> </pre>  ┃  Problems of Post-Communism, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva)
+  ┣━ **[’13]** Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies
+┃  Problems of Post-Communism, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva)
 <pre> </pre>  ┣━ **[’19]** Stability of Revolutionary Governments In The Face of Mass Protest
 <pre> </pre>  ┃  European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva)
 <pre> </pre>  ┣━ **[’20]** News and Geolocated Social Media Accurately Measure Protest Size Variation
@@ -40,88 +40,14 @@ redirect_from:
 
 ■━┓ [Information Manipulation]
   ┣━ **[   ]** <span style="color:green;">  Fantastic Beasts and How To Find Them: Three Perspectives on Identification of Paid Political Trolls </span>
-  ┣━**[   ]**  Fantastic Beasts and Whether They Matter: Causal Effect of Paid Political Trolls on Online Discussions
-  ┣━**[   ]**  Fantastic Beasts and Where They Lead: How Trolls Manipulate Search Engines
-  ┣━**[   ]**  How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia
-  ┗━**[   ]**  Backup for an Autocrat: A Subtle Art of Delayed Propaganda
+  ┣━ **[   ]**  Fantastic Beasts and Whether They Matter: Causal Effect of Paid Political Trolls on Online Discussions
+  ┣━ **[   ]**  Fantastic Beasts and Where They Lead: How Trolls Manipulate Search Engines
+  ┣━ **[   ]**  How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia
+  ┗━ **[   ]**  Backup for an Autocrat: A Subtle Art of Delayed Propaganda
 
 
 
-
-{{ $content := .Inner | markdownify }}
 <div class="folder-tree">
-{{ (replaceRE `<li>([^<>]+)::([^<> ]+)` "<li class='$2'><i class='fas fa-$2 fa-fw'></i><span class='$2'>$1</span>" $content) | safeHTML }}
-</div>
-
-**Cyber Policy & Security**
-
-■━┓
-
-┣━**[   ]** The Last Call for Authenticity: AI Reshaping Voice Fraud Landscape
-
-┣━**[   ]** Fortresses Without Borders: The Limits of Monopolization of Cyber Coercion
-
-┣━**[   ]** Another Breach In The FireWall: How Digital Transparency Brings New Cyber Risks city authorities 
-
-┣━**[   ]** Hacking The Ivory Tower: Understanding Cyber Attacks Against Social Sciences [?] [2]
-
-┗━**[   ]** Searching Digital Footnotes: Data in Cyber Security [D30] [3]
-
-Mental Disorders in Humans & Machines
-
-■━┳━**[’24]** Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0
-
-┣━**[   ]** Low Battery: Mental Health Correlates of Charging Habits [D31]
-
-┣━**[   ]** Artificial VS Natural Intelligence [5]
-
-┗━**[   ]** Reversal of Misfortunes: How Covid-19 Changed the Attitudes Toward Behavioral Disorders
-
-Political Economy & Economics
-
-■━┳━ [’13] Social and Economic Policy Trade-Offs in the Russian Regions: Evidence from Four Case Studies
-
-┣━ [’14] Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State?
-
-┗━ [’14] Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia
-
-
-</pre>
-
-
-
-<ul class="chain-list">
-  <li>■━┓ [Technology & Protest]
-    <ul>
-      <li><strong>[’13]</strong> Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies
-        <ul>
-          <li><em>Problems of Post-Communism</em>, 2013, 60(2): 24-39 (with R. Smyth and I. Soboleva)</li>
-        </ul>
-      </li>
-      <li><strong>[’19]</strong> Stability of Revolutionary Governments In The Face of Mass Protest
-        <ul>
-          <li><em>European Journal of Political Economy</em>, 2019, 60(2): 24-39 (with R. Smyth and I. Soboleva)</li>
-        </ul>
-      </li>
-      <li><strong>[’20]</strong> News and Geolocated Social Media Accurately Measure Protest Size Variation</li>
-      <li><strong>[   ]</strong> Protest Fragmentation</li>
-    </ul>
-  </li>
-</ul>
-
-
-.folder-tree {
-    font-family: 'Courier New', monospace;
-}
-
-
-{{ $content := .Inner | markdownify }}
-<div class="folder-tree">
-{{ (replaceRE `<li>([^<>]+)::([^<> ]+)` "<li class='$2'><i class='far fa-$2 fa-fw'></i><span class='$2'>$1</span>" $content) | safeHTML }}
-</div>
-
-
-
 
 {{< tree >}}
 - 1
@@ -130,6 +56,14 @@ Political Economy & Economics
     - 3
     - 3
 {{</ tree >}}
+
+
+  
+{{ (replaceRE `<li>([^<>]+)::([^<> ]+)` "<li class='$2'><i class='far fa-$2 fa-fw'></i><span class='$2'>$1</span>" $content) | safeHTML }}
+</div>
+
+
+
 
 
 
@@ -209,7 +143,6 @@ Social media platforms, national governments, and academics develop sophisticate
 <iframe src="/files/Anton-Sobolev-CV.pdf" width="125%" height="700px"></iframe>
 </div>
 
--->
 
 <li><p>Had an arrival delay of two or more hours</p>
 <div class="tutorial-exercise" data-label="filterex1" data-completion="1" data-diagnostics="1" data-startover="1" data-lines="0">
@@ -225,3 +158,9 @@ Social media platforms, national governments, and academics develop sophisticate
 
 
 <script type="text/javascript" src="//cdn.datacamp.com/dcl-react.js.gz"></script>
+
+
+
+-->
+
+
