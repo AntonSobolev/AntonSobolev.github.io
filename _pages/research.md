@@ -43,13 +43,11 @@ Information Control and Contentious Politics
 
 ■━┓ [Technology & Protest]
   <span class="chain-indent">
-\t\t\t\t\t \s  ┣━**[’13]** Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies
+  ┣━**[’13]** Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies
   </span>
 
 
-&nbsp;&nbsp;┣━**[’13]** Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies
-
-&nbsp;&nbsp;┃  Problems of Post-Communism, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva)
+<span style="color:limegreen;">      </span>┃  Problems of Post-Communism, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva)
 
 &nbsp;&nbsp;┣━**[’19]** Stability of Revolutionary Governments In The Face of Mass Protest
 
