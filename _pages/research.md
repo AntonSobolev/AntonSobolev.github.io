@@ -106,7 +106,24 @@ Political Economy & Economics
 
 
 
-
+<ul class="chain-list">
+  <li>■━┓ [Technology & Protest]
+    <ul>
+      <li><strong>[’13]</strong> Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies
+        <ul>
+          <li><em>Problems of Post-Communism</em>, 2013, 60(2): 24-39 (with R. Smyth and I. Soboleva)</li>
+        </ul>
+      </li>
+      <li><strong>[’19]</strong> Stability of Revolutionary Governments In The Face of Mass Protest
+        <ul>
+          <li><em>European Journal of Political Economy</em>, 2019, 60(2): 24-39 (with R. Smyth and I. Soboleva)</li>
+        </ul>
+      </li>
+      <li><strong>[’20]</strong> News and Geolocated Social Media Accurately Measure Protest Size Variation</li>
+      <li><strong>[   ]</strong> Protest Fragmentation</li>
+    </ul>
+  </li>
+</ul>
 
 
 
