@@ -45,7 +45,16 @@ redirect_from:
   ┣━**[   ]**  How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia
   ┗━**[   ]**  Backup for an Autocrat: A Subtle Art of Delayed Propaganda
 </pre>
-Cyber Policy & Security**
+
+
+
+{{ $content := .Inner | markdownify }}
+<div class="folder-tree">
+{{ (replaceRE `<li>([^<>]+)::([^<> ]+)` "<li class='$2'><i class='fas fa-$2 fa-fw'></i><span class='$2'>$1</span>" $content) | safeHTML }}
+</div>
+
+**Cyber Policy & Security**
+
 ■━┓
 
 ┣━**[   ]** The Last Call for Authenticity: AI Reshaping Voice Fraud Landscape
