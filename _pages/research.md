@@ -22,6 +22,88 @@ redirect_from:
 
 
 
+Research Agenda
+
+▨ Under Press <span style="color:444">▨ Under Review </span> ▨ Under Construction
+
+Information Control and Contentious Politics
+
+■━┓ [Technology & Protest]
+
+  ┣━**[’13]** Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies
+
+  ┃  Problems of Post-Communism, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva)
+
+  ┣━**[’19]** Stability of Revolutionary Governments In The Face of Mass Protest
+
+┃  European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva)
+
+┣━**[’20]** News and Geolocated Social Media Accurately Measure Protest Size Variation
+
+┗━**[   ]** Protest Fragmentation
+
+■━┓ [Information Manipulation]
+
+┣━**[   ]**  Fantastic Beasts and How To Find Them: Three Perspectives on Identification of Paid Political Trolls
+
+┣━**[   ]**  Fantastic Beasts and Whether They Matter: Causal Effect of Paid Political Trolls on Online Discussions
+
+┣━**[   ]**  Fantastic Beasts and Where They Lead: How Trolls Manipulate Search Engines
+
+┣━**[   ]**  How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia
+
+┗━**[   ]**  Backup for an Autocrat: A Subtle Art of Delayed Propaganda
+
+Cyber Policy & Security
+
+■━┓
+
+┣━**[   ]** The Last Call for Authenticity: AI Reshaping Voice Fraud Landscape
+
+┣━**[   ]** Fortresses Without Borders: The Limits of Monopolization of Cyber Coercion
+
+┣━**[   ]** Another Breach In The FireWall: How Digital Transparency Brings New Cyber Risks city authorities 
+
+┣━**[   ]** Hacking The Ivory Tower: Understanding Cyber Attacks Against Social Sciences [?] [2]
+
+┗━**[   ]** Searching Digital Footnotes: Data in Cyber Security [D30] [3]
+
+Mental Disorders in Humans & Machines
+
+■━┳━**[’24]** Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0
+
+┣━**[   ]** Low Battery: Mental Health Correlates of Charging Habits [D31]
+
+┣━**[   ]** Artificial VS Natural Intelligence [5]
+
+┗━**[   ]** Reversal of Misfortunes: How Covid-19 Changed the Attitudes Toward Behavioral Disorders
+
+Political Economy & Economics
+
+■━┳━ [’13] Social and Economic Policy Trade-Offs in the Russian Regions: Evidence from Four Case Studies
+
+┣━ [’14] Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State?
+
+┗━ [’14] Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 ## Works in Progress
 
