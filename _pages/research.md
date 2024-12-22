@@ -24,7 +24,7 @@ redirect_from:
 
 # Research Agenda
 
-▨ Under Press <span style="color:limegreen;">▨ Under Review </span> ▨ Under Construction
+▨ Under Press <span style="color:green;">▨ Under Review </span> ▨ Under Construction
 
 <pre>
 
@@ -38,7 +38,7 @@ redirect_from:
   ┗━ **[   ]** Protest Fragmentation
 
 ■━┓ [Information Manipulation]
-  ┣━ **[   ]** <span style="color:lawngreen;">  Fantastic Beasts and How To Find Them: Three Perspectives on Identification of Paid Political Trolls </span>
+  ┣━ **[   ]** <span style="color:green;">  Fantastic Beasts and How To Find Them: Three Perspectives on Identification of Paid Political Trolls </span>
 
 ┣━**[   ]**  Fantastic Beasts and Whether They Matter: Causal Effect of Paid Political Trolls on Online Discussions
 
