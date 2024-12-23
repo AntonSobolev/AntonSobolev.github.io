@@ -22,27 +22,19 @@ redirect_from:
 
 
 
-<center>
 
                                 ▨ Under Press
 <span style="color:CadetBlue;"> ▨ Under Review      </span> 
 <span style="color:gray;">      ▨ Under Construction</span> 
 
-</center>
-
 <br>
 <br>
 
 
-<fon>
+**Information Control and Contentious Politics** <br>
 
-
-Information Control and Contentious Politics <br>
 
 <p style="font-family:'Courier New'">
-
-Information Control and Contentious Politics
-
  ■━┓ [Technology & Protest] 
 
    ┣━[’13] Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies 
@@ -56,6 +48,8 @@ Information Control and Contentious Politics
    ┣━[’20] News and Geolocated Social Media Accurately Measure Protest Size Variation 
 
    ┗━[   ] Protest Fragmentation
+
+</p>
 
  ■━┓ [Information Manipulation]
 
