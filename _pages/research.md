@@ -23,7 +23,11 @@ redirect_from:
 
 
 <center>
-▨ Under Press <span style="color:CadetBlue;"> ▨ Under Review </span> <span style="color:gray;"> ▨ Under Construction
+
+                                ▨ Under Press
+<span style="color:CadetBlue;"> ▨ Under Review      </span> 
+<span style="color:gray;">      ▨ Under Construction</span> 
+
 </center>
 
 
