@@ -37,7 +37,7 @@ redirect_from:
 <fon>
 
 
-<p style="font-family:'Courier New'">This is another paragraph.</p>
+<p style="font-family:'Courier New'">
 
 
 
@@ -58,7 +58,9 @@ redirect_from:
   ┣━ **[   ]**  Fantastic Beasts and Where They Lead: How Trolls Manipulate Search Engines
   ┣━ **[   ]**  How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia
   ┗━ **[   ]**  Backup for an Autocrat: A Subtle Art of Delayed Propaganda
-```
+
+
+</p>
 
 
 
