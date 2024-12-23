@@ -73,10 +73,6 @@ redirect_from:
 
 
 
-
-
-
-
 ## Works in Progress
 
 [**“Smile! You're on camera: Protest, Digital Surveilance and Citizen Intimidation”**](#InProgress) 
