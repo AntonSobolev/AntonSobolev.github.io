@@ -41,37 +41,6 @@
 @import "print";
 
 
-ull {
-  padding: 0;
-  margin: 0;
-  list-style-type: none;
-  position: relative;
-}
-lii {
-  list-style-type: none;
-  border-left: 2px solid #000;
-  margin-left: 1em;
-}
-lii div {
-  padding-left: 1em;
-  position: relative;
-}
-lii div::before {
-  content:'';
-  position: absolute;
-  top: 0;
-  left: -2px;
-  bottom: 50%;
-  width: 0.75em;
-  border: 2px solid #000;
-  border-top: 0 none transparent;
-  border-right: 0 none transparent;
-}
-ull > lii:last-child {
-  border-left: 2px solid transparent;
-}
-  
-  
 
 
 
