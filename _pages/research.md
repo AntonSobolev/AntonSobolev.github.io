@@ -55,32 +55,14 @@ redirect_from:
 <pre> </pre>  ┣━ **[’20]** News and Geolocated Social Media Accurately Measure Protest Size Variation
 <pre> </pre>  ┗━ **[   ]** Protest Fragmentation
 
+```
 ■━┓ [Information Manipulation]
   ┣━ **[   ]** <span style="color:green;">  Fantastic Beasts and How To Find Them: Three Perspectives on Identification of Paid Political Trolls </span>
   ┣━ **[   ]**  Fantastic Beasts and Whether They Matter: Causal Effect of Paid Political Trolls on Online Discussions
   ┣━ **[   ]**  Fantastic Beasts and Where They Lead: How Trolls Manipulate Search Engines
   ┣━ **[   ]**  How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia
   ┗━ **[   ]**  Backup for an Autocrat: A Subtle Art of Delayed Propaganda
-
-
-
-<div class="folder-tree">
-
-{{< tree >}}
-- 1
-  - 2
-  - 2
-    - 3
-    - 3
-{{</ tree >}}
-
-
-
-{{ (replaceRE `<li>([^<>]+)::([^<> ]+)` "<li class='$2'><i class='far fa-$2 fa-fw'></i><span class='$2'>$1</span>" $content) | safeHTML }}
-</div>
-
-
-
+```
 
 
 
