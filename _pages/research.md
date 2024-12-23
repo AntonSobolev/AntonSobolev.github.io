@@ -34,9 +34,14 @@ redirect_from:
 <br>
 
 
+<fon>
 
 
-**Information Control and Contentious Politics**
+<p style="font-family:'Courier New'">This is another paragraph.</p>
+
+
+
+**Information Control and Contentious Politics** <br>
 ■┓ [Technology & Protest] <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ┃  Problems of Post-Communism, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ┣━ **[’13]** Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies <br>
