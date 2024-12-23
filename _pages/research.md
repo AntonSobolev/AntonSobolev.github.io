@@ -35,19 +35,13 @@ redirect_from:
 
 
 <p style="font-family:'Courier New'">
- ■━┓ [Technology & Protest] 
-
-   ┣━[’13] Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies 
-
-   ┃  *Problems of Post-Communism*, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) 
-
-   ┣━[’19] Stability of Revolutionary Governments In The Face of Mass Protest
-
-   ┃  European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) 
-
-   ┣━[’20] News and Geolocated Social Media Accurately Measure Protest Size Variation 
-
-   ┗━[   ] Protest Fragmentation
+             ■━┓ [Technology & Protest] 
+ &nbsp;&nbsp;  ┣━[’13] Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies 
+ &nbsp;&nbsp;  ┃  *Problems of Post-Communism*, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) 
+ &nbsp;&nbsp;  ┣━[’19] Stability of Revolutionary Governments In The Face of Mass Protest
+ &nbsp;&nbsp;  ┃  European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) 
+ &nbsp;&nbsp;  ┣━[’20] News and Geolocated Social Media Accurately Measure Protest Size Variation 
+ &nbsp;&nbsp;  ┗━[   ] Protest Fragmentation
 
 </p>
 
