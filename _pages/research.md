@@ -27,6 +27,23 @@ redirect_from:
 ▨ Under Press <span style="color:green;"> ▨ Under Review </span> <span style="color:gray;"> ▨ Under Construction
 
 
+<ul>
+  <li><div>Level 1</div></li>
+  <li><div>Level 1</div>
+    <ul>
+      <li><div>Level 2</div></li>
+      <li><div>Level 2</div>
+        <ul>
+          <li><div>Level 3</div></li>
+          <li><div>Level 3</div></li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li><div>Level 1</div></li>
+</ul>
+
+
 
 **Information Control and Contentious Politics**
 
@@ -58,7 +75,7 @@ redirect_from:
 {{</ tree >}}
 
 
-  
+
 {{ (replaceRE `<li>([^<>]+)::([^<> ]+)` "<li class='$2'><i class='far fa-$2 fa-fw'></i><span class='$2'>$1</span>" $content) | safeHTML }}
 </div>
 
