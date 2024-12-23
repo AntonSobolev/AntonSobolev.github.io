@@ -23,9 +23,9 @@ redirect_from:
 
 
 # Research Agenda
-
-▨ Under Press <span style="color:green;"> ▨ Under Review </span> <span style="color:gray;"> ▨ Under Construction
-
+<center>
+▨ Under Press <span style="color:CadetBlue;"> ▨ Under Review </span> <span style="color:gray;"> ▨ Under Construction
+</center>
 
 <ull>
   <lii><div>Level 1</div></lii>
