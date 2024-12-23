@@ -35,12 +35,10 @@ redirect_from:
 
 **Information Control and Contentious Politics**
 
-■━┓ [Technology & Protest]
-
-&nbsp;&nbsp;&nbsp;&nbsp; ┃  Problems of Post-Communism, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva)
-&nbsp;&nbsp;&nbsp;&nbsp;  ┣━ **[’13]** Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies
-
-&nbsp;&nbsp;&nbsp;&nbsp; ┗━ **[   ]** Protest Fragmentation
+■━┓ [Technology & Protest] <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ┃  Problems of Post-Communism, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ┣━ **[’13]** Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ┗━ **[   ]** Protest Fragmentation
 
 
 
