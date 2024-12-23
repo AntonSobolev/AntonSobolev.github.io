@@ -30,25 +30,24 @@ redirect_from:
 
 </center>
 
+<br>
+<br>
+
 
 
 
 **Information Control and Contentious Politics**
-
-■━┓ [Technology & Protest] <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ┃  Problems of Post-Communism, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva)
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ┣━ **[’13]** Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ┗━ **[   ]** Protest Fragmentation
-
+■┓ [Technology & Protest] <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ┃  Problems of Post-Communism, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ┣━ **[’13]** Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ┗━ **[   ]** Protest Fragmentation  <br>
 
 
-<pre> </pre>  ┣━ **[’19]** Stability of Revolutionary Governments In The Face of Mass Protest
-<pre> </pre>  ┃  European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva)
-<pre> </pre>  ┣━ **[’20]** News and Geolocated Social Media Accurately Measure Protest Size Variation
-<pre> </pre> 
-
-```
-■━┓ [Information Manipulation]
+■
+┣━ **[’19]** Stability of Revolutionary Governments In The Face of Mass Protest  <br>
+┃  European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva)  <br>
+┣━ **[’20]** News and Geolocated Social Media Accurately Measure Protest Size Variation
+━┓ [Information Manipulation]
   ┣━ **[   ]** <span style="color:green;">  Fantastic Beasts and How To Find Them: Three Perspectives on Identification of Paid Political Trolls </span>
   ┣━ **[   ]**  Fantastic Beasts and Whether They Matter: Causal Effect of Paid Political Trolls on Online Discussions
   ┣━ **[   ]**  Fantastic Beasts and Where They Lead: How Trolls Manipulate Search Engines
