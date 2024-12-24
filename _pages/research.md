@@ -37,7 +37,7 @@ redirect_from:
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br> 
 <b>&nbsp;&nbsp;┣━[’20]</b> News and Geolocated Social Media Accurately Measure Protest Size Variation <br>
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br> 
-<b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;]</b> Protest Fragmentation <br> 
+<b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Protest Fragmentation <br> 
 
 <br> 
 
