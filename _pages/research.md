@@ -26,7 +26,7 @@ redirect_from:
 ▨ Under Press <span style="color:CadetBlue;"> ▨ Under Review </span>  <span style="color:gray;">      ▨ Under Construction</span> 
 
 
-### Information Control and Contentious Politics
+**Information Control and Contentious Politics** <br>
 
 
 <p style="font-family:'Courier New'; white-space: nowrap;">
