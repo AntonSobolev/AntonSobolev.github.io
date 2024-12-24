@@ -76,22 +76,22 @@ Let’s explore this together!
 
 <b>          ■━┓</b> <br> 
 <b>&nbsp;&nbsp;┣━[   ]</b> The Last Call for Authenticity: AI Reshaping Voice Fraud Landscape <br>
-<b>&nbsp;&nbsp;┣━[   ]</b> Fortresses Without Borders: The Limits of Monopolization of Cyber Coercion
-<b>&nbsp;&nbsp;┣━[   ]</b> Another Breach In The FireWall: How Digital Transparency Brings New Cyber Risks city authorities
-<b>&nbsp;&nbsp;┣━[   ]</b> Hacking The Ivory Tower: Understanding Cyber Attacks Against Social Sciences 
-<b>&nbsp;&nbsp;┗━[   ]</b> Searching Digital Footnotes: Data in Cyber Security
+<b>&nbsp;&nbsp;┣━[   ]</b> Fortresses Without Borders: The Limits of Monopolization of Cyber Coercion <br>
+<b>&nbsp;&nbsp;┣━[   ]</b> Another Breach In The FireWall: How Digital Transparency Brings New Cyber Risks city authorities <br>
+<b>&nbsp;&nbsp;┣━[   ]</b> Hacking The Ivory Tower: Understanding Cyber Attacks Against Social Sciences  <br>
+<b>&nbsp;&nbsp;┗━[   ]</b> Searching Digital Footnotes: Data in Cyber Security <br>
 </p>
 
 ### Cognitive Exploits in Humans & Machines
 
 <p style="font-family:'Courier New'; white-space: nowrap;">
 <b>          ■━┓</b> <br>
-<b>&nbsp;&nbsp;┣━[’24] Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0
+<b>&nbsp;&nbsp;┣━[’24]</b> Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0 <br>
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>   <br> 
 <span style="color:#6F6F6F;">
-<b>&nbsp;&nbsp;┣━[   ] Low Battery: Mental Health Correlates of Charging Habits [D31]
-<b>&nbsp;&nbsp;┣━[   ] Artificial VS Natural Intelligence [5]
-<b>&nbsp;&nbsp;┗━[   ] Reversal of Misfortunes: How Covid-19 Changed the Attitudes Toward Behavioral Disorders
+<b>&nbsp;&nbsp;┣━[   ]</b> Low Battery: Mental Health Correlates of Charging Habits [D31] <br>
+<b>&nbsp;&nbsp;┣━[   ]</b> Artificial VS Natural Intelligence [5] <br>
+<b>&nbsp;&nbsp;┗━[   ]</b> Reversal of Misfortunes: How Covid-19 Changed the Attitudes Toward Behavioral Disorders <br>
 </span>
 </p>
 
@@ -100,11 +100,11 @@ Let’s explore this together!
 <p style="font-family:'Courier New'; white-space: nowrap;">
 
 <b>          ■━┓</b> <br>
-<b>&nbsp;&nbsp;┣━ [’13]</b> Social and Economic Policy Trade-Offs in the Russian Regions: Evidence from Four Case Studies
+<b>&nbsp;&nbsp;┣━ [’13]</b> Social and Economic Policy Trade-Offs in the Russian Regions: Evidence from Four Case Studies <br>
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>   <br> 
-<b>&nbsp;&nbsp;┣━ [’14]</b> Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State?
+<b>&nbsp;&nbsp;┣━ [’14]</b> Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State? <br>
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>   <br> 
-<b>&nbsp;&nbsp;┗━ [’14]</b> Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia
+<b>&nbsp;&nbsp;┗━ [’14]</b> Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia <br>
 <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>   <br> 
 </p>
 
