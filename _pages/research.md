@@ -23,7 +23,7 @@ redirect_from:
 
 
 
-▨ Under Press <span style="color:CadetBlue;"> ▨ Under Review </span>  <span style="color:gray;">      ▨ Under Construction</span> 
+▨ Under Press <span style="color:CadetBlue;"> ▨ Under Review </span>  <span style="color:gray;"> ▨ Under Construction</span> 
 
 
 **Information Control and Contentious Politics** <br>
@@ -39,15 +39,19 @@ redirect_from:
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br> 
 <b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;]</b> Protest Fragmentation <br> 
 
- <br> 
+<br> 
 
-<b>         ■━┓ [Information Manipulation]</b> <br>
+<b>          ■━┓ [Information Manipulation]</b> <br>
+<span style="color:CadetBlue;">
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and How To Find Them:   <br>
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> Three Perspectives on Identification of Paid Political Trolls <br>
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and Whether They Matter: Causal Effect of Paid Political Trolls on Online Discussions  <br>
+</span>
+<span style="color:gray;">
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and Where They Lead: How Trolls Manipulate Search Engines  <br>
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia  <br>
 <b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b>  Backup for an Autocrat: A Subtle Art of Delayed Propaganda  <br>
+</span>
 
 </p>
 
