@@ -21,6 +21,11 @@ redirect_from:
 </style>
 
 
+
+
+
+<!--
+
 I am an Assistant Professor at the University of Texas at Dallas, where my research spans four interconnected fields: contentious politics, information manipulation, cybersecurity, and behavioral science. Together, they form a framework for understanding the evolving logic of coercion, persuasion, and vulnerability in the digital age.
 
 At the heart of my inquiry lies a question: What is cyberspace, and how does it redefine the boundaries between information and the physical world? Can we adapt the classic ideas of Weber, Tilly, and Olson—about monopolies on coercion—to a reality where power is diffused across networks of data and algorithms? These theoretical puzzles guide my exploration of how autocracies, states, and other actors manipulate information flows to enforce control in an era where distinguishing truth from fiction has become prohibitively expensive for the average person.
@@ -113,7 +118,8 @@ Let’s explore this together!
 
 
 
-<!--
+
+
 
 [“Black Markets, Red Square: How the Kremlin Utilizes Darknet for Its Cyberpolicy”](#InProgress) 
 
