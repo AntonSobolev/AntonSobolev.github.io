@@ -55,6 +55,7 @@ redirect_from:
 </p>
 
 ### Cyber Policy & Security
+<p style="font-family:'Courier New'; white-space: nowrap;">
 
 ■━┳━[   ] 
   ┣━[   ] The Last Call for Authenticity: AI Reshaping Voice Fraud Landscape
@@ -62,19 +63,23 @@ redirect_from:
   ┣━[   ] Another Breach In The FireWall: How Digital Transparency Brings New Cyber Risks city authorities
   ┣━[   ] Hacking The Ivory Tower: Understanding Cyber Attacks Against Social Sciences 
   ┗━[   ] Searching Digital Footnotes: Data in Cyber Security
+</p>
 
 ### Cognitive Exploits in Humans & Machines
-
+<p style="font-family:'Courier New'; white-space: nowrap;">
 ■━┳━[’24] Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0
   ┣━[   ] Low Battery: Mental Health Correlates of Charging Habits [D31]
   ┣━[   ] Artificial VS Natural Intelligence [5]
   ┗━[   ] Reversal of Misfortunes: How Covid-19 Changed the Attitudes Toward Behavioral Disorders
 
-Political Economy & Economics
+
+### Political Economy & Economics
+<p style="font-family:'Courier New'; white-space: nowrap;">
 
 ■━┳━ [’13] Social and Economic Policy Trade-Offs in the Russian Regions: Evidence from Four Case Studies
   ┣━ [’14] Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State?
   ┗━ [’14] Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia
+</p>
 
 
 
