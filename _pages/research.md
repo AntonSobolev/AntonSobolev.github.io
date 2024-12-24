@@ -75,11 +75,13 @@ Let’s explore this together!
 <p style="font-family:'Courier New'; white-space: nowrap;">
 
 <b>          ■━┓</b> <br> 
-<b>&nbsp;&nbsp;┣━[   ]</b> The Last Call for Authenticity: AI Reshaping Voice Fraud Landscape <br>
-<b>&nbsp;&nbsp;┣━[   ]</b> Fortresses Without Borders: The Limits of Monopolization of Cyber Coercion <br>
-<b>&nbsp;&nbsp;┣━[   ]</b> Another Breach In The FireWall: How Digital Transparency Brings New Cyber Risks city authorities <br>
-<b>&nbsp;&nbsp;┣━[   ]</b> Hacking The Ivory Tower: Understanding Cyber Attacks Against Social Sciences  <br>
-<b>&nbsp;&nbsp;┗━[   ]</b> Searching Digital Footnotes: Data in Cyber Security <br>
+<span style="color:CadetBlue;">
+<b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> The Last Call for Authenticity: AI Reshaping Voice Fraud Landscape <br>
+<b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Fortresses Without Borders: The Limits of Monopolization of Cyber Coercion <br>
+<b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Another Breach In The FireWall: How Digital Transparency Brings New Cyber Risks city authorities <br>
+<b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Hacking The Ivory Tower: Understanding Cyber Attacks Against Social Sciences  <br>
+</span> 
+<b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Searching Digital Footnotes: Data in Cyber Security <br>
 </p>
 
 ### Cognitive Exploits in Humans & Machines
