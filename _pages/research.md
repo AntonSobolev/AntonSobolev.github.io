@@ -56,7 +56,6 @@ Let’s explore this together!
 <span style="color:#6F6F6F;">
 <b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Protest Fragmentation <br> 
 </span>
-<br> 
 <b>          ■━┓ [Information Manipulation]</b> <br>
 <span style="color:CadetBlue;">
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and How To Find Them:   <br>
@@ -91,9 +90,9 @@ Let’s explore this together!
 <b>&nbsp;&nbsp;┣━[’24]</b> Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0 <br>
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>   <br> 
 <span style="color:#6F6F6F;">
-<b>&nbsp;&nbsp;┣━[   ]</b> Low Battery: Mental Health Correlates of Charging Habits [D31] <br>
-<b>&nbsp;&nbsp;┣━[   ]</b> Artificial VS Natural Intelligence [5] <br>
-<b>&nbsp;&nbsp;┗━[   ]</b> Reversal of Misfortunes: How Covid-19 Changed the Attitudes Toward Behavioral Disorders <br>
+<b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Low Battery: Mental Health Correlates of Charging Habits [D31] <br>
+<b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Artificial VS Natural Intelligence <br>
+<b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Reversal of Misfortunes: How Covid-19 Changed the Attitudes Toward Behavioral Disorders <br>
 </span>
 </p>
 
