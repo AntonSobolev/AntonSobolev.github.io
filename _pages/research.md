@@ -34,16 +34,17 @@ redirect_from:
 **Information Control and Contentious Politics** <br>
 
 
-<p style="font-family:'Courier New'">
+<p style="font-family:'Courier New'; white-space: nowrap;">
+ 
              ■━┓ [Technology & Protest] <br>
- &nbsp;&nbsp;  ┣━[’13] Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies <br>
+ &nbsp;&nbsp;┣━[’13] Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies <br>
  &nbsp;&nbsp;  ┃  *Problems of Post-Communism*, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br>
  &nbsp;&nbsp;  ┣━[’19] Stability of Revolutionary Governments In The Face of Mass Protest <br>
  &nbsp;&nbsp;  ┃  European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br> 
  &nbsp;&nbsp;  ┣━[’20] News and Geolocated Social Media Accurately Measure Protest Size Variation <br>
  &nbsp;&nbsp;  ┗━[   ] Protest Fragmentation
 
-</p>
+
 
  ■━┓ [Information Manipulation]
 
@@ -56,6 +57,9 @@ redirect_from:
    ┣━[   ]  How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia
 
    ┗━[   ]  Backup for an Autocrat: A Subtle Art of Delayed Propaganda
+
+   </p>
+
 
 Cyber Policy & Security
 
@@ -88,7 +92,6 @@ Political Economy & Economics
   ┣━ [’14] Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State?
 
   ┗━ [’14] Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia
-
 
 
 
