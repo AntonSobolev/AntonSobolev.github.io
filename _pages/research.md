@@ -58,8 +58,8 @@ redirect_from:
 
 <p style="font-family:'Courier New'; white-space: nowrap;">
 
-<b>          ■━┳━ 
-<b>&nbsp;&nbsp;┣━[   ]</b> The Last Call for Authenticity: AI Reshaping Voice Fraud Landscape
+<b>          ■━┓ 
+<b>&nbsp;&nbsp;┣━[   ]</b> The Last Call for Authenticity: AI Reshaping Voice Fraud Landscape <br>
 <b>&nbsp;&nbsp;┣━[   ]</b> Fortresses Without Borders: The Limits of Monopolization of Cyber Coercion
 <b>&nbsp;&nbsp;┣━[   ]</b> Another Breach In The FireWall: How Digital Transparency Brings New Cyber Risks city authorities
 <b>&nbsp;&nbsp;┣━[   ]</b> Hacking The Ivory Tower: Understanding Cyber Attacks Against Social Sciences 
@@ -68,7 +68,9 @@ redirect_from:
 
 ### Cognitive Exploits in Humans & Machines
 <p style="font-family:'Courier New'; white-space: nowrap;">
-<b>          ■━┳━[’24] Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0
+<b>          ■━┓</b> <br>
+<b>&nbsp;&nbsp;┣━[’24] Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0
+<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>   <br> 
 <b>&nbsp;&nbsp;┣━[   ] Low Battery: Mental Health Correlates of Charging Habits [D31]
 <b>&nbsp;&nbsp;┣━[   ] Artificial VS Natural Intelligence [5]
 <b>&nbsp;&nbsp;┗━[   ] Reversal of Misfortunes: How Covid-19 Changed the Attitudes Toward Behavioral Disorders
@@ -77,9 +79,13 @@ redirect_from:
 ### Political Economy & Economics
 <p style="font-family:'Courier New'; white-space: nowrap;">
 
-■━┳━ [’13] Social and Economic Policy Trade-Offs in the Russian Regions: Evidence from Four Case Studies
-  ┣━ [’14] Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State?
-  ┗━ [’14] Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia
+<b>          ■━┓</b> <br>
+<b>&nbsp;&nbsp;┣━ [’13]</b> Social and Economic Policy Trade-Offs in the Russian Regions: Evidence from Four Case Studies
+<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>   <br> 
+<b>&nbsp;&nbsp;┣━ [’14]</b> Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State?
+<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>   <br> 
+<b>&nbsp;&nbsp;┗━ [’14]</b> Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia
+<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>   <br> 
 </p>
 
 
