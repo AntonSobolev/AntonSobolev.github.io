@@ -25,11 +25,8 @@ redirect_from:
 
 ▨ Under Press <span style="color:CadetBlue;"> ▨ Under Review </span>  <span style="color:gray;">      ▨ Under Construction</span> 
 
-<br>
-<br>
 
-
-**Information Control and Contentious Politics** <br>
+### Information Control and Contentious Politics
 
 
 <p style="font-family:'Courier New'; white-space: nowrap;">
@@ -45,49 +42,45 @@ redirect_from:
 
  <br> 
 
-
- <b>         ■━┓ [Information Manipulation]</b> <br>
+<b>         ■━┓ [Information Manipulation]</b> <br>
 <b>&nbsp;&nbsp;┣━[   ]</b>  Fantastic Beasts and How To Find Them: Three Perspectives on Identification of Paid Political Trolls
 <b>&nbsp;&nbsp;┣━[   ]</b>  Fantastic Beasts and Whether They Matter: Causal Effect of Paid Political Trolls on Online Discussions
 <b>&nbsp;&nbsp;┣━[   ]</b>  Fantastic Beasts and Where They Lead: How Trolls Manipulate Search Engines
 <b>&nbsp;&nbsp;┣━[   ]</b>  How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia
 <b>&nbsp;&nbsp;┗━[   ]</b>  Backup for an Autocrat: A Subtle Art of Delayed Propaganda
 
-   </p>
+</p>
 
+### Cyber Policy & Security
 
-Cyber Policy & Security
+<p style="font-family:'Courier New'; white-space: nowrap;">
 
 ■━┳━[   ] 
-
   ┣━[   ] The Last Call for Authenticity: AI Reshaping Voice Fraud Landscape
+  ┣━[   ] Fortresses Without Borders: The Limits of Monopolization of Cyber Coercion
+  ┣━[   ] Another Breach In The FireWall: How Digital Transparency Brings New Cyber Risks city authorities
+  ┣━[   ] Hacking The Ivory Tower: Understanding Cyber Attacks Against Social Sciences 
+  ┗━[   ] Searching Digital Footnotes: Data in Cyber Security
 
-  ┣━[   ] Fortresses Without Borders: The Limits of Monopolization of Cyber Coercion [V]
+</p>
 
-  ┣━[   ] Another Breach In The FireWall: How Digital Transparency Brings New Cyber Risks city authorities [V]
-
-  ┣━[   ] Hacking The Ivory Tower: Understanding Cyber Attacks Against Social Sciences [?] [2]
-
-  ┗━[   ] Searching Digital Footnotes: Data in Cyber Security [D30] [3]
-
-Mental Disorders in Humans & Machines
+### Cognitive Exploits in Humans & Machines
 
 ■━┳━[’24] Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0
-
   ┣━[   ] Low Battery: Mental Health Correlates of Charging Habits [D31]
-
   ┣━[   ] Artificial VS Natural Intelligence [5]
-
   ┗━[   ] Reversal of Misfortunes: How Covid-19 Changed the Attitudes Toward Behavioral Disorders
+</p>
 
 Political Economy & Economics
 
 ■━┳━ [’13] Social and Economic Policy Trade-Offs in the Russian Regions: Evidence from Four Case Studies
+<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i>Problems of Post-Communism</i>, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br>
 
   ┣━ [’14] Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State?
 
   ┗━ [’14] Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia
-
+</p>
 
 
 
