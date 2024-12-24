@@ -37,7 +37,7 @@ redirect_from:
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br> 
 <b>&nbsp;&nbsp;┣━[’20]</b> News and Geolocated Social Media Accurately Measure Protest Size Variation <br>
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br> 
-<b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Protest Fragmentation <br> 
+<b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;]</b> Protest Fragmentation <br> 
 
  <br> 
 
@@ -47,13 +47,11 @@ redirect_from:
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and Whether They Matter: Causal Effect of Paid Political Trolls on Online Discussions  <br>
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and Where They Lead: How Trolls Manipulate Search Engines  <br>
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia  <br>
-<b>&nbsp;&nbsp;┗━[   ]</b>  Backup for an Autocrat: A Subtle Art of Delayed Propaganda  <br>
+<b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b>  Backup for an Autocrat: A Subtle Art of Delayed Propaganda  <br>
 
 </p>
 
 ### Cyber Policy & Security
-
-<p style="font-family:'Courier New'; white-space: nowrap;">
 
 ■━┳━[   ] 
   ┣━[   ] The Last Call for Authenticity: AI Reshaping Voice Fraud Landscape
@@ -61,8 +59,6 @@ redirect_from:
   ┣━[   ] Another Breach In The FireWall: How Digital Transparency Brings New Cyber Risks city authorities
   ┣━[   ] Hacking The Ivory Tower: Understanding Cyber Attacks Against Social Sciences 
   ┗━[   ] Searching Digital Footnotes: Data in Cyber Security
-
-</p>
 
 ### Cognitive Exploits in Humans & Machines
 
