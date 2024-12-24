@@ -89,7 +89,7 @@ Let’s explore this together!
 <b>          ■━┓</b> <br>
 <b>&nbsp;&nbsp;┣━[’24]</b> Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0 <br>
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>   <br> 
-<span style="color:#6F6F6F;">
+<span style="color:#CadetBlue;">
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Low Battery: Mental Health Correlates of Charging Habits [D31] <br>
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Artificial VS Natural Intelligence <br>
 <b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Reversal of Misfortunes: How Covid-19 Changed the Attitudes Toward Behavioral Disorders <br>
@@ -102,7 +102,7 @@ Let’s explore this together!
 
 <b>          ■━┓</b> <br>
 <b>&nbsp;&nbsp;┣━ [’13]</b> Social and Economic Policy Trade-Offs in the Russian Regions: Evidence from Four Case Studies <br>
-<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>   <br> 
+<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <i>Europe-Asia Studies<i>, 2013, 65(10): 1855-1876 (with T. Remington, I. Soboleva, & M. Urnov)<br> 
 <b>&nbsp;&nbsp;┣━ [’14]</b> Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State? <br>
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>   <br> 
 <b>&nbsp;&nbsp;┗━ [’14]</b> Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia <br>
