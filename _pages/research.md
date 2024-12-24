@@ -21,6 +21,22 @@ redirect_from:
 </style>
 
 
+I am an Assistant Professor at the University of Texas at Dallas, where my research spans four interconnected fields: contentious politics, information manipulation, cybersecurity, and behavioral science. Together, they form a framework for understanding the evolving logic of coercion, persuasion, and vulnerability in the digital age.
+
+At the heart of my inquiry lies a question: What is cyberspace, and how does it redefine the boundaries between information and the physical world? Can we adapt the classic ideas of Weber, Tilly, and Olson—about monopolies on coercion—to a reality where power is diffused across networks of data and algorithms? These theoretical puzzles guide my exploration of how autocracies, states, and other actors manipulate information flows to enforce control in an era where distinguishing truth from fiction has become prohibitively expensive for the average person.
+
+Equally, I study the mechanics of persuasion and propaganda. In a world teeming with bots, trolls, and covert operations, the line between organic user behavior and state-sponsored manipulation blurs. This raises profound questions about the architecture of belief systems and the fragility of democratic discourse when trust in information sources erodes.
+
+My research also delves into the parallels between human and machine learning. Both, it seems, are shaped by incomplete and often biased datasets—be it the emotional scars of childhood or the skewed inputs that define artificial intelligence training sets. These vulnerabilities create fertile ground for exploitation, whether by cybercriminals targeting individuals or adversaries exploiting systemic weaknesses in algorithms.
+
+Each of these threads—cyberspace, manipulation, behavioral vulnerabilities, and the blurred boundaries between humans and machines—connects to a broader ambition: to map the invisible contours of power and resistance in a world where the digital and the physical increasingly overlap. My work is published in leading academic journals and resonates beyond academia, seeking to bridge the theoretical with the urgent realities of our time.
+
+My CV is [here](), and my Google Scholar profile is [here]().
+
+Let’s explore this together!
+
+
+## _Research Agenda_
 
 
 ▨ Under Press <span style="color:CadetBlue;"> ▨ Under Review </span>  <span style="color:#6F6F6F;"> ▨ Under Construction</span> 
