@@ -112,6 +112,44 @@ Let’s explore this together!
 
 
 
+<!--
+
+[“Black Markets, Red Square: How the Kremlin Utilizes Darknet for Its Cyberpolicy”](#InProgress) 
+
+Non-democratic governments actively use cyber technologies for political purposes. They deploy trolls and bots to disseminate misinformation domestically and abroad. They use digital surveillance to track opposition activists and breach foreign national networks to steal classified information. They can also organize attacks against critical infrastructure. However, these governments did not invent digital weaponry from the scratch. Instead, they often use solutions supplied by the black digital markets. The features of these markets determine what a non-democratic government can and cannot do in cyberspace. In this paper, I provide a systematic overview of how black digital markets are organized in Russia and how the state agencies and informal groups linked to the Kremlin operate on these markets.
+
+
+[“How to Catch a Troll: Detection of Paid Political Commentators on Social Media”](#InProgress) 
+
+Social media platforms, national governments, and academics develop sophisticated methods to detect state-sponsored political commentators on the Internet. Most of these methods are based on a combination of arbitrarily chosen criteria, often including the country of origin of the account’s email address or phone number, usage of specific characters, and specific keywords in the message. I argue that such methods may be unable to identify a significant proportion of paid political commentators. These commentators are apparently aware of the risks and try hard to hide their troll identity. They do not only post a lot of politically irrelevant information, but they also calibrate their behavior by adjusting the profiles of their accounts in the direction of profiles of regular users of social media. In contrast to methods with arbitrarily chosen criteria, models that employ “ground truth” data without pre-specified metrics can deliver predictions with a high degree of accuracy.
+
+<div>
+
+<iframe width='100%' height='300' src='https://rdrr.io/snippets/embed/' frameborder='0'></iframe>
+
+
+<iframe src="/files/Anton-Sobolev-CV.pdf" width="125%" height="700px"></iframe>
+</div>
+
+
+<li><p>Had an arrival delay of two or more hours</p>
+<div class="tutorial-exercise" data-label="filterex1" data-completion="1" data-diagnostics="1" data-startover="1" data-lines="0">
+<script type="application/json" data-ui-opts="1">{"engine":"r","has_checker":false,"caption":"<span data-i18n=\"text.enginecap\" data-i18n-opts=\"{&quot;engine&quot;:&quot;R&quot;}\">R Code<\/span>"}</script>
+</div>
+<div class="tutorial-exercise-support" data-label="filterex1-solution" data-completion="1" data-diagnostics="1" data-startover="1" data-lines="0">
+<pre class="text"><code>filter(flights, arr_delay &gt;= 120) # arr_delay is in minutes</code></pre>
+</div>
+</li>
+
+
+
+
+
+<script type="text/javascript" src="//cdn.datacamp.com/dcl-react.js.gz"></script>
+
+
+
+
 
 
 
@@ -162,40 +200,7 @@ The formation of organizations capable of effectively restricting violence in so
 
 A common opinion among scholars is that civil society in Russia is weak and that this constitutes an obstacle to the development of democracy. The perceived weakness of civil society is attributed to a variety of causes — from the cultural legacies of imperial and Soviet Russia, which have supposedly left Russians atomized and distrustful, to the authoritarian repression of the current regime. As a result, political leaders are today unconstrained — and their policies unaffected — by those who represent particular social interests. We examine the evidence and argue that this view does not offer a full picture of Russian civil society. Russians are not more distrustful than citizens of comparable countries. The evidence does suggest a low level of civic participation after the end of communism—in part because membership in the discredited Communist Party and pro forma membership in official labor unions were not quickly replaced by other involvements — but we also find an apparent increase in civic activity in the past five years, despite the tightening of political controls. At the same time, nongovernmental organizations have improved their capacity to mobilize supporters and volunteers and to raise cash through contributions. We show that in two key regards — the petitioning of officials at all levels of the state and election monitoring— Russian citizens have affected political outcomes and policy decisions, albeit to a limited extent. 
 
-<!--
 
-[“Black Markets, Red Square: How the Kremlin Utilizes Darknet for Its Cyberpolicy”](#InProgress) 
-
-Non-democratic governments actively use cyber technologies for political purposes. They deploy trolls and bots to disseminate misinformation domestically and abroad. They use digital surveillance to track opposition activists and breach foreign national networks to steal classified information. They can also organize attacks against critical infrastructure. However, these governments did not invent digital weaponry from the scratch. Instead, they often use solutions supplied by the black digital markets. The features of these markets determine what a non-democratic government can and cannot do in cyberspace. In this paper, I provide a systematic overview of how black digital markets are organized in Russia and how the state agencies and informal groups linked to the Kremlin operate on these markets.
-
-
-[“How to Catch a Troll: Detection of Paid Political Commentators on Social Media”](#InProgress) 
-
-Social media platforms, national governments, and academics develop sophisticated methods to detect state-sponsored political commentators on the Internet. Most of these methods are based on a combination of arbitrarily chosen criteria, often including the country of origin of the account’s email address or phone number, usage of specific characters, and specific keywords in the message. I argue that such methods may be unable to identify a significant proportion of paid political commentators. These commentators are apparently aware of the risks and try hard to hide their troll identity. They do not only post a lot of politically irrelevant information, but they also calibrate their behavior by adjusting the profiles of their accounts in the direction of profiles of regular users of social media. In contrast to methods with arbitrarily chosen criteria, models that employ “ground truth” data without pre-specified metrics can deliver predictions with a high degree of accuracy.
-
-<div>
-
-<iframe width='100%' height='300' src='https://rdrr.io/snippets/embed/' frameborder='0'></iframe>
-
-
-<iframe src="/files/Anton-Sobolev-CV.pdf" width="125%" height="700px"></iframe>
-</div>
-
-
-<li><p>Had an arrival delay of two or more hours</p>
-<div class="tutorial-exercise" data-label="filterex1" data-completion="1" data-diagnostics="1" data-startover="1" data-lines="0">
-<script type="application/json" data-ui-opts="1">{"engine":"r","has_checker":false,"caption":"<span data-i18n=\"text.enginecap\" data-i18n-opts=\"{&quot;engine&quot;:&quot;R&quot;}\">R Code<\/span>"}</script>
-</div>
-<div class="tutorial-exercise-support" data-label="filterex1-solution" data-completion="1" data-diagnostics="1" data-startover="1" data-lines="0">
-<pre class="text"><code>filter(flights, arr_delay &gt;= 120) # arr_delay is in minutes</code></pre>
-</div>
-</li>
-
-
-
-
-
-<script type="text/javascript" src="//cdn.datacamp.com/dcl-react.js.gz"></script>
 
 
 
