@@ -34,17 +34,15 @@ redirect_from:
 <b>&nbsp;&nbsp;┣━[’13]</b> Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies <br>
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i>Problems of Post-Communism</i>, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br>
 <b>&nbsp;&nbsp;┣━[’19]</b> Stability of Revolutionary Governments In The Face of Mass Protest <br>
-<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br> 
+<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br> 
 <b>&nbsp;&nbsp;┣━[’20]</b> News and Geolocated Social Media Accurately Measure Protest Size Variation <br>
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br> 
 <b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Protest Fragmentation <br> 
-
 <br> 
-
 <b>          ■━┓ [Information Manipulation]</b> <br>
 <span style="color:CadetBlue;">
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and How To Find Them:   <br>
-<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> Three Perspectives on Identification of Paid Political Trolls <br>
+<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>Three Perspectives on Identification of Paid Political Trolls <br>
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and Whether They Matter: Causal Effect of Paid Political Trolls on Online Discussions  <br>
 </span>
 <span style="color:gray;">
@@ -52,7 +50,6 @@ redirect_from:
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia  <br>
 <b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b>  Backup for an Autocrat: A Subtle Art of Delayed Propaganda  <br>
 </span>
-
 </p>
 
 ### Cyber Policy & Security
@@ -70,17 +67,12 @@ redirect_from:
   ┣━[   ] Low Battery: Mental Health Correlates of Charging Habits [D31]
   ┣━[   ] Artificial VS Natural Intelligence [5]
   ┗━[   ] Reversal of Misfortunes: How Covid-19 Changed the Attitudes Toward Behavioral Disorders
-</p>
 
 Political Economy & Economics
 
 ■━┳━ [’13] Social and Economic Policy Trade-Offs in the Russian Regions: Evidence from Four Case Studies
-<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i>Problems of Post-Communism</i>, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br>
-
   ┣━ [’14] Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State?
-
   ┗━ [’14] Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia
-</p>
 
 
 
