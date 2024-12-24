@@ -67,6 +67,7 @@ redirect_from:
 </p>
 
 ### Cognitive Exploits in Humans & Machines
+
 <p style="font-family:'Courier New'; white-space: nowrap;">
 <b>          ■━┓</b> <br>
 <b>&nbsp;&nbsp;┣━[’24] Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0
@@ -79,6 +80,7 @@ redirect_from:
 </p>
 
 ### Political Economy & Economics
+
 <p style="font-family:'Courier New'; white-space: nowrap;">
 
 <b>          ■━┓</b> <br>
