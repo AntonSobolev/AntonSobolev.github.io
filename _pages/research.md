@@ -42,7 +42,7 @@ Let’s explore this together!
 ▨ Under Press <span style="color:CadetBlue;"> ▨ Under Review </span>  <span style="color:#6F6F6F;"> ▨ Under Construction</span> 
 
 
-**Information Control and Contentious Politics** <br>
+### Information Control and Contentious Politics**
 
 <p style="font-family:'Courier New'; white-space: nowrap;">
  
@@ -107,6 +107,8 @@ Let’s explore this together!
 <b>&nbsp;&nbsp;┗━ [’14]</b> Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia <br>
 <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>   <br> 
 </p>
+
+
 
 
 
