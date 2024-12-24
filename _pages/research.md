@@ -34,10 +34,10 @@ redirect_from:
 <b>&nbsp;&nbsp;┣━[’13]</b> Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies <br>
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i>Problems of Post-Communism</i>, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br>
 <b>&nbsp;&nbsp;┣━[’19]</b> Stability of Revolutionary Governments In The Face of Mass Protest <br>
-<b>&nbsp;&nbsp;┃&nbsp;      </b> European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br> 
+<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br> 
 <b>&nbsp;&nbsp;┣━[’20]</b> News and Geolocated Social Media Accurately Measure Protest Size Variation <br>
-<b>&nbsp;&nbsp;┃  </b>European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br> 
-<b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;   ]</b> Protest Fragmentation <br> 
+<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br> 
+<b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Protest Fragmentation <br> 
 
  <br> 
 
