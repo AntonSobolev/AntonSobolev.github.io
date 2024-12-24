@@ -71,10 +71,11 @@ redirect_from:
 <b>          ■━┓</b> <br>
 <b>&nbsp;&nbsp;┣━[’24] Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>   <br> 
+<span style="color:#6F6F6F;">
 <b>&nbsp;&nbsp;┣━[   ] Low Battery: Mental Health Correlates of Charging Habits [D31]
 <b>&nbsp;&nbsp;┣━[   ] Artificial VS Natural Intelligence [5]
 <b>&nbsp;&nbsp;┗━[   ] Reversal of Misfortunes: How Covid-19 Changed the Attitudes Toward Behavioral Disorders
-
+</span>
 </p>
 
 ### Political Economy & Economics
