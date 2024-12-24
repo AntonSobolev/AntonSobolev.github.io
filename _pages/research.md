@@ -36,29 +36,24 @@ redirect_from:
 
 <p style="font-family:'Courier New'; white-space: nowrap;">
  
-<b>■━┓ [Technology & Protest]</b>> <br>
-<b>&nbsp;&nbsp;  ┣━[’13]</b> Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies <br>
-<b>&nbsp;&nbsp;  ┃  <i>Problems of Post-Communism</i>, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br>
-<b>&nbsp;&nbsp;  ┣━[’19] Stability of Revolutionary Governments In The Face of Mass Protest <br>
-<b>&nbsp;&nbsp;  ┃  European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br> 
-<b>&nbsp;&nbsp;  ┣━[’20] News and Geolocated Social Media Accurately Measure Protest Size Variation <br>
-<b>&nbsp;&nbsp;  ┃  European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br> 
-<b>&nbsp;&nbsp;  ┗━[   ] Protest Fragmentation <br> 
-
-nbsp
+<b>    ■━┓ [Technology & Protest]</b> <br>
+<b>&nbsp;┣━[’13]</b> Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies <br>
+<b>&nbsp;&nbsp;┃  </b><i>Problems of Post-Communism</i>, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br>
+<b>&nbsp;&nbsp;┣━[’19]</b> Stability of Revolutionary Governments In The Face of Mass Protest <br>
+<b>&nbsp;&nbsp;┃  </b>European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br> 
+<b>&nbsp;&nbsp;┣━[’20]</b> News and Geolocated Social Media Accurately Measure Protest Size Variation <br>
+<b>&nbsp;&nbsp;┃  </b>European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br> 
+<b>&nbsp;&nbsp;┗━[   ]</b> Protest Fragmentation <br> 
 
 
- ■━┓ [Information Manipulation]
 
-   ┣━[   ]  Fantastic Beasts and How To Find Them: Three Perspectives on Identification of Paid Political Trolls
 
-   ┣━[   ]  Fantastic Beasts and Whether They Matter: Causal Effect of Paid Political Trolls on Online Discussions
-
-   ┣━[   ]  Fantastic Beasts and Where They Lead: How Trolls Manipulate Search Engines
-
-   ┣━[   ]  How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia
-
-   ┗━[   ]  Backup for an Autocrat: A Subtle Art of Delayed Propaganda
+             ■━┓ [Information Manipulation]
+<b>&nbsp;&nbsp;┣━[   ]</b>  Fantastic Beasts and How To Find Them: Three Perspectives on Identification of Paid Political Trolls
+<b>&nbsp;&nbsp;┣━[   ]</b>  Fantastic Beasts and Whether They Matter: Causal Effect of Paid Political Trolls on Online Discussions
+<b>&nbsp;&nbsp;┣━[   ]</b>  Fantastic Beasts and Where They Lead: How Trolls Manipulate Search Engines
+<b>&nbsp;&nbsp;┣━[   ]</b>  How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia
+<b>&nbsp;&nbsp;┗━[   ]</b>  Backup for an Autocrat: A Subtle Art of Delayed Propaganda
 
    </p>
 
