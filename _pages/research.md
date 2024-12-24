@@ -43,10 +43,10 @@ redirect_from:
 <b>&nbsp;&nbsp;┃  </b>European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br> 
 <b>&nbsp;&nbsp;┗━[   ]</b> Protest Fragmentation <br> 
 
+ <br> 
 
 
-
-             ■━┓ [Information Manipulation]
+ <b>         ■━┓ [Information Manipulation]</b> <br>
 <b>&nbsp;&nbsp;┣━[   ]</b>  Fantastic Beasts and How To Find Them: Three Perspectives on Identification of Paid Political Trolls
 <b>&nbsp;&nbsp;┣━[   ]</b>  Fantastic Beasts and Whether They Matter: Causal Effect of Paid Political Trolls on Online Discussions
 <b>&nbsp;&nbsp;┣━[   ]</b>  Fantastic Beasts and Where They Lead: How Trolls Manipulate Search Engines
