@@ -95,7 +95,6 @@ You can find my Google Scholar profile [here](https://scholar.google.com/citatio
 
 
 
-### About
 
 
 
