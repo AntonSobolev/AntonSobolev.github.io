@@ -41,12 +41,8 @@ Let’s explore this together!
 </span>
 </p>
 ### Cyber Policy & Security
-
-
 <p style="font-family:'Courier New'; white-space: nowrap;">
-
-<b>          ■━┓</b> <br> 
-<span style="color:CadetBlue;">
+<b>          ■━┓</b> <br> <span style="color:CadetBlue;">
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> The Last Call for Authenticity: AI Reshaping Voice Fraud Landscape <br>
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Fortresses Without Borders: The Limits of Monopolization of Cyber Coercion <br>
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Another Breach In The FireWall: The Hidden Cost of Digital Convenience in Municipal Governance<br>
@@ -60,8 +56,7 @@ Let’s explore this together!
 
 
 <p style="font-family:'Courier New'; white-space: nowrap;">
-<b>          ■━┓</b> <br>
-<span>
+<b>          ■━┓</b> <br><span>
 <b>&nbsp;&nbsp;┣━[’24]</b> Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0 <br>
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i>PLoS One</i>, 2024 (with J. Hanson-DeFusco, A. Stanekzai, A. McMaster, <br> 
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>Hamid Popalzai, Heer Shah, Min Shi, and Nandita Kumar) <br> 
@@ -78,11 +73,9 @@ Let’s explore this together!
 </span>
 
 </p>
-
-**Political Economy & Economics**
+### Political Economy & Economics
 
 <p style="font-family:'Courier New'; white-space: nowrap;">
-
 <b>          ■━┓</b> <br>
 <b>&nbsp;&nbsp;┣━ [’13]</b> Social and Economic Policy Trade-Offs in the Russian Regions: Evidence from Four Case Studies <br>
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <i>Europe-Asia Studies</i>, 2013, 65(10): 1855-1876 (with T. Remington, I. Soboleva, & M. Urnov)<br> 
@@ -90,8 +83,6 @@ Let’s explore this together!
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <i>Post-Soviet Affairs</i>, 2014, 30(1), 171-194 (with A. Yakovlev and A. Kazun)   <br> 
 <b>&nbsp;&nbsp;┗━ [’14]</b> Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia <br>
 <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <i>World Politics</i>, 2014, 66(4), 641-668  (with Egor Lazarev, Irina Soboleva, and Boris Sokolov) 
-   <br> 
-
 </p>
 
 
