@@ -18,7 +18,7 @@ At the heart of my inquiry lies a question: <b>What is cyberspace, and how does 
 
 Equally, I study the mechanics of persuasion and propaganda. <b>In a world teeming with bots, trolls, and covert operations, the line between organic user behavior and state-sponsored manipulation blurs.</b> This raises profound questions about the architecture of belief systems and the fragility of democratic discourse when trust in information sources erodes.<br>
 
-My research delves into the <b>parallels between human and machine learning</b>. Both, it seems, are shaped by incomplete and often biased datasets—be it the emotional scars of childhood or the skewed inputs that define artificial intelligence training sets. These vulnerabilities create fertile ground for exploitation, whether by cybercriminals targeting individuals or adversaries <b>exploiting systemic weaknesses in algorithms.</b><br>
+My research delves into the <b>parallels between human and machine learning</b>. Both, it seems, are shaped by incomplete and often biased datasets—be it the emotional scars of childhood or the skewed inputs that define artificial intelligence training sets. These vulnerabilities create fertile ground for cybercriminals  <b>to exploit cognitive weaknesses in humans and AI-based systems.</b><br>
 
 Each of these threads—cyberspace, manipulation, behavioral vulnerabilities, and the blurred boundaries between humans and machines—connects to a broader ambition: to map the invisible contours of power and resistance in a world where the digital and the physical increasingly overlap.
  
