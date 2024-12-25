@@ -65,7 +65,7 @@ redirect_from:
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>Hamid Popalzai, Heer Shah, Min Shi, and Nandita Kumar) <br> 
 </span>
 
-<span style="color:#CadetBlue;">
+<span style="color:CadetBlue;">
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Low Battery: Mental Health Correlates of Charging Habits<br>
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Race Between Artificial & Natural Intelligence <br>
 </span>
