@@ -57,7 +57,7 @@ You can find my Google Scholar profile [here](https://scholar.google.com/citatio
 ### Cyber Policy & Security
 <p style="font-family:'Courier New'; white-space: nowrap;">
 <b>          ■━┓</b> <br> <span style="color:CadetBlue;">
-<b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> The Last Call for Authenticity: AI Reshaping Voice Fraud Landscape <br>
+<b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> The Last Call for Authenticity: AI Voice Scams Reshaping Business and Political Communication <br>
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Fortresses Without Borders: The Limits of Monopolization of Cyber Coercion <br>
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Another Breach In The FireWall: The Hidden Cost of Digital Convenience in Municipal Governance<br>
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Hacking The Ivory Tower: Understanding Cyber Attacks Against Social Sciences  <br></span> <span style="color:#6F6F6F;">
