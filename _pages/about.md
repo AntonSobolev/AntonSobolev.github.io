@@ -30,17 +30,19 @@ redirect_from:
 <span style="color:CadetBlue;">
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and How To Find Them:  Three Perspectives on Identification of Paid Political Trolls <br>
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and Whether They Matter: Causal Effect of Paid Political Trolls on Online Discussions  <br>
+</span>
 
 <span style="color:#6F6F6F;">
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and Where They Lead: How Trolls Manipulate Search Engines  <br>
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia  <br>
 <b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b>  Backup for an Autocrat: A Subtle Art of Delayed Propaganda  <br>
 </span>
-</p> <br>
+
+</p>
+<br>
 
 ### Cyber Policy & Security
 
-### Cyber Policy & Security
 
 <p style="font-family:'Courier New'; white-space: nowrap;">
 
@@ -51,8 +53,9 @@ redirect_from:
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Another Breach In The FireWall: The Hidden Cost of Digital Convenience in Municipal Governance<br>
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Hacking The Ivory Tower: Understanding Cyber Attacks Against Social Sciences  <br>
 </span> 
-
+<span style="color:#6F6F6F;">
 <b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Searching For Digital Footnotes: Data Issues in Cyber Security <br>
+</span>
 </p>
 <br>
 
