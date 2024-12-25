@@ -57,7 +57,6 @@ redirect_from:
 <b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Searching For Digital Footnotes: Data Issues in Cyber Security <br>
 </span>
 </p>
-<br>
 
 ### Cognitive Exploits in Humans & Machines
 
@@ -75,7 +74,6 @@ redirect_from:
 </span>
 
 </p>
-<br>
 
 ### Political Economy & Economics
 
@@ -92,8 +90,6 @@ redirect_from:
 
 </p>
 
-
-<br>
 
 
 ### About
