@@ -40,6 +40,8 @@ redirect_from:
 
 ### Cyber Policy & Security
 
+### Cyber Policy & Security
+
 <p style="font-family:'Courier New'; white-space: nowrap;">
 
 <b>          ■━┓</b> <br> 
@@ -52,6 +54,8 @@ redirect_from:
 <b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Searching For Digital Footnotes: Data Issues in Cyber Security <br>
 </p>
 <br>
+
+### Cognitive Exploits in Humans & Machines
 
 ### Cognitive Exploits in Humans & Machines
 
