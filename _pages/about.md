@@ -66,6 +66,7 @@ redirect_from:
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Low Battery: Mental Health Correlates of Charging Habits<br>
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Race Between Artificial & Natural Intelligence <br>
 </span>
+
 <span style="color:#6F6F6F;">
 <b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Reversal of Misfortunes: How Covid-19 Changed the Attitudes Toward Behavioral Disorders <br>
 <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> (with J. Hanson-DeFusco & D. Balalaeva)
