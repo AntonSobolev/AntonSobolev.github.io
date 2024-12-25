@@ -10,6 +10,8 @@ redirect_from:
 
 I am an Assistant Professor at the University of Texas at Dallas.  My research spans four interconnected fields: contentious politics, information control & manipulation, cybersecurity, and cognitive science. Together, they form a framework for understanding the evolving logic of coercion, persuasion, and exploits in the digital age.
 
+Join me in this discovery!
+
 <details>
     <summary>
     <b>Click for Details</b>
@@ -24,12 +26,10 @@ Each of these threads—cyberspace, manipulation, behavioral vulnerabilities, an
  
 </details>
 
-Let’s explore this together!
 
 You can find my Google Scholar profile [here](https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en) and my CV [here](cv/).
 
 ## Research Agenda
-
 
 ▨ Under Press <span style="color:CadetBlue;"> ▨ Under Review </span>  <span style="color:#6F6F6F;"> ▨ Under Construction</span> 
 
