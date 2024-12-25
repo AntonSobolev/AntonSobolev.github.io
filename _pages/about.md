@@ -10,6 +10,7 @@ redirect_from:
 
 
 ▨ Under Press <span style="color:CadetBlue;"> ▨ Under Review </span>  <span style="color:#6F6F6F;"> ▨ Under Construction</span> 
+
 ### Information Control and Contentious Politics
 
 <p style="font-family:'Courier New'; white-space: nowrap;">
@@ -62,7 +63,9 @@ redirect_from:
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Low Battery: Mental Health Correlates of Charging Habits<br>
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Race Between Artificial & Natural Intelligence <br>
 <b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Reversal of Misfortunes: How Covid-19 Changed the Attitudes Toward Behavioral Disorders <br>
+<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> (with J. Hanson-DeFusco & D. Balalaeva)
 </span>
+
 </p>
 
 ### Political Economy & Economics
