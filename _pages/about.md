@@ -51,11 +51,10 @@ redirect_from:
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Another Breach In The FireWall: The Hidden Cost of Digital Convenience in Municipal Governance<br>
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Hacking The Ivory Tower: Understanding Cyber Attacks Against Social Sciences  <br>
 </span> 
+
 <b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Searching For Digital Footnotes: Data Issues in Cyber Security <br>
 </p>
 <br>
-
-### Cognitive Exploits in Humans & Machines
 
 ### Cognitive Exploits in Humans & Machines
 
