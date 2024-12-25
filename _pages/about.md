@@ -10,8 +10,6 @@ redirect_from:
 
 
 ▨ Under Press <span style="color:CadetBlue;"> ▨ Under Review </span>  <span style="color:#6F6F6F;"> ▨ Under Construction</span> 
-
-
 ### Information Control and Contentious Politics
 
 <p style="font-family:'Courier New'; white-space: nowrap;">
@@ -22,9 +20,9 @@ redirect_from:
 <b>&nbsp;&nbsp;┣━[’19]</b> Stability of Revolutionary Governments In The Face of Mass Protest <br>
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br> 
 <b>&nbsp;&nbsp;┣━[’20]</b> News and Geolocated Social Media Accurately Measure Protest Size Variation <br>
-<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br> 
+<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>merican Political Science Review, 60(2): 24-39 (with K. Chen, J. Joo & Z. S.-Threlkeld)) <br> 
 <span style="color:#6F6F6F;">
-<b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Protest Fragmentation <br> 
+<b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Protest Fragmentation:  Mapping Disunity Beneath a Common Banner (with M. Kashmiri) <br> 
 </span>
 <b>          ■━┓ [Information Manipulation]</b> <br>
 <span style="color:CadetBlue;">
@@ -58,9 +56,10 @@ redirect_from:
 <p style="font-family:'Courier New'; white-space: nowrap;">
 <b>          ■━┓</b> <br>
 <b>&nbsp;&nbsp;┣━[’24]</b> Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0 <br>
-<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>   <br> 
+<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>PLoS One, 2024 (with J. Hanson-DeFusco, A. Stanekzai, A. McMaster<br> 
+<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <br> 
 <span style="color:#CadetBlue;">
-<b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Low Battery: Mental Health Correlates of Charging Habits [D31] <br>
+<b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Low Battery: Mental Health Correlates of Charging Habits<br>
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Artificial VS Natural Intelligence <br>
 <b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Reversal of Misfortunes: How Covid-19 Changed the Attitudes Toward Behavioral Disorders <br>
 </span>
