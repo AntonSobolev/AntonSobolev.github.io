@@ -65,10 +65,11 @@ redirect_from:
 <span style="color:#CadetBlue;">
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Low Battery: Mental Health Correlates of Charging Habits<br>
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Race Between Artificial & Natural Intelligence <br>
+</span>
+<span style="color:#6F6F6F;">
 <b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Reversal of Misfortunes: How Covid-19 Changed the Attitudes Toward Behavioral Disorders <br>
 <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> (with J. Hanson-DeFusco & D. Balalaeva)
 </span>
-
 </p>
 
 ### Political Economy & Economics
@@ -79,9 +80,9 @@ redirect_from:
 <b>&nbsp;&nbsp;┣━ [’13]</b> Social and Economic Policy Trade-Offs in the Russian Regions: Evidence from Four Case Studies <br>
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <i>Europe-Asia Studies</i>, 2013, 65(10): 1855-1876 (with T. Remington, I. Soboleva, & M. Urnov)<br> 
 <b>&nbsp;&nbsp;┣━ [’14]</b> Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State? <br>
-<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <i>Post-Soviet Affairs</i>i>, 2014, 30(1), 171-194 (with A. Yakovlev and A. Kazun)   <br> 
+<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <i>Post-Soviet Affairs</i>, 2014, 30(1), 171-194 (with A. Yakovlev and A. Kazun)   <br> 
 <b>&nbsp;&nbsp;┗━ [’14]</b> Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia <br>
-<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <i>World Politics</i>>, 2014, 66(4), 641-668  (with Egor Lazarev, Irina Soboleva, and Boris Sokolov) 
+<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <i>World Politics</i>, 2014, 66(4), 641-668  (with Egor Lazarev, Irina Soboleva, and Boris Sokolov) 
    <br> 
 
 </p>
