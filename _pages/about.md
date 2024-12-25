@@ -25,6 +25,7 @@ redirect_from:
 <span style="color:#6F6F6F;">
 <b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Protest Fragmentation:  Mapping Disunity Beneath a Common Banner (with M. Kashmiri) <br> 
 </span>
+
 <b>          ■━┓ [Information Manipulation]</b> <br>
 <span style="color:CadetBlue;">
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and How To Find Them:  Three Perspectives on Identification of Paid Political Trolls <br>
@@ -50,7 +51,7 @@ redirect_from:
 </span> 
 <b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Searching For Digital Footnotes: Data Issues in Cyber Security <br>
 </p>
-
+<br>
 
 ### Cognitive Exploits in Humans & Machines
 
