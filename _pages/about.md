@@ -37,10 +37,7 @@ redirect_from:
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia  <br>
 <b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b>  Backup for an Autocrat: A Subtle Art of Delayed Propaganda  <br>
 </span>
-
 </p>
-<br>
-
 ### Cyber Policy & Security
 
 
@@ -57,7 +54,6 @@ redirect_from:
 <b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Searching For Digital Footnotes: Data Issues in Cyber Security <br>
 </span>
 </p>
-
 ### Cognitive Exploits in Humans & Machines
 
 <p style="font-family:'Courier New'; white-space: nowrap;">
