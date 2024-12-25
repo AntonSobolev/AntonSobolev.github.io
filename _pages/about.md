@@ -9,9 +9,6 @@ redirect_from:
 ---
 
 
-## __Research Agenda__
-
-
 ▨ Under Press <span style="color:CadetBlue;"> ▨ Under Review </span>  <span style="color:#6F6F6F;"> ▨ Under Construction</span> 
 
 
