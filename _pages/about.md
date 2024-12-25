@@ -59,10 +59,7 @@ Let’s explore this together!
 <b>          ■━┓</b> <br><span>
 <b>&nbsp;&nbsp;┣━[’24]</b> Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0 <br>
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i>PLoS One</i>, 2024 (with J. Hanson-DeFusco, A. Stanekzai, A. McMaster, <br> 
-<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>Hamid Popalzai, Heer Shah, Min Shi, and Nandita Kumar) <br> 
-</span>
-
-<span style="color:CadetBlue;">
+<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>Hamid Popalzai, Heer Shah, Min Shi, and Nandita Kumar) <br> </span><span style="color:CadetBlue;">
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Low Battery: Mental Health Correlates of Charging Habits<br>
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Race Between Artificial & Natural Intelligence <br>
 </span>
