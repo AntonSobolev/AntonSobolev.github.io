@@ -16,11 +16,11 @@ redirect_from:
  
 <b>          ■━┓ [Technology & Protest]</b> <br>
 <b>&nbsp;&nbsp;┣━[’13]</b> Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies <br>
-<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i>Problems of Post-Communism</i>, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br>
+<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i>Problems of Post-Communism</i>, 2013, 60(2): 24-39 (with R. Smyth and I. Soboleva) <br>
 <b>&nbsp;&nbsp;┣━[’19]</b> Stability of Revolutionary Governments In The Face of Mass Protest <br>
-<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>European Journal of Political Economy, 2013, 60(2): 24-39 (with R. Smyth and I.Soboleva) <br> 
+<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>European Journal of Political Economy, 2019, 60, 2-20  (with D. Dagaev and N. Lamberova) <br> 
 <b>&nbsp;&nbsp;┣━[’20]</b> News and Geolocated Social Media Accurately Measure Protest Size Variation <br>
-<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>American Political Science Review, 60(2): 24-39 (with K. Chen, J. Joo & Z. S.-Threlkeld)) <br> 
+<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>American Political Science Review,  2020, 114(4), 1343-1351 (with K. Chen, J. Joo & Z. S.-Threlkeld)) <br> 
 <span style="color:#6F6F6F;">
 <b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Protest Fragmentation:  Mapping Disunity Beneath a Common Banner (with M. Kashmiri) <br> 
 </span>
@@ -28,7 +28,7 @@ redirect_from:
 <span style="color:CadetBlue;">
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and How To Find Them:  Three Perspectives on Identification of Paid Political Trolls <br>
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and Whether They Matter: Causal Effect of Paid Political Trolls on Online Discussions  <br>
-</span>
+
 <span style="color:#6F6F6F;">
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and Where They Lead: How Trolls Manipulate Search Engines  <br>
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia  <br>
@@ -44,10 +44,10 @@ redirect_from:
 <span style="color:CadetBlue;">
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> The Last Call for Authenticity: AI Reshaping Voice Fraud Landscape <br>
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Fortresses Without Borders: The Limits of Monopolization of Cyber Coercion <br>
-<b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Another Breach In The FireWall: How Digital Transparency Brings New Cyber Risks city authorities <br>
+<b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Another Breach In The FireWall: The Hidden Cost of Digital Convenience in Municipal Governance<br>
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Hacking The Ivory Tower: Understanding Cyber Attacks Against Social Sciences  <br>
 </span> 
-<b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Searching For Digital Footnotes: Data Issue in Cyber Security <br>
+<b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Searching For Digital Footnotes: Data Issues in Cyber Security <br>
 </p>
 
 ### Cognitive Exploits in Humans & Machines
@@ -55,12 +55,12 @@ redirect_from:
 <p style="font-family:'Courier New'; white-space: nowrap;">
 <b>          ■━┓</b> <br>
 <b>&nbsp;&nbsp;┣━[’24]</b> Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0 <br>
-<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>PLoS One, 2024 (with J. Hanson-DeFusco, A. Stanekzai, A. McMaster, <br> 
+<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i>PLoS One</i>, 2024 (with J. Hanson-DeFusco, A. Stanekzai, A. McMaster, <br> 
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>Hamid Popalzai, Heer Shah, Min Shi, and Nandita Kumar) <br> 
 
 <span style="color:#CadetBlue;">
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Low Battery: Mental Health Correlates of Charging Habits<br>
-<b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Artificial VS Natural Intelligence <br>
+<b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Race Between Artificial & Natural Intelligence <br>
 <b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Reversal of Misfortunes: How Covid-19 Changed the Attitudes Toward Behavioral Disorders <br>
 </span>
 </p>
@@ -73,9 +73,10 @@ redirect_from:
 <b>&nbsp;&nbsp;┣━ [’13]</b> Social and Economic Policy Trade-Offs in the Russian Regions: Evidence from Four Case Studies <br>
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <i>Europe-Asia Studies</i>, 2013, 65(10): 1855-1876 (with T. Remington, I. Soboleva, & M. Urnov)<br> 
 <b>&nbsp;&nbsp;┣━ [’14]</b> Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State? <br>
-<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>   <br> 
+<b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <i>Post-Soviet Affairs</i>i>, 2014, 30(1), 171-194 (with A. Yakovlev and A. Kazun)   <br> 
 <b>&nbsp;&nbsp;┗━ [’14]</b> Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia <br>
-<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>   <br> 
+<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <i>World Politics</i>>, 2014, 66(4), 641-668  (with Egor Lazarev, Irina Soboleva, and Boris Sokolov) 
+   <br> 
 
 </p>
 
