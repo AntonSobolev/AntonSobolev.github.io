@@ -14,7 +14,7 @@ Join me in this discovery!
 
 <details>
     <summary>
-    <span style="color:CadetBlue;"><b>Click for Details</b></span>
+    <span style="color:Gray;"><b>Click for Details</b></span>
     </summary>
 
 At the heart of my inquiry lies a question: <b>What is cyberspace, and how does it redefine the boundaries between information and the physical world? Can we adapt the classic ideas of Weber, Tilly, and Olson—about monopolies on coercion—to a reality where power is diffused across networks of data and algorithms?</b> These theoretical puzzles guide my exploration of how autocracies, states, and other actors manipulate information flows to enforce control in an era where distinguishing truth from fiction has become prohibitively expensive for the average person. <br> <br>
