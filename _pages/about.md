@@ -36,7 +36,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 <p style="font-family:'Courier New';font-size: '4px'; white-space: nowrap;">
  
 <b>     ■┓ [Technology & Protest]</b> <br>
-<b>&nbsp;┣━[’13]</b> Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies <br>
+<b>&nbsp;┣━[’13]</b>Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies <br>
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i>Problems of Post-Communism</i>, 2013, 60(2): 24-39 (with R. Smyth and I. Soboleva) <br>
 <b>&nbsp;┣━[’19]</b> Stability of Revolutionary Governments In The Face of Mass Protest <br>
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i>European Journal of Political Economy,</i> 2019, 60, 2-20  (with D. Dagaev and N. Lamberova) <br> 
