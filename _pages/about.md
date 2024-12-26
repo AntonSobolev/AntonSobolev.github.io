@@ -26,9 +26,10 @@ My research delves into the <b>parallels between human and machine learning</b>.
 Each of these threads—cyberspace, manipulation, behavioral vulnerabilities, and the blurred boundaries between humans and machines—connects to a broader ambition: to map the invisible contours of power and resistance in a world where the digital and the physical increasingly overlap.
  
 </details>
+
 <br>
 
-You can find my Google Scholar profile [here](https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en) and my CV [here](cv/).
+Find my Google Scholar profile [here](https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en) and my CV [here](cv/).
 
 ## Research Agenda
 
