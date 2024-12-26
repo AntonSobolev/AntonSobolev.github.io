@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the University of Texas at Dallas.  My research spans four interconnected fields: contentious politics, information control & manipulation, cybersecurity, and cognitive science. Together, they form a framework for understanding the evolving logic of coercion, persuasion, and exploits in the digital age.
+I am an Assistant Professor at the University of Texas at Dallas.  My research spans four interconnected fields: contentious politics, information control & beliefs manipulation, cybercrime, and cognitive sciences. Together, they form a framework for understanding the evolving logic of coercion, persuasion, and exploits in the cyberspace.
 
 [Join me in this discovery!](https://anton-sobolev.youcanbook.me/) Find my Google Scholar profile [here](https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en) and my CV [here](cv/).
 
@@ -18,7 +18,7 @@ I am an Assistant Professor at the University of Texas at Dallas.  My research s
     <span style="color:Gray;"><b>Click For Details</b></span>
     </summary>
 
-At the heart of my inquiry lies a question: <b>What is cyberspace, and how does it redefine the boundaries between information and the physical world? Can we adapt the classic ideas of Weber, Tilly, and Olson—about monopolies on coercion—to a reality where power is diffused across networks of data and algorithms?</b> These theoretical puzzles guide my exploration of how autocracies, states, and other actors manipulate information flows to enforce control in an era where distinguishing truth from fiction has become prohibitively expensive for the average person. <br> <br>
+At the heart of my inquiry lies a question: <b>What is cyberspace, and how does it redefine the boundaries between information and the physical world? Can we adapt the classic ideas of Weber, Tilly, and Olson—about monopolies on coercion—to a reality where power is diffused across networks of data and algorithms?</b> These theoretical puzzles guide my exploration of how states and criminals exploit cognitive vulnerabilities information flows to enforce control in an era where distinguishing truth from fiction has become prohibitively expensive for the average person. <br> <br>
 
 Equally, I study the mechanics of persuasion and propaganda. <b>In a world teeming with bots, trolls, and covert operations, the line between organic user behavior and state-sponsored manipulation blurs.</b> This raises profound questions about the architecture of belief systems and the fragility of democratic discourse when trust in information sources erodes.<br><br>
 
