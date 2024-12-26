@@ -10,20 +10,20 @@ redirect_from:
 
 I am an Assistant Professor at the University of Texas at Dallas.  My research spans four interconnected fields: contentious politics, information control & manipulation, cybersecurity, and cognitive science. Together, they form a framework for understanding the evolving logic of coercion, persuasion, and exploits in the digital age.
 
-Join me in this discovery! Find my Google Scholar profile [here](https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en) and my CV [here](cv/).
+<u>Join me in this discovery! Find my Google Scholar profile [here](https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en) and my CV [here](cv/).
 
 <details>
     <summary>
     <span style="color:Gray;"><b>Click For Details</b></span>
     </summary>
 
-At the heart of my inquiry lies a question: <b>What is cyberspace, and how does it redefine the boundaries between information and the physical world? Can we adapt the classic ideas of Weber, Tilly, and Olson—about monopolies on coercion—to a reality where power is diffused across networks of data and algorithms?</b> These theoretical puzzles guide my exploration of how autocracies, states, and other actors manipulate information flows to enforce control in an era where distinguishing truth from fiction has become prohibitively expensive for the average person. <br> <br>
+At the heart of my inquiry lies a question: <b>What is cyberspace, and how does it redefine the boundaries between information and the physical world? Can we adapt the classic ideas of Weber, Tilly, and Olson—about monopolies on coercion—to a reality where power is diffused across networks of data and algorithms?</b> These theoretical puzzles guide my exploration of how autocracies, states, and other actors manipulate information flows to enforce control in an era where distinguishing truth from fiction has become prohibitively expensive for the average person. <br> 
 
-Equally, I study the mechanics of persuasion and propaganda. <b>In a world teeming with bots, trolls, and covert operations, the line between organic user behavior and state-sponsored manipulation blurs.</b> This raises profound questions about the architecture of belief systems and the fragility of democratic discourse when trust in information sources erodes.<br><br>
+Equally, I study the mechanics of persuasion and propaganda. <b>In a world teeming with bots, trolls, and covert operations, the line between organic user behavior and state-sponsored manipulation blurs.</b> This raises profound questions about the architecture of belief systems and the fragility of democratic discourse when trust in information sources erodes.<br>
 
-My research delves into the <b>parallels between human and machine learning</b>. Both, it seems, are shaped by incomplete and often biased datasets—be it the emotional scars of childhood or the skewed inputs that define artificial intelligence training sets. These vulnerabilities create fertile ground for cybercriminals  <b>to exploit cognitive weaknesses in humans and AI-based systems.</b><br><br>
+My research delves into the <b>parallels between human and machine learning</b>. Both, it seems, are shaped by incomplete and often biased datasets—be it the emotional scars of childhood or the skewed inputs that define artificial intelligence training sets. These vulnerabilities create fertile ground for cybercriminals  <b>to exploit cognitive weaknesses in humans and AI-based systems.</b><br>
 
-Each of these threads—cyberspace, manipulation, behavioral vulnerabilities, and the blurred boundaries between humans and machines—connects to a broader ambition: to map the invisible contours of power and resistance in a world where the digital and the physical increasingly overlap.
+Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities, and the blurred boundaries between humans and machines -— connects to a broader ambition: to map the invisible contours of power and resistance in a world where the digital and the physical increasingly overlap.
  
 </details>
 
@@ -33,12 +33,12 @@ Each of these threads—cyberspace, manipulation, behavioral vulnerabilities, an
 
 
 ### Information Control and Contentious Politics
-<p style="font-family:'Courier New';font-size: '10px'; white-space: nowrap;">
+<p style="font-family:'Courier New';font-size: '4px'; white-space: nowrap;">
  
 <b>     ■┓ [Technology & Protest]</b> <br>
 <b>&nbsp;┣━[’13]</b> Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies <br>
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i>Problems of Post-Communism</i>, 2013, 60(2): 24-39 (with R. Smyth and I. Soboleva) <br>
-<b>&nbsp;┣━[’19]&nbsp;</b> Stability of Revolutionary Governments In The Face of Mass Protest <br>
+<b>&nbsp;┣━[’19]</b> Stability of Revolutionary Governments In The Face of Mass Protest <br>
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i>European Journal of Political Economy,</i> 2019, 60, 2-20  (with D. Dagaev and N. Lamberova) <br> 
 <b>&nbsp;┣━[’20]</b> News and Geolocated Social Media Accurately Measure Protest Size Variation <br>
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i>American Political Science Review,</i>  2020, 114(4), 1343-1351 (with K. Chen, J. Joo & Z. S.-Threlkeld)) <br> <span style="color:#6F6F6F;">
@@ -71,14 +71,14 @@ Each of these threads—cyberspace, manipulation, behavioral vulnerabilities, an
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Low Battery: Mental Health Correlates of Charging Habits<br>
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Race Between Artificial & Natural Intelligence <br></span><span style="color:#6F6F6F;">
 <b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Reversal of Misfortunes: How Covid-19 Changed the Attitudes Toward Behavioral Disorders <br>
-<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> (with J. Hanson-DeFusco & D. Rosenberg)
+<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> (with J. Hanson-DeFusco & D. Rosenberg)
 </span>
 
 </p>
 ### Political Economy & Economics
 
 <p style="font-family:'Courier New'; white-space: nowrap;">
-<b>          ■┓</b> <br>
+<b>     ■┓</b> <br>
 <b>&nbsp;┣━ [’13]</b> Social and Economic Policy Trade-Offs in the Russian Regions: Evidence from Four Case Studies <br>
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <i>Europe-Asia Studies</i>, 2013, 65(10): 1855-1876 (with T. Remington, I. Soboleva, & M. Urnov)<br> 
 <b>&nbsp;┣━ [’14]</b> Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State? <br>
