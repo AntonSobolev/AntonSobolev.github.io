@@ -35,7 +35,7 @@ Each of these threads—cyberspace, manipulation, behavioral vulnerabilities, an
 
 
 ### Information Control and Contentious Politics
-<p style="font-family:'Courier New';font-size: '10pt'; white-space: nowrap;">
+<p style="font-family:'Courier New';font-size: '10px'; white-space: nowrap;">
  
 <b>     ■┓ [Technology & Protest]</b> <br>
 <b>&nbsp;┣━[’13]</b> Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies <br>
