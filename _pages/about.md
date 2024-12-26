@@ -39,7 +39,7 @@ You can find my Google Scholar profile [here](https://scholar.google.com/citatio
 
 <p style="font-family:'Courier New'; white-space: nowrap;">
  
-<b>          ■━┓ [Technology & Protest]</b> <br>
+<b>          ■┓ [Technology & Protest]</b> <br>
 <b>&nbsp;&nbsp;┣━[’13]</b> Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies <br>
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i>Problems of Post-Communism</i>, 2013, 60(2): 24-39 (with R. Smyth and I. Soboleva) <br>
 <b>&nbsp;&nbsp;┣━[’19]</b> Stability of Revolutionary Governments In The Face of Mass Protest <br>
@@ -48,7 +48,7 @@ You can find my Google Scholar profile [here](https://scholar.google.com/citatio
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i>American Political Science Review,</i>  2020, 114(4), 1343-1351 (with K. Chen, J. Joo & Z. S.-Threlkeld)) <br> <span style="color:#6F6F6F;">
 <b>&nbsp;&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Protest Fragmentation:  Mapping Disunity Beneath a Common Banner (with K. Medhi) <br> </span>
 
-<b>          ■━┓ [Information Manipulation]</b> <br><span style="color:CadetBlue;">
+<b>          ■┓ [Information Manipulation]</b> <br><span style="color:CadetBlue;">
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and How To Find Them:  Three Perspectives on Identification of Paid Political Trolls <br>
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and Whether They Matter: Causal Effect of Paid Political Trolls on Online Discussions  <br></span><span style="color:#6F6F6F;">
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and Where They Lead: How Trolls Manipulate Search Engines  <br>
@@ -57,7 +57,7 @@ You can find my Google Scholar profile [here](https://scholar.google.com/citatio
 </p>
 ### Cyber Policy & Security
 <p style="font-family:'Courier New'; white-space: nowrap;">
-<b>          ■━┓</b> <br> <span style="color:CadetBlue;">
+<b>          ■┓</b> <br> <span style="color:CadetBlue;">
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> The Last Call for Authenticity: AI Voice Scams Reshaping Business and Political Communication <br>
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Fortresses Without Borders: The Limits of Monopolization of Cyber Coercion <br>
 <b>&nbsp;&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Another Breach In The FireWall: The Hidden Cost of Digital Convenience in Municipal Governance<br>
@@ -68,7 +68,7 @@ You can find my Google Scholar profile [here](https://scholar.google.com/citatio
 
 
 <p style="font-family:'Courier New'; white-space: nowrap;">
-<b>          ■━┓</b> <br><span>
+<b>          ■┓</b> <br><span>
 <b>&nbsp;&nbsp;┣━[’24]</b> Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0 <br>
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i>PLoS One</i>, 2024 (with J. Hanson-DeFusco, A. Stanekzai, A. McMaster, <br> 
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>H. Popalzai, H. Shah, M. Shi, and N. Kumar) <br> </span><span style="color:CadetBlue;">
@@ -85,7 +85,7 @@ You can find my Google Scholar profile [here](https://scholar.google.com/citatio
 ### Political Economy & Economics
 
 <p style="font-family:'Courier New'; white-space: nowrap;">
-<b>          ■━┓</b> <br>
+<b>          ■┓</b> <br>
 <b>&nbsp;&nbsp;┣━ [’13]</b> Social and Economic Policy Trade-Offs in the Russian Regions: Evidence from Four Case Studies <br>
 <b>&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <i>Europe-Asia Studies</i>, 2013, 65(10): 1855-1876 (with T. Remington, I. Soboleva, & M. Urnov)<br> 
 <b>&nbsp;&nbsp;┣━ [’14]</b> Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State? <br>
