@@ -35,7 +35,7 @@ Each of these threads—cyberspace, manipulation, behavioral vulnerabilities, an
 
 
 ### Information Control and Contentious Politics
-
+<p style="font-size: '10'">
 <p style="font-family:'Courier New'; white-space: nowrap;">
  
 <b>     ■┓&nbsp; [Technology & Protest]</b> <br>
@@ -90,6 +90,8 @@ Each of these threads—cyberspace, manipulation, behavioral vulnerabilities, an
 <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <i>World Politics</i>, 2014, 66(4), 641-668  (with E. Lazarev, I. Soboleva, & B. Sokolov) 
 </p>
 
+
+</p>
 <!--
 I am an Assistant Professor of Political Economy and Cyber Policy at the University of Texas at Dallas. My research studies questions of politics using text analysis, machine learning, and causal inference. My recent projects focus on mass protest, cybersecurity, and political control in autocracies. More broadly, I study how digital technology shapes political behavior. 
 
