@@ -43,7 +43,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i> European Journal of Political Economy,</i> 2019, 60, 2-20  (with D. Dagaev and N. Lamberova) <br> 
 <b>&nbsp;┣━[’20]</b> News and Geolocated Social Media Accurately Measure Protest Size Variation <br>
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i> American Political Science Review,</i>  2020, 114(4), 1343-1351 (with K. Chen, J. Joo & Z. S.-Threlkeld)) <br> <span style="color:#6F6F6F;">
-<b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Protest Fragmentation:  Mapping Disunity Beneath a Common Banner (with K. Medhi) <br> </span>
+<b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Protest Fragmentation:  Mapping Disunity Beneath a Common Banner (with K. Medhi)</span>
 
 <b>     ■┓ [Information Manipulation]</b> <br><span style="color:CadetBlue;">
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and How To Find Them:  Three Perspectives on Identification of Paid Political Trolls <br>
