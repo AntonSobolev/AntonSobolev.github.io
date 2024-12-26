@@ -72,7 +72,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>H. Popalzai, H. Shah, M. Shi, and N. Kumar) <br> </span><span style="color:CadetBlue;">
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Low Battery: Mental Health Correlates of Charging Habits<br>
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Arm Race Between Artificial & Natural Intelligence <br></span><span style="color:#6F6F6F;">
-<b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Reversal of Misfortune: Covid-19 In  Attitudes Toward Behavioral Disorders <br>
+<b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Reversal of Misfortune: Covid-19 in the Changing of Attitudes Toward Behavioral Disorders <br>
 <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> (with J. Hanson-DeFusco & D. Rosenberg)
 </span>
 
