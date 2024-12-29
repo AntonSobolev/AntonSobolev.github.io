@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+
 I am an Assistant Professor at the University of Texas at Dallas.  My research spans four interconnected fields: contentious politics, information control & beliefs manipulation, cybercrime, and cognitive sciences. Together, they form a framework for understanding the evolving logic of coercion, persuasion, and exploits in the cyberspace.
 
 [Join me in this discovery!](https://anton-sobolev.youcanbook.me/) Find my Google Scholar profile [here](https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en) and my CV [here](cv/).
@@ -34,6 +35,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 ▨ Under Press <span style="color:CadetBlue;"> ▨ Under Review </span>  <span style="color:#6F6F6F;"> ▨ Under Construction</span> 
 
 
+
 ### Information Control and Contentious Politics
 <p style="font-family:'JetBrains Mono';font-size: '2px'; white-space: nowrap;">
  
@@ -55,7 +57,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 <b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b>  Backup for an Autocrat: A Subtle Art of Delayed Propaganda  <br></span>
 </p>
 ### Cyber Policy & Security
-<p style="font-family:'Courier New'; white-space: nowrap;">
+<p style="font-family:'JetBrains Mono'; white-space: nowrap;">
 <b>     ■┓</b> <br> <span style="color:CadetBlue;">
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> The Last Call for Authenticity: AI Voice Scams Reshaping Business and Political Communication <br>
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Fortresses Without Borders: The Limits of Monopolization of Cyber Coercion <br>
@@ -66,7 +68,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 ### Cognitive Exploits in Humans & Machines
 
 
-<p style="font-family:'Courier New'; white-space: nowrap;">
+<p style="font-family:'JetBrains Mono'; white-space: nowrap;">
 <b>     ■┓</b> <br><span>
 <b>&nbsp;┣━[’24]</b> Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0 <br>
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i>PLoS One</i>, 2024 (with J. Hanson-DeFusco, A. Stanekzai, A. McMaster, <br> 
@@ -80,7 +82,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 </p>
 ### Political Economy & Economics
 
-<p style="font-family:'Courier New'; white-space: nowrap;">
+<p style="font-family:'JetBrains Mono'; white-space: nowrap;">
 <b>     ■┓</b> <br>
 <b>&nbsp;┣━ [’13]</b> Social and Economic Policy Trade-Offs in the Russian Regions: Evidence from Four Case Studies <br>
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <i>Europe-Asia Studies</i>, 2013, 65(10): 1855-1876 (with T. Remington, I. Soboleva, & M. Urnov)<br> 
