@@ -38,16 +38,10 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 
 
 
-.h2 /* Try writing this only*/ {
-font-family: "tahome" !important;
 
-}
+<h3 style="font-family:'JetBrains Mono';>Information Control and Contentious Politics </h3>
 
 
-
-<h3>Information Control and Contentious Politics </h3>
-
-<p style="font-family:'JetBrains Mono';font-size: '2px'; white-space: nowrap;">
  
 <b>     ■┓ [Technology & Protest]</b> <br>
 <b>&nbsp;┣━[’13]</b> Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies <br>
