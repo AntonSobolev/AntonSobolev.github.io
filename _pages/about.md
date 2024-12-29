@@ -32,15 +32,14 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 
 ## Research Agenda
 
-<p style="font-family:'JetBrains Mono';font-size: 140%; white-space: nowrap;">
+<p style="font-family:'JetBrains Mono';font-size: 120%; white-space: nowrap;">
 
 
 ▨ Under Press <span style="color:CadetBlue;"> ▨ Under Review </span>  <span style="color:#6F6F6F;"> ▨ Under Construction</span> 
 </p>
 
 
-### Information Control and Contentious Politics
-<p style="font-family:'JetBrains Mono';font-size: '2px'; white-space: nowrap;">
+<h3 style="font-family:'JetBrains Mono';font-size: 120%;> Information Control and Contentious Politics </h3>
  
 <b>     ■┓ [Technology & Protest]</b> <br>
 <b>&nbsp;┣━[’13]</b> Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies <br>
