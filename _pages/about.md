@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<p style="font-family:'JetBrains Mono'; white-space: nowrap;">
-
 I am an Assistant Professor at the University of Texas at Dallas.  My research spans four interconnected fields: contentious politics, information control & beliefs manipulation, cybercrime, and cognitive sciences. Together, they form a framework for understanding the evolving logic of coercion, persuasion, and exploits in the cyberspace.
 
 [Join me in this discovery!](https://anton-sobolev.youcanbook.me/) Find my Google Scholar profile [here](https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en) and my CV [here](cv/).
@@ -31,14 +29,10 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
  
 </details>
 
-</p>
-
-
-
 
 ## Research Agenda
 
-<p style="font-family:'JetBrains Mono';font-size: '2px'; white-space: nowrap;">
+<p style="font-family:'JetBrains Mono';font-size: 140%; white-space: nowrap;">
 
 
 ▨ Under Press <span style="color:CadetBlue;"> ▨ Under Review </span>  <span style="color:#6F6F6F;"> ▨ Under Construction</span> 
