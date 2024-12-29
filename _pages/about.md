@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+<p style="font-family:'JetBrains Mono'; white-space: nowrap;">
 
 I am an Assistant Professor at the University of Texas at Dallas.  My research spans four interconnected fields: contentious politics, information control & beliefs manipulation, cybercrime, and cognitive sciences. Together, they form a framework for understanding the evolving logic of coercion, persuasion, and exploits in the cyberspace.
 
@@ -29,6 +30,11 @@ My research delves into the <b>parallels between human and machine learning</b>.
 Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities, and the blurred boundaries between humans and machines -— connects to a broader ambition: to map the invisible contours of power and resistance in a world where the digital and the physical increasingly overlap.
  
 </details>
+
+</p>
+
+
+
 
 ## Research Agenda
 
@@ -84,7 +90,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 
 
 <br>
-<p style="font-size:'40px'; white-space: nowrap;"><b>Political Economy & Economics </b> </p>
+<p style="font-size:'40px'; white-space: nowrap;"><h3>Political Economy & Economics </h3> </p>
 
 <br>
 <p style="font-family:'JetBrains Mono'; white-space: nowrap;">
