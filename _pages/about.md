@@ -84,11 +84,9 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 
 
 <br>
-<b>Political Economy & Economics </b>
-<p style="font-family:'JetBrains Mono'; white-space: nowrap;">
+<p style="font-size:'150%'; white-space: nowrap;"><b>Political Economy & Economics </b> </p>
 
 <br>
-font-size:18px
 
 <b>     ■┓</b> <br>
 <b>&nbsp;┣━ [’13]</b> Social and Economic Policy Trade-Offs in the Russian Regions: Evidence from Four Case Studies <br>
