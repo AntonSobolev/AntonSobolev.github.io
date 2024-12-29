@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Anton Sobolev"
+title: "Welcome"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -18,6 +18,7 @@ I am an Assistant Professor at the University of Texas at Dallas.  My research s
     <span style="color:Gray;"><b>Click For Details</b></span>
     </summary>
 
+<br>
 At the heart of my inquiry lies a question: <b>What is cyberspace, and how does it redefine the boundaries between information and the physical world? Can we adapt the classic ideas of Weber, Tilly, and Olson—about monopolies on coercion—to a reality where power is diffused across networks of data and algorithms?</b> These theoretical puzzles guide my exploration of how states and criminals exploit cognitive vulnerabilities information flows to enforce control in an era where distinguishing truth from fiction has become prohibitively expensive for the average person. <br> <br>
 
 Equally, I study the mechanics of persuasion and propaganda. <b>In a world teeming with bots, trolls, and covert operations, the line between organic user behavior and state-sponsored manipulation blurs.</b> This raises profound questions about the architecture of belief systems and the fragility of democratic discourse when trust in information sources erodes.<br><br>
@@ -34,7 +35,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 
 
 ### Information Control and Contentious Politics
-<p style="font-family:'Courier New';font-size: '4px'; white-space: nowrap;">
+<p style="font-family:'JetBrains Mono';font-size: '2px'; white-space: nowrap;">
  
 <b>     ■┓ [Technology & Protest]</b> <br>
 <b>&nbsp;┣━[’13]</b> Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies <br>
