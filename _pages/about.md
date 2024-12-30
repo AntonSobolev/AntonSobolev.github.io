@@ -37,7 +37,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 </p>
 
 <p style="font-family:'JetBrains Mono'; white-space: nowrap;">
-Information Control and Contentious Politics <br>
+<b>Information Control and Contentious Politics </b><br>
 <b>     ■┓ [Technology & Protest]</b> <br>
 <b>&nbsp;┣━[’13]</b> Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies <br>
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i>Problems of Post-Communism</i>, 2013, 60(2): 24-39 (with R. Smyth & I. Soboleva) <br>
@@ -53,35 +53,25 @@ Information Control and Contentious Politics <br>
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and Where They Lead: How Trolls Manipulate Search Engines  <br>
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia  <br>
 <b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b>  Backup for an Autocrat: A Subtle Art of Delayed Propaganda  <br></span>
-</p>
-<p style="font-family:'JetBrains Mono';font-size: 100%;font-weight:bold"> Cyber Policy & Security</p> 
 
-<p style="font-family:'JetBrains Mono'; white-space: nowrap;">
+<b>Cyber Policy & Security</b><br>
 <b>     ■┓</b> <br> <span style="color:CadetBlue;">
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> The Last Call for Authenticity: AI Voice Scams Reshaping Business and Political Communication <br>
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Fortresses Without Borders: The Limits of Monopolization of Cyber Coercion <br>
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Another Breach In The FireWall: The Hidden Cost of Digital Convenience in Municipal Governance<br>
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Hacking The Ivory Tower: Understanding Cyber Attacks Against Social Sciences  <br></span> <span style="color:#6F6F6F;">
 <b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> The Lost of Us: Between Digital Fingerprints and Cybersecurity Data <br></span>
-</p>
-<p style="font-family:'JetBrains Mono';font-size: 100%;font-weight:bold">Cognitive Exploits in Humans & Machines</p> 
 
-
-### 
-
-
-<p style="font-family:'JetBrains Mono'; white-space: nowrap;">
+<b>Cognitive Exploits in Humans & Machines</b><br>
 <b>     ■┓</b> <br><span>
 <b>&nbsp;┣━[’24]</b> Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0 <br>
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i>PLoS One</i>, 2024 (with J. Hanson-DeFusco, A. Stanekzai, A. McMaster, <br> 
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>H. Popalzai, H. Shah, M. Shi, & N. Kumar) <br> </span><span style="color:CadetBlue;">
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Low Battery: Mental Health Correlates of Charging Habits<br>
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Arms Race Between Artificial & Natural Intelligence <br></span><span style="color:#6F6F6F;">
-<b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Reversal of Misfortune: Covid-19 in the Changing of Attitudes Toward Behavioral Disorders <br>
-</span>
-</p>
-<p style="font-family:'JetBrains Mono';font-size: 110%;font-weight:bold">Economics & Political Economy</p> 
-<p style="font-family:'JetBrains Mono'; white-space: nowrap;">
+<b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Reversal of Misfortune: Covid-19 in the Changing of Attitudes Toward Behavioral Disorders <br></span>
+
+<b>Economics & Political Economy</b>
 <b>     ■┓</b> <br>
 <b>&nbsp;┣━ [’13]</b> Social and Economic Policy Trade-Offs in the Russian Regions: Evidence from Four Case Studies <br>
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <i>Europe-Asia Studies</i>, 2013, 65(10): 1855-1876 (with T. Remington, I. Soboleva, & M. Urnov)<br> 
