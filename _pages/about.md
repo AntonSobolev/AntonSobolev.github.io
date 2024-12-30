@@ -36,7 +36,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 ▨ Under Press <span style="color:CadetBlue;"> ▨ Under Review </span>  <span style="color:#6F6F6F;"> ▨ Under Construction</span> 
 </p>
 
-<p style="font-family:'Consolas'; white-space: nowrap;">
+<p style="font-family:'Monaco'; white-space: nowrap;">
 <b>Information Control and Contentious Politics </b><br>
         ■┓ [Technology & Protest] <br>
 <b>&nbsp;┣━[’13]</b> Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies <br>
