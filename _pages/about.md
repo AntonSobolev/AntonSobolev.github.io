@@ -36,7 +36,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 ▨ Under Press <span style="color:CadetBlue;"> ▨ Under Review </span>  <span style="color:#6F6F6F;"> ▨ Under Construction</span> 
 </p>
 
-<p style="font-family:'Monaco'; white-space: nowrap;">
+<p style="font-family:'JetBrains Mono'; white-space: nowrap;">
 <b>Information Control and Contentious Politics </b><br>
         ■┓ [Technology & Protest] <br>
 <b>&nbsp;┣━[’13]</b> Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies <br>
@@ -52,7 +52,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and Where They Lead: How Trolls Manipulate Search Engines  <br>
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia  <br>
 <b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b>  Backup for an Autocrat: A Subtle Art of Delayed Propaganda  <br></span>
-
+<br>
 <b>Cyber Policy & Security</b><br>
 <b>     ■┓</b> <br> <span style="color:CadetBlue;">
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> The Last Call for Authenticity: AI Voice Scams Reshaping Business and Political Communication <br>
@@ -60,7 +60,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Another Breach In The FireWall: The Hidden Cost of Digital Convenience in Municipal Governance<br>
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Hacking The Ivory Tower: Understanding Cyber Attacks Against Social Sciences  <br></span> <span style="color:#6F6F6F;">
 <b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> The Lost of Us: Between Digital Fingerprints and Cybersecurity Data <br></span>
-
+<br>
 <b>Cognitive Exploits in Humans & Machines</b><br>
 <b>     ■┓</b> <br><span>
 <b>&nbsp;┣━[’24]</b> Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0 <br>
@@ -69,7 +69,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Low Battery: Mental Health Correlates of Charging Habits<br>
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Arms Race Between Artificial & Natural Intelligence <br></span><span style="color:#6F6F6F;">
 <b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Reversal of Misfortune: Covid-19 in the Changing of Attitudes Toward Behavioral Disorders <br></span>
-
+<br>
 <b>Economics & Political Economy</b><br>
 <b>     ■┓</b> <br>
 <b>&nbsp;┣━ [’13]</b> Social and Economic Policy Trade-Offs in the Russian Regions: Evidence from Four Case Studies <br>
