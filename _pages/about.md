@@ -32,14 +32,13 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 
 ## Research Agenda
 
-<p style="font-family:'JetBrains Mono';font-size: 120%; white-space: nowrap;">
+<p style="font-family:'JetBrains Mono';font-size: 110%;">
 ▨ Under Press <span style="color:CadetBlue;"> ▨ Under Review </span>  <span style="color:#6F6F6F;"> ▨ Under Construction</span> 
 </p>
 
 
 
-<h3>Information Control and Contentious Politics </h3>
-
+**Information Control and Contentious Politics**
 
  
 <b>     ■┓ [Technology & Protest]</b> <br>
