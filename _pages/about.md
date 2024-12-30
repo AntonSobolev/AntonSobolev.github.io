@@ -81,10 +81,12 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 <b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Reversal of Misfortune: Covid-19 in the Changing of Attitudes Toward Behavioral Disorders <br>
 <b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>
 </span>
+</p>
 
 
-<br>
-<p style="font-size:'40px'; white-space: nowrap;"><h3>Political Economy & Economics </h3> </p>
+
+<p style="font-family:'JetBrains Mono';font-size: 110%;font-weight:bold">
+Economics & Political Economy</p> 
 
 <br>
 <p style="font-family:'JetBrains Mono'; white-space: nowrap;">
