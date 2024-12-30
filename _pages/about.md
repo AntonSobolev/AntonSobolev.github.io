@@ -26,7 +26,7 @@ Equally, I study the mechanics of persuasion and propaganda. <b>In a world teemi
 My research delves into the <b>parallels between human and machine learning</b>. Both, it seems, are shaped by incomplete and often biased datasets—be it the emotional scars of childhood or the skewed inputs that define artificial intelligence training sets. These vulnerabilities create fertile ground for cybercriminals  <b>to exploit cognitive weaknesses in humans and AI-based systems.</b><br><br>
 
 Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities, and the blurred boundaries between humans and machines -— connects to a broader ambition: to map the invisible contours of power and resistance in a world where the digital and the physical increasingly overlap.
- 
+ <br>
 </details>
 
 
@@ -36,9 +36,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 ▨ Under Press <span style="color:CadetBlue;"> ▨ Under Review </span>  <span style="color:#6F6F6F;"> ▨ Under Construction</span> 
 </p>
 
-<p style="font-family:'JetBrains Mono';font-size: 110%;font-weight:bold"> Information Control and Contentious Politics </p> 
-
-
+<p style="font-family:'JetBrains Mono';font-size: 110%;font-weight:bold"> Information Control and Contentious Politics</p> 
 <b>     ■┓ [Technology & Protest]</b> <br>
 <b>&nbsp;┣━[’13]</b> Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies <br>
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i>Problems of Post-Communism</i>, 2013, 60(2): 24-39 (with R. Smyth & I. Soboleva) <br>
