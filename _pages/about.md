@@ -36,7 +36,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 ▨ Under Press <span style="color:CadetBlue;"> ▨ Under Review </span>  <span style="color:#6F6F6F;"> ▨ Under Construction</span> 
 </p>
 
-<p style="font-family:'JetBrains Mono';font-size: 110%;font-weight:bold"> Information Control and Contentious Politics</p> 
+<p style="font-family:'JetBrains Mono';font-size: 100%;font-weight:bold">Information Control and Contentious Politics</p> 
 
 <p style="font-family:'JetBrains Mono'; white-space: nowrap;">
 <b>     ■┓ [Technology & Protest]</b> <br>
@@ -55,7 +55,8 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia  <br>
 <b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b>  Backup for an Autocrat: A Subtle Art of Delayed Propaganda  <br></span>
 </p>
-### Cyber Policy & Security
+<p style="font-family:'JetBrains Mono';font-size: 100%;font-weight:bold"> Cyber Policy & Security</p> 
+
 <p style="font-family:'JetBrains Mono'; white-space: nowrap;">
 <b>     ■┓</b> <br> <span style="color:CadetBlue;">
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> The Last Call for Authenticity: AI Voice Scams Reshaping Business and Political Communication <br>
@@ -64,7 +65,10 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Hacking The Ivory Tower: Understanding Cyber Attacks Against Social Sciences  <br></span> <span style="color:#6F6F6F;">
 <b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> The Lost of Us: Between Digital Fingerprints and Cybersecurity Data <br></span>
 </p>
-### Cognitive Exploits in Humans & Machines
+<p style="font-family:'JetBrains Mono';font-size: 100%;font-weight:bold">Cognitive Exploits in Humans & Machines</p> 
+
+
+### 
 
 
 <p style="font-family:'JetBrains Mono'; white-space: nowrap;">
