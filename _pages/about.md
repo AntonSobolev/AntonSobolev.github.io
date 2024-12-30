@@ -32,7 +32,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 
 ## Research Agenda
 
-<p style="font-family:'Monaco';font-size: 105%;">
+<p style="font-family:'JetBrains Mono';font-size: 105%;">
 ▨ Under Press <span style="color:CadetBlue;"> ▨ Under Review </span>  <span style="color:#6F6F6F;"> ▨ Under Construction</span> 
 </p>
 
