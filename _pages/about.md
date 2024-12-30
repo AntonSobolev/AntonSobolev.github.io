@@ -38,8 +38,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 
 
 
-
-<h3 style="font-family:'JetBrains Mono';>Information Control and Contentious Politics </h3>
+<h3>Information Control and Contentious Politics </h3>
 
 
  
