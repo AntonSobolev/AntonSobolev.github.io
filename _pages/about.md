@@ -37,10 +37,8 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 </p>
 
 
-
-**Information Control and Contentious Politics**
-
- 
+<p style="font-family:'JetBrains Mono'; white-space: nowrap;">
+**Information Control and Contentious Politics** 
 <b>     ■┓ [Technology & Protest]</b> <br>
 <b>&nbsp;┣━[’13]</b> Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies <br>
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i>Problems of Post-Communism</i>, 2013, 60(2): 24-39 (with R. Smyth & I. Soboleva) <br>
