@@ -37,6 +37,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 </p>
 
 <p style="font-family:'JetBrains Mono';font-size: 110%;font-weight:bold"> Information Control and Contentious Politics</p> 
+<p style="font-family:'JetBrains Mono'; white-space: nowrap;">
 <b>     ■┓ [Technology & Protest]</b> <br>
 <b>&nbsp;┣━[’13]</b> Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies <br>
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i>Problems of Post-Communism</i>, 2013, 60(2): 24-39 (with R. Smyth & I. Soboleva) <br>
@@ -45,8 +46,6 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 <b>&nbsp;┣━[’20]</b> News and Geolocated Social Media Accurately Measure Protest Size Variation <br>
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i>American Political Science Review,</i>  2020, 114(4), 1343-1351 (with K. Chen, J. Joo & Z. S.-Threlkeld)) <br> <span style="color:#6F6F6F;">
 <b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Protest Fragmentation: Mapping Disunity Beneath a Common Banner (with K. Medhi)</span>
-<br>
-
 <b>     ■┓ [Information Manipulation]</b> <br><span style="color:CadetBlue;">
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and How To Find Them:  Three Perspectives on Identification of Paid Political Trolls <br>
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and Whether They Matter: Causal Effect of Paid Political Trolls on Online Discussions  <br></span><span style="color:#6F6F6F;">
