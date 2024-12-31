@@ -33,7 +33,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 ## Research Agenda
 
 <p style="font-family:'JetBrains Mono';font-size: 105%;">
-▨ Under Press <span style="color:CadetBlue;"> ▨ Under Review </span>  <span style="color:#978E89;"> ▨ Under Construction</span> 
+▨ Under Press <span style="color:CadetBlue;"> ▨ Under Review </span>  <span style="color:#6F6661;"> ▨ Under Construction</span> 
 </p>
 
 <p style="font-family:'JetBrains Mono'; white-space: nowrap;">
@@ -44,13 +44,13 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 <b>&nbsp;┣━[’19]</b> Stability of Revolutionary Governments In The Face of Mass Protest <br>
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> European Journal of Political Economy, 2019, 60, 2-20  (with D. Dagaev & N. Lamberova) <br> 
 <b>&nbsp;┣━[’20]</b> News and Geolocated Social Media Accurately Measure Protest Size Variation <br>
-<b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>American Political Science Review,  2020, 114(4), 1343-1351 (with K. Chen, J. Joo & Z. S.-Threlkeld)) <br> <span style="color:#978E89;">
+<b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>American Political Science Review,  2020, 114(4), 1343-1351 (with K. Chen, J. Joo & Z. S.-Threlkeld)) <br> <span style="color:#6F6661;">
 <b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Protest Fragmentation: Mapping Disunity Beneath a Common Banner (with K. Medhi)</span><br>
         ■┓ [Information Manipulation] <br><span style="color:CadetBlue;">
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and How To Find Them: Three Perspectives on Identification of Paid Political Trolls <br>
-<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and Whether They Matter: Causal Effect of Paid Political Trolls on Online Discussions  <br></span> <span style="color:#978E89;">
+<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and Whether They Matter: Causal Effect of Paid Political Trolls on Online Discussions  <br></span> <span style="color:#6F6661;">
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and Where They Lead: How Trolls Manipulate Search Engines </span> <br> <span style="color:CadetBlue;">
-<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia</span>  <br> <span style="color:#978E89;">
+<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia</span>  <br> <span style="color:#6F6661;">
 <b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b>  Backup for an Autocrat: A Subtle Art of Delayed Propaganda  <br> </span>
 <br>
 <b>Cyber Policy & Security</b><br>
@@ -58,7 +58,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> The Last Call for Authenticity: AI Voice Scams Reshaping Business and Political Communication <br>
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Fortresses Without Borders: The Limits of Monopolization of Cyber Coercion <br>
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Another Breach In The FireWall: The Hidden Cost of Digital Convenience in Municipal Governance<br>
-<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Hacking The Ivory Tower: Understanding Cyber Attacks Against Social Sciences <br> </span> <span style="color:#978E89;">
+<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Hacking The Ivory Tower: Understanding Cyber Attacks Against Social Sciences <br> </span> <span style="color:#6F6661;">
 <b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> The Lost of Us: Between Digital Fingerprints and Cybersecurity Data <br></span>
 <br>
 <b>Cognitive Exploits in Humans & Machines</b><br>
@@ -67,7 +67,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>PLoS One, 2024 (with J. Hanson-DeFusco, A. Stanekzai, A. McMaster, <br> 
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>H. Popalzai, H. Shah, M. Shi, & N. Kumar) <br> </span><span style="color:CadetBlue;">
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Low Battery: Mental Health Correlates of Charging Habits<br>
-<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Arms Race Between Artificial & Natural Intelligence <br></span><span style="color:#978E89;">
+<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Arms Race Between Artificial & Natural Intelligence <br></span><span style="color:#6F6661;">
 <b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Reversal of Misfortune: Covid-19 in the Changing of Attitudes Toward Behavioral Disorders <br></span>
 <br>
 <b>Economics & Political Economy</b><br>
