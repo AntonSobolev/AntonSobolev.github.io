@@ -40,14 +40,14 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 <b>Information Control and Contentious Politics </b><br>
         ■┓ [Technology & Protest] <br>
 <b>&nbsp;┣━[’13]</b> Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies <br>
-<b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><b>Problems of Post-Communism</b>, 2013, 60(2): 24-39 (with R. Smyth & I. Soboleva) <br>
+<b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>Problems of Post-Communism, 2013, 60(2): 24-39 (with R. Smyth & I. Soboleva) <br>
 <b>&nbsp;┣━[’19]</b> Stability of Revolutionary Governments In The Face of Mass Protest <br>
-<b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i> European Journal of Political Economy,</i> 2019, 60, 2-20  (with D. Dagaev & N. Lamberova) <br> 
+<b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> European Journal of Political Economy, 2019, 60, 2-20  (with D. Dagaev & N. Lamberova) <br> 
 <b>&nbsp;┣━[’20]</b> News and Geolocated Social Media Accurately Measure Protest Size Variation <br>
-<b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i>American Political Science Review,</i>  2020, 114(4), 1343-1351 (with K. Chen, J. Joo & Z. S.-Threlkeld)) <br> <span style="color:#6F6F6F;">
+<b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>American Political Science Review,  2020, 114(4), 1343-1351 (with K. Chen, J. Joo & Z. S.-Threlkeld)) <br> <span style="color:#6F6F6F;">
 <b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Protest Fragmentation: Mapping Disunity Beneath a Common Banner (with K. Medhi)</span><br>
         ■┓ [Information Manipulation] <br><span style="color:CadetBlue;">
-<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and How To Find Them:  Three Perspectives on Identification of Paid Political Trolls <br>
+<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and How To Find Them: Three Perspectives on Identification of Paid Political Trolls <br>
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and Whether They Matter: Causal Effect of Paid Political Trolls on Online Discussions  <br></span> <span style="color:6F6F6F;">
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and Where They Lead: How Trolls Manipulate Search Engines </span> <br> <span style="color:CadetBlue;">
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia</span>  <br> <span style="color:6F6F6F;">
@@ -64,7 +64,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 <b>Cognitive Exploits in Humans & Machines</b><br>
 <b>     ■┓</b> <br><span>
 <b>&nbsp;┣━[’24]</b> Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0 <br>
-<b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i>PLoS One</i>, 2024 (with J. Hanson-DeFusco, A. Stanekzai, A. McMaster, <br> 
+<b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>PLoS One, 2024 (with J. Hanson-DeFusco, A. Stanekzai, A. McMaster, <br> 
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>H. Popalzai, H. Shah, M. Shi, & N. Kumar) <br> </span><span style="color:CadetBlue;">
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Low Battery: Mental Health Correlates of Charging Habits<br>
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Arms Race Between Artificial & Natural Intelligence <br></span><span style="color:#6F6F6F;">
@@ -73,11 +73,11 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 <b>Economics & Political Economy</b><br>
 <b>     ■┓</b> <br>
 <b>&nbsp;┣━ [’13]</b> Social and Economic Policy Trade-Offs in the Russian Regions: Evidence from Four Case Studies <br>
-<b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <i>Europe-Asia Studies</i>, 2013, 65(10): 1855-1876 (with T. Remington, I. Soboleva, & M. Urnov)<br> 
+<b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> Europe-Asia Studies, 2013, 65(10): 1855-1876 (with T. Remington, I. Soboleva, & M. Urnov)<br> 
 <b>&nbsp;┣━ [’14]</b> Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State? <br>
-<b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <i>Post-Soviet Affairs</i>, 2014, 30(1), 171-194 (with A. Yakovlev & A. Kazun)   <br> 
+<b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> Post-Soviet Affairs, 2014, 30(1), 171-194 (with A. Yakovlev & A. Kazun)   <br> 
 <b>&nbsp;┗━ [’14]</b> Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia <br>
-<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> <i>World Politics</i>, 2014, 66(4), 641-668  (with E. Lazarev, I. Soboleva, & B. Sokolov) 
+<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> World Politics, 2014, 66(4), 641-668  (with E. Lazarev, I. Soboleva, & B. Sokolov) 
 </p>
 
 
