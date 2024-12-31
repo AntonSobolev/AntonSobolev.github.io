@@ -40,7 +40,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 <b>Information Control and Contentious Politics </b><br>
         ■┓ [Technology & Protest] <br>
 <b>&nbsp;┣━[’13]</b> Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies <br>
-<b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i>Problems of Post-Communism</i>, 2013, 60(2): 24-39 (with R. Smyth & I. Soboleva) <br>
+<b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><b>Problems of Post-Communism</b>, 2013, 60(2): 24-39 (with R. Smyth & I. Soboleva) <br>
 <b>&nbsp;┣━[’19]</b> Stability of Revolutionary Governments In The Face of Mass Protest <br>
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b><i> European Journal of Political Economy,</i> 2019, 60, 2-20  (with D. Dagaev & N. Lamberova) <br> 
 <b>&nbsp;┣━[’20]</b> News and Geolocated Social Media Accurately Measure Protest Size Variation <br>
