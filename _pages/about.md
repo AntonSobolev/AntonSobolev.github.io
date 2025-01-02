@@ -66,7 +66,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>PLoS One, 2024 (with J. Hanson-DeFusco, A. Stanekzai, A. McMaster, <br> 
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>H. Popalzai, H. Shah, M. Shi, & N. Kumar) <br> </span><span style="color:CadetBlue;">
 <b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Low Battery: Mental Health Correlates of Charging Habits<br>
-<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Trauma in Training: How Human Socialization Creates Behavioral Vulnerabilities in AI<br></span><span style="color:#6F6661;">
+<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Trauma in Training Data: How Human Socialization Creates Behavioral Vulnerabilities in AI<br></span><span style="color:#6F6661;">
 <b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Reversal of Misfortune: Covid-19 in the Changing of Attitudes Toward Behavioral Disorders <br></span>
 <br>
 <b>Economics & Political Economy</b><br>
