@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Yet Another Free Man"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
