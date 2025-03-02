@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 # Yet Another Free Man
-### *[Мои баллады на слуху у всей Эллады](https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en)*
+
+### *[Мои баллады на слуху у всей Эллады](https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en)*f
 
 
 I am an Assistant Professor at the University of Texas at Dallas.  My research spans four interconnected fields: contentious politics, information control & beliefs manipulation, cybercrime, and cognitive sciences. Together, they form a framework for understanding the evolving logic of coercion, persuasion, and exploits in the cyberspace.
