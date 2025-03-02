@@ -8,9 +8,16 @@ redirect_from:
   - /about.html
 ---
 
+
+<p style="font-family:'JetBrains Mono'; white-space: nowrap;">
+<b>Information Control and Contentious Politics </b><br>
+        ■┓ [Technology & Protest] <br>
+<b>&nbsp;┣━[’13]</b> Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies <br>
+
+
 # Yet Another Free Man
 
-### *[Мои баллады на слуху у всей Эллады](https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en)*f
+### *[Мои баллады на слуху у всей Эллады](https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en)*
 
 
 I am an Assistant Professor at the University of Texas at Dallas.  My research spans four interconnected fields: contentious politics, information control & beliefs manipulation, cybercrime, and cognitive sciences. Together, they form a framework for understanding the evolving logic of coercion, persuasion, and exploits in the cyberspace.
