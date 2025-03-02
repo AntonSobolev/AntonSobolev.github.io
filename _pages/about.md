@@ -1,6 +1,8 @@
 ---
 permalink: /
 title: "Yet Another Free Man"
+subtitle: "Мои баллады на слуху у всей Эллады"
+
 excerpt: "About me"
 author_profile: true
 redirect_from: 
