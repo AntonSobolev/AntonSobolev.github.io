@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 
+# Yet Another Free Man
 *[Мои баллады на слуху у всей Эллады](https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en)*
 
 
