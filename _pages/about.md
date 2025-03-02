@@ -8,13 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-
-<p style="font-family:'JetBrains Mono'; white-space: nowrap;">
-<b>Information Control and Contentious Politics </b><br>
-        ■┓ [Technology & Protest] <br>
-<b>&nbsp;┣━[’13]</b> Well-Organized Play: Symbolic Politics and the Effect of the Pro-Putin Rallies <br>
-
-
 # Yet Another Free Man
 *[Мои баллады на слуху у всей Эллады](https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en)*
 
