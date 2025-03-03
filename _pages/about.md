@@ -11,6 +11,14 @@ redirect_from:
 *[Мои баллады на слуху у всей Эллады](https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en)*
 </span>
 
+
+<audio id="background-audio" autoplay>
+  <source src="mus.mp3" type="audio/mpeg">
+  Your browser does not support the audio element.
+</audio>
+
+
+
 I am an Assistant Professor at the University of Texas at Dallas.  My research spans four interconnected fields: contentious politics, information control & beliefs manipulation, cybercrime, and cognitive sciences. Together, they form a framework for understanding the evolving logic of coercion, persuasion, and exploits in the cyberspace.
 
 [Join me in this discovery!](https://anton-sobolev.youcanbook.me/) Find my Google Scholar profile [here](https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en) and my CV [here](cv/).
