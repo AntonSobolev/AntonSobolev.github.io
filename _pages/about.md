@@ -8,8 +8,10 @@ redirect_from:
   - /about.html
 ---
 <span style="color:CadetBlue;">
-On His Majesty's Service [@POTUS](@POTUS)
+On His Majesty's Service [@POTUS](#POTUS).
+
 Unbreakable Loyalty. Unstoppable Victory.
+
 Beyond the Call of Duty
 </span>
 
