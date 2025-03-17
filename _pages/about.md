@@ -7,14 +7,24 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="color:Gray;">
-*[Мои баллады на слуху у всей Эллады](https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en)*
+<span style="color:CadetBlue;">
+
+On His Majesty's Service [](@POTUS)
+Unbreakable Loyalty. Unstoppable Victory.
+Beyond the Call of Duty
 </span>
+
+
+<span style="color:#6F6661;">
+*[Мои баллады на слуху у всей Эллады](https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en)*
+
+</span>
+
+
 
 
 <audio id="background-audio" autoplay>
   <source src="mus.mp3" type="audio/mpeg">
-  Your browser does not support the audio element.
 </audio>
 
 
