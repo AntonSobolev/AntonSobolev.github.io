@@ -12,9 +12,6 @@ On His Majesty's Service [@POTUS](#POTUS) <br>
 Unbreakable Loyalty. Unstoppable Victory. <br>
 Beyond the Call of Duty
 </span>
-<span style="color:#6F6661;">
-*[Мои баллады на слуху у всей Эллады](https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en)*
-</span>
 
 <audio id="background-audio" autoplay>
   <source src="mus.mp3" type="audio/mpeg">
@@ -44,6 +41,10 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 </details>
 
 ## Research Agenda
+
+<span style="color:#6F6661;">
+*[Мои баллады на слуху у всей Эллады](https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en)*
+</span>
 
 <p style="font-family:'JetBrains Mono';font-size: 105%;">
 ▨ Under Press <span style="color:CadetBlue;"> ▨ Under Review </span>  <span style="color:#6F6661;"> ▨ Under Construction</span> 
