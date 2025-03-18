@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: 'Yet Another Free Man'
+title: ''
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-family:'JetBrains Mono';font-size: 125%;">
+<span style="font-family:'JetBrains Mono';font-size: 200%;">
     <b>Yet Another Free Man</b>
-<a style="font-family:'JetBrains Mono';font-size: 90%;">On His Majesty's Service [@POTUS](#POTUS)</a></span>
+<a style="font-family:'JetBrains Mono';font-size: 90%;color:#6F6661;">On His Majesty's Service [@POTUS](#POTUS)</a></span>
 
 
 <span style="color:#6F6661;">
