@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : @MrSobolev
+  username               : "MrSobolev"
 facebook:
   username               :
   app_id                 :
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : ""
   avatar           : "profile.png"
-  bio              : "Assistant Professor at the University of Texas at Dallas"
+  bio              : "Assistant Professor"
   location         : "Earth & Beyond"
   employer         :
   pubmed           : 
