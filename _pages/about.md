@@ -7,6 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+
+<span style="font-family:'JetBrains Mono';font-size: 125%;">
+    <b>Yet Another Free Man</b>
+<a style="font-family:'JetBrains Mono';font-size: 90%;">On His Majesty's Service @POTUS</a></span>
+
+Yet Another Free Man
+
 <span style="color:#6F6661;">
 On His Majesty's Service [@POTUS](#POTUS) <br>
 Unbreakable Loyalty. Unstoppable Victory. <br>
