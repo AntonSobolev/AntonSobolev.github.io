@@ -38,7 +38,7 @@ My research delves into the <b>parallels between human and machine learning</b>.
 
 Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities, and the blurred boundaries between humans and machines -— connects to a broader ambition: to map the invisible contours of power and resistance in a world where the digital and the physical increasingly overlap.
  <br>
-</details>
+</details><br>
 
 <p style="font-family:'JetBrains Mono';font-size: 125%;"><b>Research Agenda</b></p>
 <a href="https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en" style="font-family:'JetBrains Mono';font-size: 105%;"><i>Мои баллады на слуху у всей Эллады</i></a>
