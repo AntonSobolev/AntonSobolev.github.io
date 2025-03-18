@@ -8,10 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-<span style="font-family:'JetBrains Mono';font-size: 200%;">
-    <b>Yet Another Free Man</b>
-<a style="font-family:'JetBrains Mono';font-size: 90%;color:#6F6661;">On His Majesty's Service @POTUS</a><br>
-<span style="color:#6F6661;font-size: 90%;">Unbreakable Loyalty. Unstoppable Victory. Beyond the Call of Duty</span>
+<span style="font-family:'JetBrains Mono';font-size: 125%;"><b>Research Agenda</b>
+<a href="https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en" style="font-family:'JetBrains Mono';font-size: 90%;"><i>Мои баллады на слуху у всей Эллады</i></a></span>
+
+
+
+
+
+
+<span style="font-family:'JetBrains Mono';font-size: 200%;"><b>Yet Another Free Man</b>
+<a style="font-family:'JetBrains Mono';font-size: 30%;color:#6F6661;">On His Majesty's Service @POTUS</a><br>
+<span style="color:#6F6661;font-size: 10%;">Unbreakable Loyalty. Unstoppable Victory. Beyond the Call of Duty</span>
 </span>
 
 
