@@ -40,8 +40,9 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
  <br>
 </details>
 
-## Research Agenda
-*[Мои баллады на слуху у всей Эллады](https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en)*
+
+<p style="font-family:'JetBrains Mono';font-size: 125%;"><b>Research Agenda</b></p> <br>
+<p href = 'https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en' style="font-family:'JetBrains Mono';font-size: 125%;"><b>Мои баллады на слуху у всей Эллады</b></p> <br>
 <p style="font-family:'JetBrains Mono';font-size: 105%;">
 ▨ Under Press <span style="color:CadetBlue;"> ▨ Under Review </span>  <span style="color:#6F6661;"> ▨ Under Construction</span> 
 </p>
