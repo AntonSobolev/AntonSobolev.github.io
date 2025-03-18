@@ -10,7 +10,7 @@ redirect_from:
 
 <span style="font-family:'JetBrains Mono';font-size: 175%;"><b>Yet Another Free Man</b>
 <a style="font-family:'JetBrains Mono';font-size: 60%;color:#6F6661;">On His Majesty's Service</a><br>
-<span style="color:#6F6661;font-size: 60%;">@POTUS. Unbreakable Loyalty. Unstoppable Victory. <br> Beyond the Call of Duty</span>
+<span style="color:#6F6661;font-size: 60%;">@POTUS.Unbreakable Loyalty.Unstoppable Victory.Beyond the Call of Duty</span>
 </span>
 
 
