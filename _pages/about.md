@@ -15,7 +15,7 @@ redirect_from:
 
 
 
-I am an Assistant Professor at the University of Texas at Dallas.  My research spans four interconnected fields: contentious politics, information control & beliefs manipulation, cybercrime, and cognitive disorders. Together, they form a framework for understanding the evolving logic of coercion, persuasion, and exploits in the cyberspace.
+I am an Assistant Professor at the University of Texas at Dallas.  My research spans four interconnected fields: contentious politics, information control & beliefs manipulation, cybercrime, and cognitive disorders. Together, they form a framework for understanding the evolving logic of coercion, persuasion, and exploits in the cyberspace and beyond.
 
 [Join me in this discovery!](https://anton-sobolev.youcanbook.me/) Find my Google Scholar profile [here](https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en) and my CV [here](cv/).
 
