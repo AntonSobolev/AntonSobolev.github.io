@@ -88,6 +88,33 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 </p>
 
 
+
+
+
+
+
+<details>
+    <summary>
+<b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Reversal of Misfortune: Covid-19 in the Changing of Attitudes Toward Behavioral Disorders
+    </summary>
+
+<br>
+At the heart of my inquiry lies a question: <b>What is cyberspace, and how does it redefine the boundaries between information and the physical world? Can we adapt the classic ideas of Weber, Tilly, and Olson—about monopolies on coercion—to a reality where power is diffused across networks of data and algorithms?</b> These theoretical puzzles guide my exploration of how states and criminals exploit cognitive vulnerabilities information flows to enforce control in an era where distinguishing truth from fiction has become prohibitively expensive for the average person. <br> <br>
+
+Equally, I study the mechanics of persuasion and propaganda. <b>In a world teeming with bots, trolls, and covert operations, the line between organic user behavior and state-sponsored manipulation blurs.</b> This raises profound questions about the architecture of belief systems and the fragility of democratic discourse when trust in information sources erodes.<br><br>
+
+My research delves into the <b>parallels between human and machine learning</b>. Both, it seems, are shaped by incomplete and often biased datasets—be it the emotional scars of childhood or the skewed inputs that define artificial intelligence training sets. These vulnerabilities create fertile ground for cybercriminals  <b>to exploit cognitive weaknesses in humans and AI-based systems.</b><br><br>
+
+Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities, and the blurred boundaries between humans and machines -— connects to a broader ambition: to map the invisible contours of power and resistance in a world where the digital and the physical increasingly overlap.
+ <br>
+</details><br>
+
+
+
+
+
+
+
 <!--
 I am an Assistant Professor of Political Economy and Cyber Policy at the University of Texas at Dallas. My research studies questions of politics using text analysis, machine learning, and causal inference. My recent projects focus on mass protest, cybersecurity, and political control in autocracies. More broadly, I study how digital technology shapes political behavior. 
 
