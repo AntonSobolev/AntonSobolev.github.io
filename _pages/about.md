@@ -7,7 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="font-family:'JetBrains Mono';font-size: 175%;"><b>Yet Another Free Man</b></span>
+<span style="font-family:'JetBrains Mono';font-size: 175%;"><b>Yet Another Free Man</b></span>[0<]
+
 <!--
 
 <br>
