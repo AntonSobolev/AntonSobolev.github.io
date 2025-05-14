@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<span style="font-family:'JetBrains Mono';font-size: 175%;"><b>Yet Another Free Man</b></span> <span style="color:CadetBlue;">[0<]</span>
+<span style="font-family:'JetBrains Mono';font-size: 175%;"><b>Yet Another Free Man</b></span> <span style="color:CadetBlue;"> [0<]</span>
 
 I am an Assistant Professor at the University of Texas at Dallas.  My research spans four interconnected fields: contentious politics, information control & beliefs manipulation, cybercrime, and cognitive disorders. Together, they form a framework for understanding the evolving logic of coercion, persuasion, and exploits in the cyberspace and beyond.
 
