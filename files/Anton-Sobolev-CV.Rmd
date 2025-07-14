@@ -35,11 +35,13 @@ xcolor: yes
 \hskip 1cm Prof. Chad Hazlett, Prof. Daniel Posner, Prof. Jeniffer Pan (Stanford)
 -->
 
-**University of California, Los Angeles**, M.Sc. in Statistics  \hfill 2019
+**University of California, Los Angeles**, M.Sc., in Statistics  \hfill 2019
 
-**Higher School of Economics, Moscow**, M.A. in  Political Economy (with Honors)  \hfill 2011
+**Higher School of Economics, Moscow**, Ph.D., Public Economics  \hfill 2015
 
-**Higher School of Economics, Moscow,** B.A. in Political Science (with Honors)  \hfill 2009
+**Higher School of Economics, Moscow**, M.A., Political Economy (with Honors)  \hfill 2011
+
+**Higher School of Economics, Moscow,** B.A., Political Science (with Honors)  \hfill 2009
 
 # ACADEMIC POSITIONS
 

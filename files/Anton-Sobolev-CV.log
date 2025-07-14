@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.21)  15 FEB 2025 22:16
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.4.23)  14 JUL 2025 13:15
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -520,9 +520,9 @@ Package rerunfilecheck Info: File `Anton-Sobolev-CV.out' has not changed.
 (rerunfilecheck)             Checksum: CCCF149C02BF2FA68127BD562A761E39;1300.
  ) 
 Here is how much of TeX's memory you used:
- 14928 strings out of 476025
- 233101 string characters out of 5790017
- 1864388 words of memory out of 5000000
+ 14917 strings out of 476025
+ 232948 string characters out of 5790017
+ 1863388 words of memory out of 5000000
  34907 multiletter control sequences out of 15000+600000
  557486 words of font info for 230 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -535,10 +535,10 @@ texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive
 /2023/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2023/
 texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-d
 ist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Anton-Sobolev-CV.pdf (3 pages, 151792 bytes).
+Output written on Anton-Sobolev-CV.pdf (3 pages, 151523 bytes).
 PDF statistics:
- 144 PDF objects out of 1000 (max. 8388607)
- 121 compressed objects within 2 object streams
- 26 named destinations out of 1000 (max. 500000)
+ 131 PDF objects out of 1000 (max. 8388607)
+ 108 compressed objects within 2 object streams
+ 15 named destinations out of 1000 (max. 500000)
  65625 words of extra memory for PDF output out of 74296 (max. 10000000)
 
