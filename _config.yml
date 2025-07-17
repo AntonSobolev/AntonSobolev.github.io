@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Anton Sobolev"
+title                    : ""
 title_separator          : "-"
 name                     : &name "Anton Sobolev"
 description              : &description "personal description"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : 
   avatar           : "profile.png"
   bio              : "Assistant Professor"
-  location         : ""
+  location         : 
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en"
