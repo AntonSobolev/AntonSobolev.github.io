@@ -64,7 +64,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> Europe-Asia Studies, 2013, 65(10): 1855-1876 (with T. Remington, I. Soboleva, & M. Urnov)<br> 
 <b>&nbsp;┣━ [’14]</b> Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State? <br>
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> Post-Soviet Affairs, 2014, 30(1), 171-194 (with A. Yakovlev & A. Kazun)   <br> 
-<b>&nbsp;┣━[’14]</b> Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia <br><b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> World Politics, 2014, 66(4), 641-668  (with E. Lazarev, I. Soboleva, & B. Sokolov) 
+<b>&nbsp;┣━[’14]</b> Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia <br><b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> World Politics, 2014, 66(4), 641-668  (with E. Lazarev, I. Soboleva, & B. Sokolov)<br>
 <b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Vote-For-Church: Cooptation of Religious Voters in Electoral Autocracy <br></span>
 
 
