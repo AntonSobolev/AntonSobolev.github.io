@@ -46,28 +46,16 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 <b>&nbsp;┣━[’20]</b> News and Geolocated Social Media Accurately Measure Protest Size Variation <br>
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>American Political Science Review,  2020, 114(4), 1343-1351 (with K. Chen, J. Joo & Z. S.-Threlkeld) <br> <span style="color:#6F6661;">
 <b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Protest Fragmentation: Mapping Disunity Beneath a Common Banner (with K. Medhi)</span><br>
-        ■┓ [Information Manipulation] <br><span style="color:CadetBlue;">
-<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and How To Find Them: Three Perspectives on Identification of Paid Political Trolls <br>
-<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and Whether They Matter: Causal Effect of Paid Political Trolls on Online Discussions  <br></span> <span style="color:#6F6661;">
-<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and Where They Lead: How Trolls Manipulate Search Engines </span> <br> <span style="color:CadetBlue;">
-<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia</span>  <br> <span style="color:#6F6661;">
-<b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b>  Backup for an Autocrat: A Subtle Art of Delayed Propaganda  <br> </span>
-<br>
-<b>Cyber Policy & Security</b><br>
-<b>     ■┓</b> <br> <span style="color:CadetBlue;">
-<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> The Last Call for Authenticity: AI Voice Scams Reshaping Business and Political Communication <br>
-<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Fortresses Without Borders: The Limits of Monopolization of Cyber Coercion <br>
-<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Another Breach In The FireWall: The Hidden Cost of Digital Convenience in Municipal Governance<br>
-<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Hacking The Ivory Tower: Understanding Cyber Attacks Against Social Sciences <br> </span> <span style="color:#6F6661;">
-<b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> The Lost of Us: From Digital Fingerprints to Distorted Data in Cybersecurity <br></span>
+ 
+
 <br>
 <b>Cognitive Exploits in Humans & Machines</b><br>
+
 <b>     ■┓</b> <br><span>
 <b>&nbsp;┣━[’25]</b> Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0 <br>
-<b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>PLoS Mental Health, 2025 (with J. Hanson-DeFusco, A. Stanekzai, A. McMaster, <br> 
+<b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>PLoS Mental Health, 2025 (with J. Hanson-DeFusco, A. Stanekzai, A. McMaster, <br>
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b>H. Popalzai, H. Shah, M. Shi, & N. Kumar) <br> </span><span style="color:CadetBlue;">
-<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Low Battery: Mental Health Correlates of Charging Habits<br>
-<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Trauma in Training: How Human Socialization Creates Behavioral Vulnerabilities in AI<br></span><span style="color:#6F6661;">
+<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> The Last Call for Authenticity: AI Voice Scams Reshaping Business and Political Communication <br>
 <b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Reversal of Misfortune: Covid-19 in the Changing of Attitudes Toward Behavioral Disorders <br></span>
 <br>
 <b>Economics & Political Economy</b><br>
@@ -76,8 +64,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> Europe-Asia Studies, 2013, 65(10): 1855-1876 (with T. Remington, I. Soboleva, & M. Urnov)<br> 
 <b>&nbsp;┣━ [’14]</b> Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State? <br>
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> Post-Soviet Affairs, 2014, 30(1), 171-194 (with A. Yakovlev & A. Kazun)   <br> 
-<b>&nbsp;┗━ [’14]</b> Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia <br>
-<b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> World Politics, 2014, 66(4), 641-668  (with E. Lazarev, I. Soboleva, & B. Sokolov) 
+<b>&nbsp;┗━ [’14]</b> Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia <br><b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> World Politics, 2014, 66(4), 641-668  (with E. Lazarev, I. Soboleva, & B. Sokolov) 
 </p>
 
 
@@ -88,6 +75,29 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 
 
 <!--
+<br>
+<b>Cyber Policy & Security</b><br>
+<b>     ■┓</b> <br> <span style="color:CadetBlue;">
+<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> The Last Call for Authenticity: AI Voice Scams Reshaping Business and Political Communication <br>
+<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Fortresses Without Borders: The Limits of Monopolization of Cyber Coercion <br>
+<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Another Breach In The FireWall: The Hidden Cost of Digital Convenience in Municipal Governance<br>
+<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Hacking The Ivory Tower: Understanding Cyber Attacks Against Social Sciences <br> </span> <span style="color:#6F6661;">
+<b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> The Lost of Us: From Digital Fingerprints to Distorted Data in Cybersecurity <br></span>
+
+
+
+       ■┓ [Information Manipulation] <br><span style="color:CadetBlue;">
+<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and How To Find Them: Three Perspectives on Identification of Paid Political Trolls <br>
+<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and Whether They Matter: Causal Effect of Paid Political Trolls on Online Discussions  <br></span> <span style="color:#6F6661;">
+<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  Fantastic Beasts and Where They Lead: How Trolls Manipulate Search Engines </span> <br> <span style="color:CadetBlue;">
+<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b>  How Free Media Can Help an Autocrat to Deal with Mass Protests? A Curious Case of Russia</span>  <br> <span style="color:#6F6661;">
+<b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b>  Backup for an Autocrat: A Subtle Art of Delayed Propaganda  <br> </span>
+
+
+<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Low Battery: Mental Health Correlates of Charging Habits<br>
+<b>&nbsp;┣━[&nbsp;&nbsp;&nbsp;]</b> Trauma in Training: How Human Socialization Creates Behavioral Vulnerabilities in AI<br></span><span style="color:#6F6661;">
+
+
 I am an Assistant Professor of Political Economy and Cyber Policy at the University of Texas at Dallas. My research studies questions of politics using text analysis, machine learning, and causal inference. My recent projects focus on mass protest, cybersecurity, and political control in autocracies. More broadly, I study how digital technology shapes political behavior. 
 
 My work has been published in [_American Political Science Review_](https://doi.org/10.1017/S0003055420000295), [_World Politics_](https://doi.org/10.1017/S0043887114000215), [_European Journal of Political Economy_](https://doi.org/10.1016/j.ejpoleco.2019.08.003), [_Post-Soviet Affairs_](https://doi.org/10.1080/1060586X.2013.859434), [_Europe-Asia Studies_](https://doi.org/10.1080/09668136.2013.838055), and [_Problems of Post-Communism_](https://doi.org/10.2753/PPC1075-8216600203). I published in American and Russian printed and electronic media, including [_The Monkey Cage Blog_](https://themonkeycage.org/2012/03/the-complicated-views-of-pro-and-anti-putin-protestors/), the leading Russian business daily [_Vedomosti_](https://www.vedomosti.ru/authors/anton-sobolev/documents), and [_Forbes-Russia_](http://www.forbes.ru/mneniya-column/siloviki/249581-nauchilsya-li-rossiiskii-biznes-zashchishchatsya-ot-silovikov).
