@@ -31,7 +31,7 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 </details><br>
 
 <span style="font-family:'JetBrains Mono';font-size: 125%;"><b>Research Agenda</b>
-<a href="https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en" style="font-family:'JetBrains Mono';font-size: 60%;style="color:#6F6661;><i>Мои баллады на слуху у всей Эллады</i></a></span>
+<a href="https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en" style="font-family:'JetBrains Mono';font-size: 60%;"color:#6F6661;><i>Мои баллады на слуху у всей Эллады</i></a></span>
 <p style="font-family:'JetBrains Mono';font-size: 105%;">
 ▨ Under Press <span style="color:CadetBlue;"> ▨ Under Review </span>  
 </p>
