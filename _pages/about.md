@@ -9,7 +9,7 @@ redirect_from:
 ---
 <span style="font-family:'JetBrains Mono';font-size: 175%;"><b>Anton Sobolev</b></span>
 
-I am an Assistant Professor at the University of Texas at Dallas.  My research spans four interconnected fields: contentious politics, information control & beliefs manipulation, cybercrime, and cognitive disorders. Together, they form a framework for understanding the evolving logic of coercion, persuasion, and exploits in the cyberspace and beyond.
+I am an Assistant Professor at the University of Texas at Dallas.  My research spans four interconnected fields: contentious politics, information control & beliefs manipulation, cybercrime, and cognitive sciences. Together, they form a framework for understanding the evolving logic of coercion, persuasion, and exploits in the cyberspace and beyond.
 
 [Join me in this discovery!](https://anton-sobolev.youcanbook.me/) Find my Google Scholar profile [here](https://scholar.google.com/citations?user=NBBrsKwAAAAJ&hl=en) and my CV [here](cv/).
 
@@ -64,13 +64,18 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> Europe-Asia Studies, 2013, 65(10): 1855-1876 (with T. Remington, I. Soboleva, & M. Urnov)<br> 
 <b>&nbsp;┣━[’14]</b> Means of Production VS Means of Coercion: Can Russian Business Limit the Violence of Predatory State? <br>
 <b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> Post-Soviet Affairs, 2014, 30(1), 171-194 (with A. Yakovlev & A. Kazun)   <br> 
-<b>&nbsp;┣━[’14]</b> Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia <br><b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> World Politics, 2014, 66(4), 641-668  (with E. Lazarev, I. Soboleva, & B. Sokolov)<br><span style="color:CadetBlue;">
-<b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Vote-For-Church: Cooptation of Religious Voters in Electoral Autocracy <br></span>
+<b>&nbsp;┗━[’14]</b> Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia <br><b>&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</b> World Politics, 2014, 66(4), 641-668  (with E. Lazarev, I. Soboleva, & B. Sokolov)<br><span style="color:CadetBlue;">
+
+
+
+<br></span>
 
 
 
 
 <!--
+<b>&nbsp;┗━[&nbsp;&nbsp;&nbsp;]</b> Vote-For-Church: Cooptation of Religious Voters in Electoral Autocracy 
+
 <br>
 <b>Cyber Policy & Security</b><br>
 <b>     ■┓</b> <br> <span style="color:CadetBlue;">
