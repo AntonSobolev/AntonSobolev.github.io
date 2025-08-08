@@ -72,13 +72,6 @@ Higher School of Economics, Moscow
 
 # RESEARCH
 
-## Under review
-[**"Vote-for-Church: Co-optation of Religious Voters in Electoral Autocracy
-"**]() (with Daniil Romanov, Evgeny Sedashov, and Vadim Devyatnikov)
-
-## Revise & Resubmit
-[**"The Last Call for Authenticity: AI Voice Scams Reshaping Business and Political Communication"**]() 
-
 ## Articles
 
 [**"Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0"**](https://doi.org/10.1371/journal.pmen.0000118) in *PLOS Mental Health*, 2025, (2):1  (with Jessi Hanson-DeFusco, Abdul Stanekzai, Alexis McMaster, Hamid Popalzai, Heer Shah, Min Shi, and Nandita Kumar)
@@ -100,6 +93,18 @@ Higher School of Economics, Moscow
 [**"Civic and Political Activism in Russia"**](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.13) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Alexei Zakharov)
 
 [**"Defining Common Ground: Collective Identity in Russia's Post-Election Protests and Rallies"**](https://AntonSobolev.github.com/files/2013-Defining-Commong-Ground.pdf) in *The Systemic and Non-Systemic Opposition in the Russian Federation*, 2015, 51-76, Ashgate Publishing (with Regina Smyth and Irina Soboleva)
+
+<!--
+
+## Under review
+[**"Vote-for-Church: Co-optation of Religious Voters in Electoral Autocracy
+"**]() (with Daniil Romanov, Evgeny Sedashov, and Vadim Devyatnikov)
+
+## Revise & Resubmit
+[**"The Last Call for Authenticity: AI Voice Scams Reshaping Business and Political Communication"**]() 
+
+-->
+
 
 
 # GRANTS
