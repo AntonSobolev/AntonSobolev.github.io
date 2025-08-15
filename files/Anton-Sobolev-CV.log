@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.21)  17 JUL 2025 12:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.21)  14 AUG 2025 21:48
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -508,14 +508,6 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 8.33606pt on input line 112.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 6.25204pt on input line 112.
-
-Package hyperref Warning: Suppressing link with empty target on input line 175.
-
-
-
-Package hyperref Warning: Suppressing link with empty target on input line 182.
-
-
 [1
 
 {/usr/local/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
@@ -525,16 +517,16 @@ al/texlive/2023/texmf-dist/fonts/enc/dvips/base/8r.enc}{/usr/local/texlive/2023
 enddocument/afterlastpage: lastpage setting LastPage.
 (./Anton-Sobolev-CV.aux)
 Package rerunfilecheck Info: File `Anton-Sobolev-CV.out' has not changed.
-(rerunfilecheck)             Checksum: 04B3C545C6191581F6F38AF9E144EE3E;1575.
+(rerunfilecheck)             Checksum: CCCF149C02BF2FA68127BD562A761E39;1300.
  ) 
 Here is how much of TeX's memory you used:
- 14936 strings out of 476025
- 233219 string characters out of 5790017
- 1863388 words of memory out of 5000000
- 34911 multiletter control sequences out of 15000+600000
+ 14928 strings out of 476025
+ 233101 string characters out of 5790017
+ 1864388 words of memory out of 5000000
+ 34907 multiletter control sequences out of 15000+600000
  557486 words of font info for 230 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,12n,67p,1205b,473s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 63i,12n,67p,1205b,450s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome/FontAwesom
 e.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></
 usr/local/texlive/2023/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/loca
@@ -543,10 +535,10 @@ texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive
 /2023/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2023/
 texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-d
 ist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Anton-Sobolev-CV.pdf (3 pages, 152904 bytes).
+Output written on Anton-Sobolev-CV.pdf (3 pages, 151650 bytes).
 PDF statistics:
- 154 PDF objects out of 1000 (max. 8388607)
- 131 compressed objects within 2 object streams
- 30 named destinations out of 1000 (max. 500000)
- 65641 words of extra memory for PDF output out of 74296 (max. 10000000)
+ 144 PDF objects out of 1000 (max. 8388607)
+ 121 compressed objects within 2 object streams
+ 26 named destinations out of 1000 (max. 500000)
+ 65625 words of extra memory for PDF output out of 74296 (max. 10000000)
 
