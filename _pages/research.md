@@ -36,7 +36,7 @@ redirect_from:
 
 <details>
     <summary>
-    <span style="color:Gray;">Exploiting geographic variation in Orthodox church-building, this article investigates how churches affect political support for the regime in Russia. &#x2BC8; </span>
+    <span style="color:Gray;">Exploiting geographic variation in Orthodox church-building, this article investigates how churches affect political support for the regime in Russia. [click to expand] </span>
     </summary>
 <br>    
 Religious groups, with their moral authority, organizational resources, and mobilization capacity, often pose serious challenges to autocratic leaders, who respond through strategies such as repression, surveillance, and, notably, co-optation. Decades of anti-religious Soviet policy not only halted church construction, but actively pursued their destruction nationwide. The Soviet collapse triggered a wave of large-scale church construction — a development virtually unparalleled in modern history. Drawing on a dataset of 31,000 churches, the paper shows that electoral support for the incumbent president significantly increased in areas with churches built between 2012–2018, with effect sizes ranging from 2 to 4.4 percentage points. It further demonstrates that this support stems from churchgoers’ fulfilled needs, not political indoctrination, economic spillovers, or social pressure.
@@ -53,10 +53,12 @@ Religious groups, with their moral authority, organizational resources, and mobi
 <figcaption><i>User Interest for Search Queries Related to Voice Calls and AI-calls, US, ‘05-‘25</i></figcaption>
 </center>
 
+
+[click to expand]
    
 <details>
     <summary>
-    <span style="color:Gray;">Details</span>
+    <span style="color:Gray;">This paper examines how voice synthesis technologies, democratized by AI, have radically transformed risks of voice communications. [click to expand]</span>
     </summary>
 <br>
 The human voice, once a paragon of trust and authenticity, is evolving into a tool of deception. While public attention remains captivated by deepfake videos, this paper argues that a more immediate threat lies in AI-based synthetic voice generation. Accessibility of voice synthesis lowers technical barriers for criminals, enhancing social engineering tactics and enabling new forms of fraud, such as virtual kidnappings and advanced financial scams. As AI mimics human speech with precision, individuals question the authenticity of vocal interactions. At its extreme, this signals the end of the telephone call as a reliable, efficient, and “cheap” medium. Negative potential of synthetic voice extends beyond cybersecurity dimension, eroding trust and destabilizing societies. This paper examines how voice synthesis technologies, democratized by AI, have radically transformed risks of voice communications. First, it analyzes the evolution of voice synthesis technologies and their impact on reducing costs and simplifying fraudulent schemes. Second, it traces how AI is reshaping the landscape of voice fraud due to developments in voice synthesis and agentic AI. Third, it analyzes potential long-term effects of these developments on the continued use of the phone call as a channel for scams. The paper concludes by outlining the implications of these shifts for cybersecurity policy, with attention to technical, behavioral, and societal aspects.
@@ -75,12 +77,9 @@ The human voice, once a paragon of trust and authenticity, is evolving into a to
 
 <details>
     <summary>
-    <span style="color:Gray;">Details</span>
+    <span style="color:Gray;">When and why do political leaders choose to appear —or disappear— from the public eye? For democratic leaders, visibility is often constrained by institutional calendars, press obligations, and electoral incentives. For autocrats, however, the timing of public presence is more discretionary, and thus potentially strategic. In this project, I examine the logic of such disappearances through the case of Vladimir Putin. [click to expand]</span>
     </summary>
-
 <br>
-When and why do political leaders choose to appear —or disappear— from the public eye? For democratic leaders, visibility is often constrained by institutional calendars, press obligations, and electoral incentives. For autocrats, however, the timing of public presence is more discretionary, and thus potentially strategic. In this project, I examine the logic of such disappearances through the case of Vladimir Putin.
-
 Drawing on twenty-five years of daily data from the Kremlin’s official website, I analyze the rhythm of Putin’s media presence and absence. I identify systematic patterns in the days when he is missing from the public record and study what happens around stretches of prolonged absence. I juxtapose routine news silence with the tempo of presidential decree signing, tracing how “appearance” via decrees relates to days without public events and how these dynamics evolve over time.
 
 By tracing an autocrat’s public visibility over a quarter-century, I shed light on the broader question of how leaders manage uncertainty, project control, and maintain legitimacy.
@@ -89,13 +88,16 @@ By tracing an autocrat’s public visibility over a quarter-century, I shed ligh
 
 
 
+<span style="font-family:'JetBrains Mono';font-size: 125%;"><b>Vote-for-Church:<br>Co-optation of Religious Voters in Electoral Autocracy</b><br>
+<span style="font-family:'JetBrains Mono';font-size: 90%;color:#6F6661;">(with Daniil Romanov, Evgeny Sedashov, and Vadim Devyatnikov)</span></span>
+
 
 <span style="font-family:'JetBrains Mono';font-size: 125%;"><b>Reversal of Misfortune:<br>Covid-19 in the Changing of Attitudes Toward Behavioral Disorders</b></span>
 
 
 <center>
 <img src="/files/figs/Figure-Reversal.png" style="max-height:500px; width:auto;">
-<figcaption><i>"No News" Days and Presidential Decrees by Quarter</i></figcaption>
+<figcaption><i>Internet Users' Interest in severe behavioral desorders and preventive wellbeing</i></figcaption>
 </center>
 
 
@@ -116,6 +118,8 @@ The paper contributes to the emerging literature on the economics of public heal
 </details>
 
 with Jessi Hanson-DeFusco & Dina Rosenberg
+
+
 
 <!--
 
