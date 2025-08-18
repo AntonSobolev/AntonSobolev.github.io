@@ -57,6 +57,10 @@ The paper contributes to the emerging literature on the economics of public heal
  
 with Jessi Hanson-DeFusco & Dina Rosenberg
 
+<center>
+<img src="https://asobolev.com/files/figs/Figure-As-If-Random.png" style="height:500%;">
+<figcaption><i>"No News" Days and Presidential Decrees by Quarter</i></figcaption>
+</center>
 
 
 <!--
