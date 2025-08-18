@@ -27,17 +27,18 @@ Exploiting geographic variation in Orthodox church-building, this article invest
 
 <center>
   <figure>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg" style="max-height:500px;width:auto;">
-    <figcaption><i>"No News" Days and Presidential Decrees by Quarter</i></figcaption>
+    <img src="files/figs/Figure-Rel-And-Vote.png" style="max-height:500px;width:auto;">
+    <figcaption><i> Orthodox Church Construction, Russia, XV-XXI </i></figcaption>
   </figure>
 </center>
 
 
 
+<img src="files/figs/Figure-Rel-And-Vote.png" style="max-height:500px;width:auto;">
 
 <center>
-<img src="https://asobolev.com/files/figs/Figure-Rel-And-Vote.png" style="max-height:500px; width:auto;">
-<figcaption><i>"No News" Days and Presidential Decrees by Quarter</i></figcaption>
+<img src="files/figs/Figure-Rel-And-Vote.png" style="max-height:500px; width:auto;">
+<figcaption><i></i></figcaption>
 </center>
 
 <span style="font-family:'JetBrains Mono';font-size: 125%;"><b>The Last Call for Authenticity:<br>AI Voice Scams Reshaping Business and Political Communication</b></span>
