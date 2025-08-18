@@ -20,9 +20,7 @@ redirect_from:
   }
 </style>
 
-
 <br>
-
 
 <span style="font-family:'JetBrains Mono';font-size: 125%;"><b>Vote-for-Church:<br>Co-optation of Religious Voters in Electoral Autocracy</b><br>
 <span style="font-family:'JetBrains Mono';font-size: 90%;color:#6F6661;">(with Daniil Romanov, Evgeny Sedashov, and Vadim Devyatnikov)</span></span>
@@ -73,8 +71,6 @@ The human voice, once a paragon of trust and authenticity, is evolving into a to
 <figcaption><i>"No News" Days and Presidential Decrees by Quarter</i></figcaption>
 </center>
 
-
-
 <details>
     <summary>
     <span style="color:Gray;">When and why do political leaders choose to appear —or disappear— from the public eye? For democratic leaders, visibility is often constrained by institutional calendars, press obligations, and electoral incentives. For autocrats, however, the timing of public presence is more discretionary, and thus potentially strategic. In this project, I examine the logic of such disappearances through the case of Vladimir Putin. [click to expand]</span>
@@ -86,20 +82,17 @@ By tracing an autocrat’s public visibility over a quarter-century, I shed ligh
 <br>
 </details>
 
+<span style="font-family:'JetBrains Mono';font-size: 125%;"><b>Reversal of Misfortune:<br>Covid-19 in the Changing of Attitudes Toward Behavioral Disorder</b><br>
+<span style="font-family:'JetBrains Mono';font-size: 90%;color:#6F6661;">(with Jessi Hanson-DeFusco & Dina Rosenberg)</span></span>
 
 
-<span style="font-family:'JetBrains Mono';font-size: 125%;"><b>Vote-for-Church:<br>Co-optation of Religious Voters in Electoral Autocracy</b><br>
-<span style="font-family:'JetBrains Mono';font-size: 90%;color:#6F6661;">(with Daniil Romanov, Evgeny Sedashov, and Vadim Devyatnikov)</span></span>
-
-
-<span style="font-family:'JetBrains Mono';font-size: 125%;"><b>Reversal of Misfortune:<br>Covid-19 in the Changing of Attitudes Toward Behavioral Disorders</b></span>
+<span style="font-family:'JetBrains Mono';font-size: 125%;"><b>R<br>s</b></span>
 
 
 <center>
 <img src="/files/figs/Figure-Reversal.png" style="max-height:500px; width:auto;">
 <figcaption><i>Internet Users' Interest in severe behavioral desorders and preventive wellbeing</i></figcaption>
 </center>
-
 
 Do pandemics always harm mental health? This study documents a sharp and enduring shift in global priorities regarding mental health, as reflected in online search behavior before and after the Covid-19 pandemic.
 <details>
