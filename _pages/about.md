@@ -35,9 +35,8 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
     <summary>
     <span style="color:Gray;"><b>Publications</b></span>
     </summary>
-<br>
 
-## ARTICLES
+<br>
 
 [**"Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0"**](https://doi.org/10.1371/journal.pmen.0000118) in *PLOS Mental Health*, 2025, (2):1  (with Jessi Hanson-DeFusco, Abdul Stanekzai, Alexis McMaster, Hamid Popalzai, Heer Shah, Min Shi, and Nandita Kumar)
 
@@ -67,8 +66,6 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 
 * [_Working paper_](http://papers.ssrn.com/sol3/papers.cfm?abstract_id=2156342)
 
-## PEER-REVIEWED BOOK CHAPTERS
-
 [**“Civic and Political Activism in Russia”**](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.13) in *The New Autocracy: Information, Politics, and Policy in Putin's Russia*, 2018, 249-276, Brookings Institution Press (with Alexei Zakharov)
 
 * [_Chapter on Jstor_](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh.13)  ✓  [_Book on Jstor_](http://www.jstor.org/stable/10.7864/j.ctt1zkjzsh)  ✓  [_Book on Amazon_](https://www.amazon.com/New-Autocracy-Information-Politics-Policy-ebook/dp/B06XNXG12Z/ref=sr_1_1?ie=UTF8&qid=1519337387&sr=8-1&keywords=The+New+Autocracy%3A+Information%2C+Politics%2C+and+Policy+in+Putin%27s+Russia)
@@ -82,6 +79,15 @@ Each of these threads —- cyberspace, manipulation, behavioral vulnerabilities,
 
 
 
+<details>
+    <summary>
+    <span style="color:Gray;"><b>Current Research</b></span>
+    </summary>
+<br>
+
+
+<br>
+</details><br>
 
 <!--
 <span style="font-family:'JetBrains Mono';font-size: 125%;"><b>Research Agenda</b>
