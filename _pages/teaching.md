@@ -9,7 +9,7 @@ redirect_from:
  
 ## CURRENT TEACHING
 
-**UT Dallas**, ***School of Economic, Political and Policy Sciences*** (Fall 2023) 
+**UT Dallas**, ***School of Economic, Political and Policy Sciences*** (Fall '25) 
 
   * *PPPE/PSCI 6302* Conflict in Cyberspace [Class Website](https://coursebook.utdallas.edu/search/pppe6302.501.23f)
 
@@ -20,6 +20,64 @@ Students get free access to **DataCamp** to prepare themselves for the coding pa
 ![](https://asobolev.com/files/figs/major-cyber-attacks.gif)
 
 ## TEACHING EXPERIENCE
+
+**UT Dallas**, ***School of Economic, Political and Policy Sciences***
+
+&nbsp;&nbsp;&nbsp;&nbsp;Conflict in Cyberspace ('22F-'24F)
+
+<details>
+    <summary>
+    <span style="color:Gray;"><b>Click For Details</b></span>
+    </summary>
+
+<br>
+Cyberspace is not an isolated concept. It expands beyond the conventional concepts of networks. While many of the digital security issues faced by companies and customers are highly technical, their underlying causes and systematic effects are inherently behavioral. Despite its technical specificities, cyberspace is a domain of human interactions. It makes little sense to approach cybersecurity from a narrow, purely technical perspective. Yet many courses focus on 'mechanics' of cybersecurity at the expense of behavioral and political aspects. In contrast, this class explores cyberspace as a synergistic entity. First, it examines conflicts and violence in pre-digital age. Next, it discusses orgins, organization, and evolution of cyberspace. Finally, it explores how cyberspace reshapes conventional conflicts and produces new ones.
+<br>
+</details>
+
+
+Capstone in Cyber: Security and Policy ('22S-'25S)
+
+
+Open-Source Intelligence ('24S-'25S)
+
+
+Cyber Policy ('21F)
+
+**Yale University**, ***Department of Political Science***
+
+Big Data, AI, and Russian Politics (S'20-S'21)
+
+**University of California, Los Angeles**, ***Anderson School of Business***
+
+Technology Analytics (MBA), with Prof. Keith Chen ('18)
+
+Competitive Analytics (MSBA), with Prof. Keith Chen ('18)
+
+**University of California, Los Angeles**, ***Department of Political Science***
+
+Politics and Government of Post-Communist Russia, with Prof. Daniel Treisman ('14-'17)
+
+Diversity, Disagreement, and Democracy, with Prof. Susanne Lohmann ('16)
+
+Data Analysis, with Prof. Erin Hartman ('18)
+
+Politics and Strategy, with Prof. Michael Chwe ('17)
+
+**Higher School of Economics, Moscow**, ***Department of Political Science***
+
+Models of Risk in Politics and Economics (MA, '12-'13)
+
+Political Theory ('11-'13)
+
+
+
+
+
+
+
+
+
 
 **UT Dallas**, ***School of Economic, Political and Policy Sciences***
 
