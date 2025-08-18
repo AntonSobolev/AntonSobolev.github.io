@@ -9,6 +9,8 @@ redirect_from:
 
 ## ARTICLES
 
+[**"Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0"**](https://doi.org/10.1371/journal.pmen.0000118) in *PLOS Mental Health*, 2025, (2):1  (with Jessi Hanson-DeFusco, Abdul Stanekzai, Alexis McMaster, Hamid Popalzai, Heer Shah, Min Shi, and Nandita Kumar)
+
 [**"News and Geolocated Social Media Accurately Measure Protest Size Variation"**](https://doi.org/10.1017/S0003055420000295) in *American Political Science Review*, 2020, 114(4), 1343-1351  (with Keith Chen, Jungseock Joo, and Zachary Steinert-Threlkeld) 
 
 [**"Stability of Revolutionary Governments in The Face of Mass Protest"**](https://doi.org/10.1016/j.ejpoleco.2019.08.003) in *European Journal of Political Economy*, 2019, 60, 2-20 (with Dmitry Dagaev and Natalia Lamberova)
