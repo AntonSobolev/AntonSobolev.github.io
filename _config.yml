@@ -309,11 +309,3 @@ compress_html:
   clippings: all
   ignore:
     envs: development
-
-
-header_pages:
-  - index.md
-  - research.md
-  - publications.md
-  - teaching.md
-  - cv.md
