@@ -39,6 +39,8 @@ Religious groups, with their moral authority, organizational resources, and mobi
 <br>
 </details>
 
+<br>
+
 <span style="font-family:'JetBrains Mono';font-size: 125%;"><b>The Last Call for Authenticity:<br>AI Voice Scams Reshaping Business and Political Communication</b></span>
 
 <center>
@@ -55,6 +57,7 @@ The human voice, once a paragon of trust and authenticity, is evolving into a to
 <br>
 </details>
 
+<br>
 
 <span style="font-family:'JetBrains Mono';font-size: 125%;"><b>As If Random:<br>How an Autocrat Times His Media Presence</b></span>
 
@@ -73,6 +76,8 @@ Drawing on twenty-five years of daily data from the Kremlin’s official website
 By tracing an autocrat’s public visibility over a quarter-century, I shed light on the broader question of how leaders manage uncertainty, project control, and maintain legitimacy.
 <br>
 </details>
+
+<br>
 
 <span style="font-family:'JetBrains Mono';font-size: 125%;"><b>Reversal of Misfortune:<br>Covid-19 in the Changing of Attitudes Toward Behavioral Disorder</b><br>
 <span style="font-family:'JetBrains Mono';font-size: 90%;color:#6F6661;">(with Jessi Hanson-DeFusco and Dina Rosenberg)</span></span>
