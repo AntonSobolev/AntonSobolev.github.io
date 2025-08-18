@@ -94,10 +94,12 @@ By tracing an autocrat’s public visibility over a quarter-century, I shed ligh
 </center>
 
 
-Do pandemics always harm mental health? This study documents a sharp and enduring shift in global priorities regarding mental health, as reflected in online search behavior before and after the Covid-19 pandemic. <details>
+Do pandemics always harm mental health? This study documents a sharp and enduring shift in global priorities regarding mental health, as reflected in online search behavior before and after the Covid-19 pandemic.
+<details>
     <summary>
     <span style="color:Gray;">Details</span>
     </summary>
+<br>    
 Using longitudinal data from Google Trends across over 100 countries, we analyze how public interest moved away from severe psychiatric disorders toward general mental health and preventive wellbeing. We treat search behavior as a proxy for public attention and, by extension, underlying demand for specific types of mental health knowledge and services.
 
 We show that while interest in both severe disorders (e.g., obsessive-compulsive disorder and borderline personality Disorder) and general mental health surged immediately after the pandemic’s onset, the trajectories subsequently diverged. Interest in severe disorders declined and plateaued. At the same time, interest in mental health and wellbeing continued to grow. This suggests a shift from reactive treatment-seeking to proactive self-regulation.
@@ -105,11 +107,10 @@ We show that while interest in both severe disorders (e.g., obsessive-compulsive
 The magnitude of this reversal, however, varies by regime type. In democracies the effect is pronounced, while in non-democracies it is less than half as large. To explain this asymmetry, we develop a theory in which authoritarian regimes deliberately maintain higher levels of social stress as a tool of political control. By keeping populations under persistent strain, autocrats reduce the scope for a full reorientation toward proactive wellbeing.
 
 The paper contributes to the emerging literature on the economics of public health by documenting an “attentional reversal.” In spirit, though not in mechanism, it resembles Acemoglu et al.’s institutional reversal in development economics.
- 
-with Jessi Hanson-DeFusco & Dina Rosenberg
+<br>
 </details>
 
-
+with Jessi Hanson-DeFusco & Dina Rosenberg
 
 <!--
 
