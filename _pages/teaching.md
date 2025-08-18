@@ -31,8 +31,6 @@ Cyberspace is not an isolated concept. It expands beyond the conventional concep
 </details>
 
 
-
-
 <details class="drop">
    <summary>
     <span style="color:Gray;">Capstone in Cyber: Security and Policy ('22S-'25S)</span>
@@ -62,7 +60,7 @@ This is a comprehensive course that introduces students to the concepts and tech
 This course introduces students to the public policy aspects of cybersecurity. Students will apply the tools of game theory, statistics, and causal inference to inform policy decision-making. The course is divided into four parts. The first introduces the basic concepts and definitions related to policy, governance, and threats. The second part exposes students to the modern policy analysis toolkit. The third part explores the impact of cyber policies on the private sector (topics include cyberpiracy, Darknet markets, data breaches, and deplatforming). The fourth part of the course focuses on the state actors (topics include, electoral integrity, misinformation, and digital repression).
 <br>
 </details>
-
+<br>
 **Yale University**, ***Department of Political Science***<br>
 
 <details class="drop">
@@ -78,16 +76,19 @@ AI algorithms. Finally, it outlines the applications of the new technologies to 
 </details>
 
 **University of California, Los Angeles**, ***Anderson School of Business***<br>
+<br>
 Technology Analytics (MBA), with Prof. Keith Chen ('18)<br>
 Competitive Analytics (MSBA), with Prof. Keith Chen ('18)
 
 **University of California, Los Angeles**, ***Department of Political Science***<br>
+<br>
 Politics and Government of Post-Communist Russia, with Prof. Daniel Treisman ('14-'17)<br>
 Diversity, Disagreement, and Democracy, with Prof. Susanne Lohmann ('16)<br>
 Data Analysis, with Prof. Erin Hartman ('18)<br>
 Politics and Strategy, with Prof. Michael Chwe ('17)
 
 **Higher School of Economics, Moscow**, ***Department of Political Science***<br>
+<br>
 Models of Risk in Politics and Economics (MA, '12-'13)<br>
 Political Theory ('11-'13)
 
