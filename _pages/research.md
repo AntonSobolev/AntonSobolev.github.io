@@ -26,10 +26,8 @@ redirect_from:
 <span style="font-family:'JetBrains Mono';font-size: 90%;color:#6F6661;">(with Daniil Romanov, Evgeny Sedashov, and Vadim Devyatnikov)</span></span>
 
 <center>
-  <figure>
-    <img src="/files/figs/Figure-Rel-And-Vote.png" style="max-height:500px;width:auto;">
-    <figcaption><i>Orthodox Church Construction, Russia, XV-XXI</i></figcaption>
-  </figure>
+<img src="/files/figs/Figure-Rel-And-Vote.png" style="max-height:500px; width:auto;">
+<figcaption><i>Orthodox Church Construction, Russia, XV-XXI</i></figcaption>
 </center>
 
 <details>
@@ -41,18 +39,12 @@ Religious groups, with their moral authority, organizational resources, and mobi
 <br>
 </details>
 
-<br>
-
-
 <span style="font-family:'JetBrains Mono';font-size: 125%;"><b>The Last Call for Authenticity:<br>AI Voice Scams Reshaping Business and Political Communication</b></span>
 
 <center>
 <img src="/files/figs/Figure-The-Last-Call.png" style="max-height:500px; width:auto;">
 <figcaption><i>User Interest for Search Queries Related to Voice Calls and AI-calls, US, ‘05-‘25</i></figcaption>
 </center>
-
-
-[click to expand]
    
 <details>
     <summary>
@@ -83,21 +75,16 @@ By tracing an autocrat’s public visibility over a quarter-century, I shed ligh
 </details>
 
 <span style="font-family:'JetBrains Mono';font-size: 125%;"><b>Reversal of Misfortune:<br>Covid-19 in the Changing of Attitudes Toward Behavioral Disorder</b><br>
-<span style="font-family:'JetBrains Mono';font-size: 90%;color:#6F6661;">(with Jessi Hanson-DeFusco & Dina Rosenberg)</span></span>
-
-
-<span style="font-family:'JetBrains Mono';font-size: 125%;"><b>R<br>s</b></span>
-
+<span style="font-family:'JetBrains Mono';font-size: 90%;color:#6F6661;">(with Jessi Hanson-DeFusco and Dina Rosenberg)</span></span>
 
 <center>
 <img src="/files/figs/Figure-Reversal.png" style="max-height:500px; width:auto;">
-<figcaption><i>Internet Users' Interest in severe behavioral desorders and preventive wellbeing</i></figcaption>
+<figcaption><i>Internet Users' Interest in Severe Behavioral Desorders and Preventive Wellbeing (by Regime Type)</i></figcaption>
 </center>
 
-Do pandemics always harm mental health? This study documents a sharp and enduring shift in global priorities regarding mental health, as reflected in online search behavior before and after the Covid-19 pandemic.
 <details>
     <summary>
-    <span style="color:Gray;">Details</span>
+    <span style="color:Gray;">Do pandemics always harm mental health? This study documents a sharp and enduring shift in global priorities regarding mental health, as reflected in online search behavior before and after the Covid-19 pandemic.</span>
     </summary>
 <br>    
 Using longitudinal data from Google Trends across over 100 countries, we analyze how public interest moved away from severe psychiatric disorders toward general mental health and preventive wellbeing. We treat search behavior as a proxy for public attention and, by extension, underlying demand for specific types of mental health knowledge and services.
@@ -109,8 +96,6 @@ The magnitude of this reversal, however, varies by regime type. In democracies t
 The paper contributes to the emerging literature on the economics of public health by documenting an “attentional reversal.” In spirit, though not in mechanism, it resembles Acemoglu et al.’s institutional reversal in development economics.
 <br>
 </details>
-
-with Jessi Hanson-DeFusco & Dina Rosenberg
 
 
 
