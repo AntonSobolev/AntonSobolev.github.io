@@ -60,7 +60,7 @@ The human voice, once a paragon of trust and authenticity, is evolving into a to
 
 <center>
 <img src="/files/figs/Figure-As-If-Random.png" style="max-height:500px; width:auto;">
-<figcaption><i>"No News" Days and Presidential Decrees by Quarter</i></figcaption>
+<figcaption><i>"No News" Days and Presidential Decrees (by Quarter)</i></figcaption>
 </center>
 
 <details>
@@ -84,7 +84,7 @@ By tracing an autocrat’s public visibility over a quarter-century, I shed ligh
 
 <details>
     <summary>
-    <span style="color:Gray;">Do pandemics always harm mental health? This study documents a sharp and enduring shift in global priorities regarding mental health, as reflected in online search behavior before and after the Covid-19 pandemic.</span>
+    <span style="color:Gray;">Do pandemics always harm mental health? This study documents a sharp and enduring shift in global priorities regarding mental health, as reflected in online search behavior before and after the Covid-19 pandemic. [click to expand]</span>
     </summary>
 <br>    
 Using longitudinal data from Google Trends across over 100 countries, we analyze how public interest moved away from severe psychiatric disorders toward general mental health and preventive wellbeing. We treat search behavior as a proxy for public attention and, by extension, underlying demand for specific types of mental health knowledge and services.
