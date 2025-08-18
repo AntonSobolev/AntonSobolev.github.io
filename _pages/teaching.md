@@ -24,7 +24,8 @@ Students get free access to **DataCamp** to prepare themselves for the coding pa
 **UT Dallas**, ***School of Economic, Political and Policy Sciences***
 
 &nbsp;&nbsp;&nbsp;&nbsp;Conflict in Cyberspace ('22F-'24F)
-&nbsp;&nbsp;&nbsp;&nbsp;<details>
+&nbsp;&nbsp;&nbsp;&nbsp;
+<details>
     <summary>
     <span style="color:Gray;"><b>Click For Details</b></span>
     </summary>
@@ -43,21 +44,21 @@ Open-Source Intelligence ('24S-'25S)
 
 Cyber Policy ('21F)
 
-**Yale University**, ***Department of Political Science***
+**Yale University**, ***Department of Political Science*** <br>
 Big Data, AI, and Russian Politics (S'20-S'21)
 
-**University of California, Los Angeles**, ***Anderson School of Business***
-Technology Analytics (MBA), with Prof. Keith Chen ('18)
+**University of California, Los Angeles**, ***Anderson School of Business***<br>
+Technology Analytics (MBA), with Prof. Keith Chen ('18)<br>
 Competitive Analytics (MSBA), with Prof. Keith Chen ('18)
 
-**University of California, Los Angeles**, ***Department of Political Science***
-Politics and Government of Post-Communist Russia, with Prof. Daniel Treisman ('14-'17)
-Diversity, Disagreement, and Democracy, with Prof. Susanne Lohmann ('16)
-Data Analysis, with Prof. Erin Hartman ('18)
+**University of California, Los Angeles**, ***Department of Political Science***<br>
+Politics and Government of Post-Communist Russia, with Prof. Daniel Treisman ('14-'17)<br>
+Diversity, Disagreement, and Democracy, with Prof. Susanne Lohmann ('16)<br>
+Data Analysis, with Prof. Erin Hartman ('18)<br>
 Politics and Strategy, with Prof. Michael Chwe ('17)
 
-**Higher School of Economics, Moscow**, ***Department of Political Science***
-Models of Risk in Politics and Economics (MA, '12-'13)
+**Higher School of Economics, Moscow**, ***Department of Political Science***<br>
+Models of Risk in Politics and Economics (MA, '12-'13)<br>
 Political Theory ('11-'13)
 
 
