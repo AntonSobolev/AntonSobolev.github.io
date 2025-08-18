@@ -20,11 +20,10 @@ Students get free access to **DataCamp** to prepare themselves for the coding pa
 ## TEACHING EXPERIENCE
 
 **UT Dallas**, ***School of Economic, Political and Policy Sciences***<br>
-Conflict in Cyberspace ('22F-'24F)
 
 <details class="drop">
    <summary>
-    <span style="color:Gray;">Details</span>
+    <span style="color:Gray;">Conflict in Cyberspace ('22F-'24F)</span>
     </summary>
 <br> 
 Cyberspace is not an isolated concept. It expands beyond the conventional concepts of networks. While many of the digital security issues faced by companies and customers are highly technical, their underlying causes and systematic effects are inherently behavioral. Despite its technical specificities, cyberspace is a domain of human interactions. It makes little sense to approach cybersecurity from a narrow, purely technical perspective. Yet many courses focus on 'mechanics' of cybersecurity at the expense of behavioral and political aspects. In contrast, this class explores cyberspace as a synergistic entity. First, it examines conflicts and violence in pre-digital age. Next, it discusses orgins, organization, and evolution of cyberspace. Finally, it explores how cyberspace reshapes conventional conflicts and produces new ones.
@@ -32,24 +31,22 @@ Cyberspace is not an isolated concept. It expands beyond the conventional concep
 </details>
 
 
-Capstone in Cyber: Security and Policy ('22S-'25S)
+
 
 <details class="drop">
    <summary>
-    <span style="color:Gray;">Details</span>
+    <span style="color:Gray;">Capstone in Cyber: Security and Policy ('22S-'25S)</span>
     </summary>
 <br> 
 This is the culminating experience for graduating students. Students integrate knowledge from across the curriculum to participate in an experiential learning project or case studies.  addition, students can work on comprehensive
 cyber policy or strategy, policy impact evaluation, commercial or open-source projects related to information security, cyber law assessment, or conduct an investigation of a cyber incident. Finally, students present a concise policy report summarizing the project’s results.
 <br>
 </details>
-
-
-Open-Source Intelligence ('24S-'25S)
+ 
 
 <details class="drop">
    <summary>
-    <span style="color:Gray;">Details</span>
+    <span style="color:Gray;">Open-Source Intelligence ('24S-'25S)</span>
     </summary>
 <br> 
 This is a comprehensive course that introduces students to the concepts and techniques of open-source intelligence (OSINT). This course aims to equip students with the knowledge and skills necessary to gather intelligence from publicly available sources and use this information to defend against cyber attacks. Throughout the course, students will be introduced to various tools and techniques used in OSINT research and will have the opportunity to apply what they’ve learned in practical, hands-on labs. These labs are designed to simulate real-world scenarios and give students a chance to understand how OSINT can be applied in their future careers in security and policy. With a focus on both theory and practical skills, this course provides students with a well-rounded understanding of the importance and use of OSINT in the field of cyber security and policy.
@@ -57,11 +54,9 @@ This is a comprehensive course that introduces students to the concepts and tech
 </details>
 
 
-Cyber Policy ('21F)
-
 <details class="drop">
    <summary>
-    <span style="color:Gray;">Details</span>
+    <span style="color:Gray;">Cyber Policy ('21F)</span>
     </summary>
 <br> 
 This course introduces students to the public policy aspects of cybersecurity. Students will apply the tools of game theory, statistics, and causal inference to inform policy decision-making. The course is divided into four parts. The first introduces the basic concepts and definitions related to policy, governance, and threats. The second part exposes students to the modern policy analysis toolkit. The third part explores the impact of cyber policies on the private sector (topics include cyberpiracy, Darknet markets, data breaches, and deplatforming). The fourth part of the course focuses on the state actors (topics include, electoral integrity, misinformation, and digital repression).
@@ -69,7 +64,18 @@ This course introduces students to the public policy aspects of cybersecurity. S
 </details>
 
 **Yale University**, ***Department of Political Science***<br>
-Big Data, AI, and Russian Politics (S'20-S'21)
+
+<details class="drop">
+   <summary>
+    <span style="color:Gray;">Big Data, AI, and Russian Politics (S'20-S'21)</span>
+    </summary>
+<br> 
+In the last decade, modern information technologies have changed the world of politics as we knew it, erasing any clear distinction between domestic and foreign spheres. Today, policy battles and elections are fought not just through traditional lobbying, party activities, and TV ads, but through means of Big Data and AI algorithms. These new behaviors can be covert by murky actors, who may be located anywhere and funded by almost anyone. They are important for both democracies and non-democracies. Their impact is hard to assess. For instance, the debate continues in the United States over whether or not hackers and Internet trolls affected voting in the 2016 U.S. election. 
+
+This cross-disciplinary course focuses on two broad questions. First: how do politicians use new technologies to influence politics? Second: how do scholars can use new technologies to study politics? It uses Russia as a laboratory to explore these questions. The course consists of four parts. It starts with a review of contemporary Russia and pays attention to the quantitative studies of its economy and politics. Next, the course provides a non-technical introduction to Big Data and
+AI algorithms. Finally, it outlines the applications of the new technologies to the study of Russian politics.
+<br>
+</details>
 
 **University of California, Los Angeles**, ***Anderson School of Business***<br>
 Technology Analytics (MBA), with Prof. Keith Chen ('18)<br>
