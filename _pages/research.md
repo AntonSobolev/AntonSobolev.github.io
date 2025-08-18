@@ -93,11 +93,12 @@ By tracing an autocrat’s public visibility over a quarter-century, I shed ligh
 <figcaption><i>"No News" Days and Presidential Decrees by Quarter</i></figcaption>
 </center>
 
-<details>
+
+Do pandemics always harm mental health? This study documents a sharp and enduring shift in global priorities regarding mental health, as reflected in online search behavior before and after the Covid-19 pandemic. <details>
     <summary>
     <span style="color:Gray;">Details</span>
     </summary>
-Do pandemics always harm mental health? This study documents a sharp and enduring shift in global priorities regarding mental health, as reflected in online search behavior before and after the Covid-19 pandemic. Using longitudinal data from Google Trends across over 100 countries, we analyze how public interest moved away from severe psychiatric disorders toward general mental health and preventive wellbeing. We treat search behavior as a proxy for public attention and, by extension, underlying demand for specific types of mental health knowledge and services.
+Using longitudinal data from Google Trends across over 100 countries, we analyze how public interest moved away from severe psychiatric disorders toward general mental health and preventive wellbeing. We treat search behavior as a proxy for public attention and, by extension, underlying demand for specific types of mental health knowledge and services.
 
 We show that while interest in both severe disorders (e.g., obsessive-compulsive disorder and borderline personality Disorder) and general mental health surged immediately after the pandemic’s onset, the trajectories subsequently diverged. Interest in severe disorders declined and plateaued. At the same time, interest in mental health and wellbeing continued to grow. This suggests a shift from reactive treatment-seeking to proactive self-regulation.
 
