@@ -24,8 +24,7 @@ Students get free access to **DataCamp** to prepare themselves for the coding pa
 **UT Dallas**, ***School of Economic, Political and Policy Sciences***
 
 &nbsp;&nbsp;&nbsp;&nbsp;Conflict in Cyberspace ('22F-'24F)
-
-<details>
+&nbsp;&nbsp;&nbsp;&nbsp;<details>
     <summary>
     <span style="color:Gray;"><b>Click For Details</b></span>
     </summary>
@@ -45,29 +44,20 @@ Open-Source Intelligence ('24S-'25S)
 Cyber Policy ('21F)
 
 **Yale University**, ***Department of Political Science***
-
 Big Data, AI, and Russian Politics (S'20-S'21)
 
 **University of California, Los Angeles**, ***Anderson School of Business***
-
 Technology Analytics (MBA), with Prof. Keith Chen ('18)
-
 Competitive Analytics (MSBA), with Prof. Keith Chen ('18)
 
 **University of California, Los Angeles**, ***Department of Political Science***
-
 Politics and Government of Post-Communist Russia, with Prof. Daniel Treisman ('14-'17)
-
 Diversity, Disagreement, and Democracy, with Prof. Susanne Lohmann ('16)
-
 Data Analysis, with Prof. Erin Hartman ('18)
-
 Politics and Strategy, with Prof. Michael Chwe ('17)
 
 **Higher School of Economics, Moscow**, ***Department of Political Science***
-
 Models of Risk in Politics and Economics (MA, '12-'13)
-
 Political Theory ('11-'13)
 
 
