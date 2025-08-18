@@ -91,10 +91,7 @@ with Jessi Hanson-DeFusco & Dina Rosenberg
 <figcaption><i>"No News" Days and Presidential Decrees by Quarter</i></figcaption>
 </center>
 
-
-
 <iframe src="/files/figs/Figure-Reversal.png" width="125%" height="700px"></iframe>
-
 
 
 <!--
