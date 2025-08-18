@@ -17,19 +17,15 @@ Cyberspace is not an isolated concept. It expands beyond the conventional concep
 
 Students get free access to **DataCamp** to prepare themselves for the coding part of this course. [Link to DataCamp for UTD students](#PendingDatacampApproval)
 
-![](https://asobolev.com/files/figs/major-cyber-attacks.gif)
-
 ## TEACHING EXPERIENCE
 
 **UT Dallas**, ***School of Economic, Political and Policy Sciences***
 
 Conflict in Cyberspace ('22F-'24F)
-
-<details>
+<details class="drop">
    <summary>
     <span style="color:Gray;">Details</span>
     </summary>
-
 <br> 
 Cyberspace is not an isolated concept. It expands beyond the conventional concepts of networks. While many of the digital security issues faced by companies and customers are highly technical, their underlying causes and systematic effects are inherently behavioral. Despite its technical specificities, cyberspace is a domain of human interactions. It makes little sense to approach cybersecurity from a narrow, purely technical perspective. Yet many courses focus on 'mechanics' of cybersecurity at the expense of behavioral and political aspects. In contrast, this class explores cyberspace as a synergistic entity. First, it examines conflicts and violence in pre-digital age. Next, it discusses orgins, organization, and evolution of cyberspace. Finally, it explores how cyberspace reshapes conventional conflicts and produces new ones.
 <br>
@@ -38,9 +34,7 @@ Cyberspace is not an isolated concept. It expands beyond the conventional concep
 
 Capstone in Cyber: Security and Policy ('22S-'25S)
 
-
 Open-Source Intelligence ('24S-'25S)
-
 
 Cyber Policy ('21F)
 
@@ -124,5 +118,6 @@ This cross-disciplinary seminar focuses on two broad questions. First: how do po
 
 
 
+![](https://asobolev.com/files/figs/major-cyber-attacks.gif)
 
 -->
