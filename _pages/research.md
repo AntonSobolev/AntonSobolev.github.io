@@ -106,9 +106,6 @@ with Jessi Hanson-DeFusco & Dina Rosenberg
 <figcaption><i>"No News" Days and Presidential Decrees by Quarter</i></figcaption>
 </center>
 
-<iframe src="/files/figs/Figure-Reversal.png" width="125%" height="700px"></iframe>
-
-
 <!--
 
 I am an Assistant Professor at the University of Texas at Dallas, where my research spans four interconnected fields: contentious politics, information manipulation, cybersecurity, and behavioral science. Together, they form a framework for understanding the evolving logic of coercion, persuasion, and vulnerability in the digital age.
