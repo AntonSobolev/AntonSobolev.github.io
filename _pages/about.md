@@ -16,7 +16,7 @@ I am an Assistant Professor at the University of Texas at Dallas.  My research s
 
 <details>
     <summary>
-    <span style="color:Gray;"><b>Click For Details</b></span>
+    <span style="color:Gray;">Click For Details</span>
     </summary>
 
 <br>
