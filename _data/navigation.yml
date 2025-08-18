@@ -1,6 +1,10 @@
 # main links links
 main:
-  - title: "Research"
+  - title: "Main"
+    url: /main/
+
+
+  - title: "Current Research"
     url: /research/
 
   - title: "Publications"

@@ -1,5 +1,5 @@
 ---
-title: "Research"
+title: "Current Research"
 permalink: /research/
 excerpt: "About me"
 author_profile: true
