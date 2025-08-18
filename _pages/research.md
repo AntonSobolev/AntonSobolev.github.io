@@ -21,6 +21,8 @@ redirect_from:
 </style>
 
 
+<br>
+
 
 <span style="font-family:'JetBrains Mono';font-size: 125%;"><b>Vote-for-Church:<br>Co-optation of Religious Voters in Electoral Autocracy</b><br>
 <span style="font-family:'JetBrains Mono';font-size: 90%;color:#6F6661;">(with Daniil Romanov, Evgeny Sedashov, and Vadim Devyatnikov)</span></span>
@@ -38,8 +40,7 @@ Exploiting geographic variation in Orthodox church-building, this article invest
     <summary>
     <span style="color:Gray;">Details</span>
     </summary>
-<br>
- Religious groups, with their moral authority, organizational resources, and mobilization capacity, often pose serious challenges to autocratic leaders, who respond through strategies such as repression, surveillance, and, notably, co-optation. Decades of anti-religious Soviet policy not only halted church construction, but actively pursued their destruction nationwide. The Soviet collapse triggered a wave of large-scale church construction — a development virtually unparalleled in modern history. Drawing on a dataset of 31,000 churches, the paper shows that electoral support for the incumbent president significantly increased in areas with churches built between 2012–2018, with effect sizes ranging from 2 to 4.4 percentage points. It further demonstrates that this support stems from churchgoers’ fulfilled needs, not political indoctrination, economic spillovers, or social pressure.
+Religious groups, with their moral authority, organizational resources, and mobilization capacity, often pose serious challenges to autocratic leaders, who respond through strategies such as repression, surveillance, and, notably, co-optation. Decades of anti-religious Soviet policy not only halted church construction, but actively pursued their destruction nationwide. The Soviet collapse triggered a wave of large-scale church construction — a development virtually unparalleled in modern history. Drawing on a dataset of 31,000 churches, the paper shows that electoral support for the incumbent president significantly increased in areas with churches built between 2012–2018, with effect sizes ranging from 2 to 4.4 percentage points. It further demonstrates that this support stems from churchgoers’ fulfilled needs, not political indoctrination, economic spillovers, or social pressure.
 <br>
 </details>
 
