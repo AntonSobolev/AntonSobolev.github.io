@@ -87,9 +87,14 @@ with Jessi Hanson-DeFusco & Dina Rosenberg
 </details>
 
 <center>
-<img src="https://asobolev.com/files/figs/Figure-Reversal.png" style="max-height:500px; width:auto;">
+<img src="/files/figs/Figure-Reversal.png" style="max-height:500px; width:auto;">
 <figcaption><i>"No News" Days and Presidential Decrees by Quarter</i></figcaption>
 </center>
+
+
+
+<iframe src="/files/figs/Figure-Reversal.png" width="125%" height="700px"></iframe>
+
 
 
 <!--
