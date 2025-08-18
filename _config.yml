@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Anton Sobolev"
 title_separator          : "-"
 name                     : &name "Anton Sobolev"
 description              : &description "personal description"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : 
   avatar           : "profile.png"
-  bio              : "Assistant Professor"
+  bio              : "Assistant Professor of Cyber Policy and Political Economy"
   location         : 
   employer         :
   pubmed           : 
