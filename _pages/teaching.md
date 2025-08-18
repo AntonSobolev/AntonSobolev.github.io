@@ -39,7 +39,7 @@ Open-Source Intelligence ('24S-'25S)
 
 Cyber Policy ('21F)
 
-**Yale University**, ***Department of Political Science*** <br>
+**Yale University**, ***Department of Political Science***<br>
 Big Data, AI, and Russian Politics (S'20-S'21)
 
 **University of California, Los Angeles**, ***Anderson School of Business***<br>
@@ -59,6 +59,14 @@ Political Theory ('11-'13)
 
 
 
+
+
+  
+<!--
+  <center>
+<img src="https://asobolev.com/files/figs/major-cyber-attacks.gif" style="height:500%;">
+<figcaption><i>Major Cyber Attacks Across the Globe</i></figcaption>
+</center>
 
 
 
@@ -108,10 +116,8 @@ This cross-disciplinary seminar focuses on two broad questions. First: how do po
   * Models of Risk in Politics and Economics (MA, 2012-13)
 
   * Political Theory, Lecturer (2011-13)
-  
-<!--
-  <center>
-<img src="https://asobolev.com/files/figs/major-cyber-attacks.gif" style="height:500%;">
-<figcaption><i>Major Cyber Attacks Across the Globe</i></figcaption>
-</center>
+
+
+
+
 -->
