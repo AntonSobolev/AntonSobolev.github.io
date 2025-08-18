@@ -21,10 +21,15 @@ redirect_from:
 </style>
 
 
-## The Last Call for Authenticity:<br>
-   AI Voice Scams Reshaping Business and Political Communication
+<span style="font-family:'JetBrains Mono';font-size: 175%;"><b>The Last Call for Authenticity:<br>AI Voice Scams Reshaping Business and Political Communication</b></span>
+   
 
 The human voice, once a paragon of trust and authenticity, is evolving into a tool of deception. While public attention remains captivated by deepfake videos, this paper argues that a more immediate threat lies in AI-based synthetic voice generation. Accessibility of voice synthesis lowers technical barriers for criminals, enhancing social engineering tactics and enabling new forms of fraud, such as virtual kidnappings and advanced financial scams. As AI mimics human speech with precision, individuals question the authenticity of vocal interactions. At its extreme, this signals the end of the telephone call as a reliable, efficient, and “cheap” medium. Negative potential of synthetic voice extends beyond cybersecurity dimension, eroding trust and destabilizing societies. This paper examines how voice synthesis technologies, democratized by AI, have radically transformed risks of voice communications. First, it analyzes the evolution of voice synthesis technologies and their impact on reducing costs and simplifying fraudulent schemes. Second, it traces how AI is reshaping the landscape of voice fraud due to developments in voice synthesis and agentic AI. Third, it analyzes potential long-term effects of these developments on the continued use of the phone call as a channel for scams. The paper concludes by outlining the implications of these shifts for cybersecurity policy, with attention to technical, behavioral, and societal aspects.
+
+ <center>
+<img src="https://asobolev.com/files/figs/Figure-The-Last-Call.png" style="height:500%;">
+<figcaption><i>User interest for search queries related to voice calls and AI-calls, US, ‘05-‘25</i></figcaption>
+</center>
 
 ## As If Random: How an Autocrat Times His Media Presence
 
@@ -33,6 +38,12 @@ When and why do political leaders choose to appear—or disappear—from the pub
 Drawing on twenty-five years of daily data from the Kremlin’s official website, I analyze the rhythm of Putin’s media presence and absence. I identify systematic patterns in the days when he is missing from the public record and study what happens around stretches of prolonged absence. I juxtapose routine news silence with the tempo of presidential decree signing, tracing how “appearance” via decrees relates to days without public events and how these dynamics evolve over time.
 
 By tracing an autocrat’s public visibility over a quarter-century, I shed light on the broader question of how leaders manage uncertainty, project control, and maintain legitimacy.
+
+<center>
+<img src="https://asobolev.com/files/figs/Figure-As-If-Random.png" style="height:500%;">
+<figcaption><i>"No News" Days and Presidential Decrees by Quarter</i></figcaption>
+</center>
+
 
 ## Reversal of Misfortune: Covid-19 in the Changing of Attitudes Toward Behavioral Disorders
 
