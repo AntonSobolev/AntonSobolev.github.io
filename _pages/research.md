@@ -23,14 +23,8 @@ redirect_from:
 
 
 <span style="font-family:'JetBrains Mono';font-size: 125%;"><b>Vote-for-Church:<br>Co-optation of Religious Voters in Electoral Autocracy</b><br>
+<span style="font-family:'JetBrains Mono';font-size: 90%;color:#6F6661;">(with Daniil Romanov, Evgeny Sedashov, and Vadim Devyatnikov)</span></span>
 
-<span style="font-family:'JetBrains Mono';font-size: 90%;color:#6F6661;">Мои баллады на слуху у всей Эллады</span></span>
-
-
-
-<span style="font-family:'JetBrains Mono';font-size: 125%;"><b>Vote-for-Church:<br>Co-optation of Religious Voters in Electoral Autocracy </b><br>
-(with)
-</span>
 
 <center>
   <figure>
