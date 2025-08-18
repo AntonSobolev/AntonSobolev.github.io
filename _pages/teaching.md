@@ -19,8 +19,7 @@ Students get free access to **DataCamp** to prepare themselves for the coding pa
 
 ## TEACHING EXPERIENCE
 
-**UT Dallas**, ***School of Economic, Political and Policy Sciences***
-
+**UT Dallas**, ***School of Economic, Political and Policy Sciences***<br>
 Conflict in Cyberspace ('22F-'24F)
 
 <details class="drop">
@@ -45,6 +44,7 @@ cyber policy or strategy, policy impact evaluation, commercial or open-source pr
 <br>
 </details>
 
+
 Open-Source Intelligence ('24S-'25S)
 
 <details class="drop">
@@ -56,7 +56,17 @@ This is a comprehensive course that introduces students to the concepts and tech
 <br>
 </details>
 
+
 Cyber Policy ('21F)
+
+<details class="drop">
+   <summary>
+    <span style="color:Gray;">Details</span>
+    </summary>
+<br> 
+This course introduces students to the public policy aspects of cybersecurity. Students will apply the tools of game theory, statistics, and causal inference to inform policy decision-making. The course is divided into four parts. The first introduces the basic concepts and definitions related to policy, governance, and threats. The second part exposes students to the modern policy analysis toolkit. The third part explores the impact of cyber policies on the private sector (topics include cyberpiracy, Darknet markets, data breaches, and deplatforming). The fourth part of the course focuses on the state actors (topics include, electoral integrity, misinformation, and digital repression).
+<br>
+</details>
 
 **Yale University**, ***Department of Political Science***<br>
 Big Data, AI, and Russian Politics (S'20-S'21)
