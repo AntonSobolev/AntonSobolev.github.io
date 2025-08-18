@@ -21,7 +21,23 @@ redirect_from:
 </style>
 
 
-<span style="font-family:'JetBrains Mono';font-size: 125%;"><b>Vote-for-Church:<br>Co-optation of Religious Voters in Electoral Autocracy </b></span>
+
+<span style="font-family:'JetBrains Mono';font-size: 125%;"><b>Vote-for-Church:<br>Co-optation of Religious Voters in Electoral Autocracy</b><br>
+
+<span style="font-family:'JetBrains Mono';font-size: 90%;color:#6F6661;">Мои баллады на слуху у всей Эллады</span></span>
+
+
+
+<span style="font-family:'JetBrains Mono';font-size: 125%;"><b>Vote-for-Church:<br>Co-optation of Religious Voters in Electoral Autocracy </b><br>
+(with)
+</span>
+
+<center>
+  <figure>
+    <img src="/files/figs/Figure-Rel-And-Vote.png" style="max-height:500px;width:auto;">
+    <figcaption><i> Orthodox Church Construction, Russia, XV-XXI </i></figcaption>
+  </figure>
+</center>
 
 <details>
     <summary>
@@ -33,12 +49,7 @@ Exploiting geographic variation in Orthodox church-building, this article invest
 <br>
 </details>
 
-<center>
-  <figure>
-    <img src="/files/figs/Figure-Rel-And-Vote.png" style="max-height:500px;width:auto;">
-    <figcaption><i> Orthodox Church Construction, Russia, XV-XXI </i></figcaption>
-  </figure>
-</center>
+
 
 
 <span style="font-family:'JetBrains Mono';font-size: 125%;"><b>The Last Call for Authenticity:<br>AI Voice Scams Reshaping Business and Political Communication</b></span>
