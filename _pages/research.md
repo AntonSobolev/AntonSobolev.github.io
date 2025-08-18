@@ -30,7 +30,7 @@ redirect_from:
 <center>
   <figure>
     <img src="/files/figs/Figure-Rel-And-Vote.png" style="max-height:500px;width:auto;">
-    <figcaption><i> Orthodox Church Construction, Russia, XV-XXI </i></figcaption>
+    <figcaption><i>Orthodox Church Construction, Russia, XV-XXI</i></figcaption>
   </figure>
 </center>
 
