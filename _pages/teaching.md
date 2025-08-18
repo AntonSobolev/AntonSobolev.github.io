@@ -9,7 +9,7 @@ redirect_from:
  
 ## CURRENT TEACHING
 
-**UT Dallas**, ***School of Economic, Political and Policy Sciences*** (Fall '25) 
+**UT Dallas**, ***School of Economic, Political and Policy Sciences*** (F'25) 
 
   * *PPPE/PSCI 6302* Conflict in Cyberspace [Class Website](https://coursebook.utdallas.edu/search/pppe6302.501.25f)
 
@@ -22,6 +22,7 @@ Students get free access to **DataCamp** to prepare themselves for the coding pa
 **UT Dallas**, ***School of Economic, Political and Policy Sciences***
 
 Conflict in Cyberspace ('22F-'24F)
+
 <details class="drop">
    <summary>
     <span style="color:Gray;">Details</span>
@@ -34,7 +35,26 @@ Cyberspace is not an isolated concept. It expands beyond the conventional concep
 
 Capstone in Cyber: Security and Policy ('22S-'25S)
 
+<details class="drop">
+   <summary>
+    <span style="color:Gray;">Details</span>
+    </summary>
+<br> 
+This is the culminating experience for graduating students. Students integrate knowledge from across the curriculum to participate in an experiential learning project or case studies.  addition, students can work on comprehensive
+cyber policy or strategy, policy impact evaluation, commercial or open-source projects related to information security, cyber law assessment, or conduct an investigation of a cyber incident. Finally, students present a concise policy report summarizing the project’s results.
+<br>
+</details>
+
 Open-Source Intelligence ('24S-'25S)
+
+<details class="drop">
+   <summary>
+    <span style="color:Gray;">Details</span>
+    </summary>
+<br> 
+This is a comprehensive course that introduces students to the concepts and techniques of open-source intelligence (OSINT). This course aims to equip students with the knowledge and skills necessary to gather intelligence from publicly available sources and use this information to defend against cyber attacks. Throughout the course, students will be introduced to various tools and techniques used in OSINT research and will have the opportunity to apply what they’ve learned in practical, hands-on labs. These labs are designed to simulate real-world scenarios and give students a chance to understand how OSINT can be applied in their future careers in security and policy. With a focus on both theory and practical skills, this course provides students with a well-rounded understanding of the importance and use of OSINT in the field of cyber security and policy.
+<br>
+</details>
 
 Cyber Policy ('21F)
 
