@@ -85,6 +85,8 @@ The paper contributes to the emerging literature on the economics of public heal
 <br>
 </details>
 
+<br>
+
 <span style="font-family:'JetBrains Mono';font-size: 125%;"><b>The Last Call for Authenticity:<br>AI Voice Scams Reshaping Business and Political Communication</b></span>
 
 <figure>
