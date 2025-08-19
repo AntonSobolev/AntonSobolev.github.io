@@ -74,7 +74,7 @@ This cross-disciplinary course focuses on two broad questions. First: how do pol
 AI algorithms. Finally, it outlines the applications of the new technologies to the study of Russian politics.
 <br>
 </details>
-
+<br>
 **University of California, Los Angeles**, ***Anderson School of Business***<br>
 <br>
 Technology Analytics (MBA), with Prof. Keith Chen ('18)<br>
