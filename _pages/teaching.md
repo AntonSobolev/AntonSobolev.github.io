@@ -75,6 +75,8 @@ AI algorithms. Finally, it outlines the applications of the new technologies to 
 <br>
 </details>
 
+<br>
+
 **University of California, Los Angeles**, ***Anderson School of Business***<br>
 <br>
 Technology Analytics (MBA), with Prof. Keith Chen ('18)<br>
