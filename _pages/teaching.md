@@ -11,11 +11,19 @@ redirect_from:
 
 **UT Dallas**, ***School of Economic, Political and Policy Sciences*** (F'25) 
 
-  * *PPPE/PSCI 6302* Conflict in Cyberspace [Class Website](https://coursebook.utdallas.edu/search/pppe6302.501.25f)
+<details class="drop">
+   <summary>
+    <span style="color:Gray;">  PPPE/PSCI 6302 Conflict in Cyberspace [Class Website](https://coursebook.utdallas.edu/search/pppe6302.501.25f)</span>
+    </summary>
+<br> 
 
 Cyberspace is not an isolated concept. It expands beyond the conventional concepts of networks. While many of the digital security issues faced by companies and customers are highly technical, their underlying causes and systematic effects are inherently behavioral. Despite its technical specificities, cyberspace is a domain of human interactions. It makes little sense to approach cybersecurity from a narrow, purely technical perspective. Yet many courses focus on 'mechanics' of cybersecurity at the expense of behavioral and political aspects. In contrast, this class explores cyberspace as a synergistic entity. First, it examines conflicts and violence in pre-digital age. Next, it discusses orgins, organization, and evolution of cyberspace. Finally, it explores how cyberspace reshapes conventional conflicts and produces new ones.
 
 Students get free access to **DataCamp** to prepare themselves for the coding part of this course. [Link to DataCamp for UTD students](#PendingDatacampApproval)
+<br>
+</details>
+
+<br>
 
 ## TEACHING EXPERIENCE
 
