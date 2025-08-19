@@ -61,7 +61,7 @@ By tracing an autocrat’s public visibility over a quarter-century, I shed ligh
 
 <br>
 
-<span style="font-family:'JetBrains Mono';font-size: 125%;"><b>Reversal of Misfortune:<br>Covid-19 in the Changing of Attitudes Toward Behavioral Disorder</b><br>
+<span style="font-family:'JetBrains Mono';font-size: 125%;"><b>Reversal of Misfortune:<br>Covid-19 in the Changing of Attitudes Toward Behavioral Disorders</b><br>
 <span style="font-family:'JetBrains Mono';font-size: 90%;color:#6F6661;">(with Jessi Hanson-DeFusco and Dina Rosenberg)</span></span>
 
 <figure>
