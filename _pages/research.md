@@ -25,10 +25,10 @@ redirect_from:
 <span style="font-family:'JetBrains Mono';font-size: 125%;"><b>Vote-for-Church:<br>Co-optation of Religious Voters in Electoral Autocracy</b><br>
 <span style="font-family:'JetBrains Mono';font-size: 90%;color:#6F6661;">(with Daniil Romanov, Evgeny Sedashov, and Vadim Devyatnikov)</span></span>
 
-<center>
-<img src="/files/figs/Figure-Rel-And-Vote.png" style="max-width:70%; height:auto;">
-<figcaption><i>Orthodox Church Construction, Russia, XV-XXI</i></figcaption>
-</center>
+<figure>
+  <img src="/files/figs/Figure-Rel-And-Vote.png" style="max-width:70%; height:auto;">
+  <figcaption><i>Orthodox Church Construction, Russia, XV-XXI</i></figcaption>
+</figure>
 
 <details>
     <summary>
@@ -43,10 +43,10 @@ Religious groups, with their moral authority, organizational resources, and mobi
 
 <span style="font-family:'JetBrains Mono';font-size: 125%;"><b>The Last Call for Authenticity:<br>AI Voice Scams Reshaping Business and Political Communication</b></span>
 
-<center>
-<img src="/files/figs/Figure-The-Last-Call.png" style="max-width:70%; height:auto;">
-<figcaption><i>User Interest for Search Queries Related to Voice Calls and AI-calls, US, ‘05-‘25</i></figcaption>
-</center>
+<figure>
+  <img src="/files/figs/Figure-The-Last-Call.png" style="max-width:70%; height:auto;">
+  <figcaption><i>User Interest for Search Queries Related to Voice Calls and AI-calls, US, ‘05-‘25</i></figcaption>
+</figure>
    
 <details>
     <summary>
@@ -61,10 +61,10 @@ The human voice, once a paragon of trust and authenticity, is evolving into a to
 
 <span style="font-family:'JetBrains Mono';font-size: 125%;"><b>As If Random:<br>How an Autocrat Times His Media Presence</b></span>
 
-<center>
-<img src="/files/figs/Figure-As-If-Random.png" style="max-width:70%; height:auto;">
-<figcaption><i>"No News" Days and Presidential Decrees (by Quarter)</i></figcaption>
-</center>
+<figure>
+  <img src="/files/figs/Figure-As-If-Random.png" style="max-width:70%; height:auto;">
+  <figcaption><i>"No News" Days and Presidential Decrees (by Quarter)</i></figcaption>
+</figure>
 
 <details>
     <summary>
@@ -82,10 +82,10 @@ By tracing an autocrat’s public visibility over a quarter-century, I shed ligh
 <span style="font-family:'JetBrains Mono';font-size: 125%;"><b>Reversal of Misfortune:<br>Covid-19 in the Changing of Attitudes Toward Behavioral Disorder</b><br>
 <span style="font-family:'JetBrains Mono';font-size: 90%;color:#6F6661;">(with Jessi Hanson-DeFusco and Dina Rosenberg)</span></span>
 
-<center>
-<img src="/files/figs/Figure-Reversal.png" style="max-width:70%; height:auto;">
-<figcaption><i>Internet Users' Interest in Severe Behavioral Desorders and Preventive Wellbeing (by Regime Type)</i></figcaption>
-</center>
+<figure>
+  <img src="/files/figs/Figure-Reversal.png" style="max-width:70%; height:auto;">
+  <figcaption><i>Internet Users' Interest in Severe Behavioral Desorders and Preventive Wellbeing (by Regime Type)</i></figcaption>
+</figure>
 
 <details>
     <summary>
