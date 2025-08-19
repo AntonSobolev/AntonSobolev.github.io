@@ -29,7 +29,6 @@ redirect_from:
   <img src="/files/figs/Figure-Rel-And-Vote.png" style="max-width:70%; height:auto;">
   <figcaption><i>Orthodox Church Construction, Russia, XV-XXI</i></figcaption>
 </figure>
-
 <details>
     <summary>
     <span style="color:Gray;">Exploiting geographic variation in Orthodox church-building, this article investigates how churches affect political support for the regime in Russia. [click to expand] </span>
