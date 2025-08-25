@@ -13,8 +13,8 @@ redirect_from:
 
 <details class="drop">
    <summary>
-    <span style="color:Gray;">  PPPE/PSCI 6302 Conflict in Cyberspace <a href = 'https://coursebook.utdallas.edu/search/pppe6302.501.25f'>Class Website</a> ~~~ <a href = '/files/Syllabus-Cyber-Conflict-F25.pdf'>Syllabus'25</a> 
-      </span>
+    <span style="color:Gray;">  PPPE/PSCI 6302 Conflict in Cyberspace <a href = 'https://coursebook.utdallas.edu/search/pppe6302.501.25f'>Class Website</a> ~ <a href = '/files/Syllabus-Cyber-Conflict-F25.pdf'>Syllabus'25</a> 
+    </span>
     </summary>
 <br> 
 
