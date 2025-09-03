@@ -7,6 +7,18 @@ redirect_from:
   - /teaching
 ---
  
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-17527745637"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-17527745637');
+</script>
+
+ 
 ## CURRENT TEACHING
 
 **UT Dallas**, ***School of Economic, Political and Policy Sciences*** (F'25) 

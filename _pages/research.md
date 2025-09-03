@@ -7,6 +7,18 @@ redirect_from:
   - /research
 ---
 
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-17527745637"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-17527745637');
+</script>
+
+
 <style>
   .col2 {
     columns: 2 200px;         /* number of columns and width in pixels*/

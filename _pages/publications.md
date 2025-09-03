@@ -7,6 +7,18 @@ redirect_from:
   - /publications
 ---
 
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-17527745637"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-17527745637');
+</script>
+
+
 ## ARTICLES
 
 [**"Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0"**](https://doi.org/10.1371/journal.pmen.0000118) in *PLOS Mental Health*, 2025, (2):1  (with Jessi Hanson-DeFusco, Abdul Stanekzai, Alexis McMaster, Hamid Popalzai, Heer Shah, Min Shi, and Nandita Kumar)
