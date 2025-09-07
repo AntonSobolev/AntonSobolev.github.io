@@ -2,6 +2,7 @@
 permalink: /
 title: ''
 excerpt: "About me"
+description: 'Anton Sobolev | Political Science & Cyber Policy'
 author_profile: true
 redirect_from: 
   - /about/
