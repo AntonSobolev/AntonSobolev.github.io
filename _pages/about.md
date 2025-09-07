@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+<script>
+  gtag('event', 'test_event', { debug_mode: true });
+</script>
+
 
 <span style="font-family:'JetBrains Mono';font-size: 175%;"><b>Welcome</b></span>
 
