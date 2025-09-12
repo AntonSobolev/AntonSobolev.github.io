@@ -26,10 +26,9 @@ xcolor: yes
 
 # EDUCATION
 
-**University of California, Los Angeles**, Ph.D. in Government  \hfill 2019
+**University of California, Los Angeles**, Ph.D.,  Political Science  \hfill 2019
 
-
-**University of California, Los Angeles**, M.Sc., in Statistics  \hfill 2019
+**University of California, Los Angeles**, M.Sc., Statistics  \hfill 2019
 
 **Higher School of Economics, Moscow**, M.A., Political Economy (with Honors)  \hfill 2011
 
@@ -52,7 +51,7 @@ xcolor: yes
  
 The University of Texas at Dallas 
 
-**Postdoctoral Associate**, MacMillan Center for International and Area Studies, Yale University \hfill 2019-21 
+**Postdoctoral Associate**, MacMillan Center for International Studies, Yale University \hfill 2019-21 
 
 **Research Fellow**, Luskin School of Public Affairs, UCLA \hfill 2018 
 
@@ -62,16 +61,40 @@ The University of Texas at Dallas
 
 **Research Fellow**, Center for the Study of Institutions and Development, \hfill 2013-14
 
-Higher School of Economics, Moscow 
+Higher School of Economics 
 
 **Visiting Research Fellow**, Russian & East European Institute, Indiana University  \hfill 2012
 
-**Lecturer**, Political Science Department, Higher School of Economics, Moscow \hfill 2010-13 
+**Lecturer**, Political Science Department, Higher School of Economics hfill 2010-13 
 
-**Research Fellow**, Laboratory for Political Studies, Higher School of Economics, Moscow \hfill 2008-13
+**Research Fellow**, Laboratory for Political Studies, Higher School of Economics \hfill 2008-13
+
+# TEACHING
+
+**UT Dallas**, ***School of Economic, Political and Policy Sciences***
+
+\hskip 1cm Conflict in Cyberspace ('22F-'25F)
+
+\hskip 1cm Capstone in Cyber: Security and Policy ('22S-'25S)
+
+\hskip 1cm Open-Source Intelligence ('24S-'25S)
+
+\hskip 1cm Cyber Policy ('21F)
+
+**Yale University**, ***Department of Political Science***
+
+\hskip 1cm Big Data, AI, and Russian Politics ('20,'21)
+
+**University of California, Los Angeles**, ***Anderson School of Business***
+
+\hskip 1cm Technology Analytics (MBA), with Prof. Keith Chen ('18)
+
+\hskip 1cm Competitive Analytics (MSBA), with Prof. Keith Chen ('18)
+
 
 # RESEARCH
 ## Articles
+[**"The Last Call for Authenticity: AI Voice Scams Reshaping Business and Political Communication"**](https://doi.org) in *Journal of Cyber Policy*, 2025, forthcoming
 
 [**"Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0"**](https://doi.org/10.1371/journal.pmen.0000118) in *PLOS Mental Health*, 2025, (2):1  (with Jessi Hanson-DeFusco, Abdul Stanekzai, Alexis McMaster, Hamid Popalzai, Heer Shah, Min Shi, and Nandita Kumar)
 
@@ -128,43 +151,6 @@ High Distinction for Honors Thesis, Higher School of Economics \hfill  2009
 
 APSA (2021, 2018, 2016, 2014), MPSA (2022, 2018, 2017, 2014), Annual conference of the Society for Political Methodology (2019), European Economic Association Annual Conference (2015), [New York University (2021)](https://www.youtube.com/watch?v=6_3E39SH688), Yale University (2020), Society for Institutional & Organizational Economics Annual Conference (2013), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2021, 2017, 2013), Indiana University (2012)
 
-# TEACHING EXPERIENCE
-
-**UT Dallas**, ***School of Economic, Political and Policy Sciences***
-
-\hskip 1cm Conflict in Cyberspace ('22F-'24F)
-
-\hskip 1cm  Capstone in Cyber: Security and Policy ('22S-'25S)
-
-\hskip 1cm Open-Source Intelligence ('24S-'25S)
-
-\hskip 1cm Cyber Policy ('21F)
-
-**Yale University**, ***Department of Political Science***
-
-\hskip 1cm Big Data, AI, and Russian Politics ('20,'21)
-
-**University of California, Los Angeles**, ***Anderson School of Business***
-
-\hskip 1cm Technology Analytics (MBA), with Prof. Keith Chen ('18)
-
-\hskip 1cm Competitive Analytics (MSBA), with Prof. Keith Chen ('18)
-
-**University of California, Los Angeles**, ***Department of Political Science***
-
-\hskip 1cm Politics and Government of Post-Communist Russia, with Prof. Daniel Treisman ('14-'17)
-
-\hskip 1cm Diversity, Disagreement, and Democracy, with Prof. Susanne Lohmann ('16)
-
-\hskip 1cm Data Analysis, with Prof. Erin Hartman ('18)
-
-\hskip 1cm Politics and Strategy, with Prof. Michael Chwe ('17)
-
-**Higher School of Economics, Moscow**, ***Department of Political Science***
-
-\hskip 1cm Models of Risk in Politics and Economics (MA, '12-'13)
-
-\hskip 1cm Political Theory ('11-'13)
 
 # SERVICE
 
