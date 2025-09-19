@@ -20,19 +20,19 @@ fontawesome: yes
 address:  Cecil H. Green Hall | 800 West Campbell Road, GR 3.108 | Richardson, TX 75080-3021
 updated: no
 urlcolor: Brown
-web: www.sobolev.app
+web: sobolev.app
 xcolor: yes
 ---
 
 # EDUCATION
 
-**University of California, Los Angeles**, Ph.D.,  Political Science  \hfill 2019
+**University of California, Los Angeles**, Ph.D. Government  \hfill 2019
 
 **University of California, Los Angeles**, M.Sc., Statistics  \hfill 2019
 
-**Higher School of Economics, Moscow**, M.A., Political Economy (with Honors)  \hfill 2011
+**Higher School of Economics**, M.A., Political Economy (with Honors)  \hfill 2011
 
-**Higher School of Economics, Moscow,** B.A., Political Science (with Honors)  \hfill 2009
+**Higher School of Economics,** B.A., Political Science (with Honors)  \hfill 2009
 
 <!--
 \hskip 1cm  Topic: "*Dictators in the Spotlight*: What They Do When They Cannot Do Business as Usual"
@@ -61,39 +61,39 @@ The University of Texas at Dallas
 
 **Research Fellow**, Center for the Study of Institutions and Development, \hfill 2013-14
 
-Higher School of Economics 
+Higher School of Economics
 
 **Visiting Research Fellow**, Russian & East European Institute, Indiana University  \hfill 2012
 
-**Lecturer**, Political Science Department, Higher School of Economics hfill 2010-13 
+**Lecturer**, Political Science Department, Higher School of Economics \hfill 2010-13 
 
-**Research Fellow**, Laboratory for Political Studies, Higher School of Economics \hfill 2008-13
+**Research Fellow**, Political Studies Lab, Higher School of Economics \hfill 2008-13
 
-# TEACHING
-
+# TEACHING 
 **UT Dallas**, ***School of Economic, Political and Policy Sciences***
 
-\hskip 1cm Conflict in Cyberspace ('22F-'25F)
+\hskip 1cm Conflict in Cyberspace (F'22-'F25)
 
-\hskip 1cm Capstone in Cyber: Security and Policy ('22S-'25S)
+\hskip 1cm Capstone in Cyber: Security and Policy (S'22-S'25)
 
-\hskip 1cm Open-Source Intelligence ('24S-'25S)
+\hskip 1cm Open-Source Intelligence (S'24-S'25)
 
-\hskip 1cm Cyber Policy ('21F)
+\hskip 1cm Cyber Policy (F'21)
 
 **Yale University**, ***Department of Political Science***
 
-\hskip 1cm Big Data, AI, and Russian Politics ('20,'21)
+\hskip 1cm Big Data, AI, and Russian Politics (S'20, S'21)
 
 **University of California, Los Angeles**, ***Anderson School of Business***
 
-\hskip 1cm Technology Analytics (MBA), with Prof. Keith Chen ('18)
+\hskip 1cm Technology Analytics (MBA), with Keith Chen (S/F'18)
 
-\hskip 1cm Competitive Analytics (MSBA), with Prof. Keith Chen ('18)
-
+\hskip 1cm Competitive Analytics (MSBA), with Keith Chen (S/F'18)
 
 # RESEARCH
+
 ## Articles
+
 [**"The Last Call for Authenticity: AI Voice Scams Reshaping Business and Political Communication"**](https://doi.org) in *Journal of Cyber Policy*, 2025, forthcoming
 
 [**"Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0"**](https://doi.org/10.1371/journal.pmen.0000118) in *PLOS Mental Health*, 2025, (2):1  (with Jessi Hanson-DeFusco, Abdul Stanekzai, Alexis McMaster, Hamid Popalzai, Heer Shah, Min Shi, and Nandita Kumar)
@@ -149,18 +149,13 @@ High Distinction for Honors Thesis, Higher School of Economics \hfill  2009
 
 # SELECTED PRESENTATIONS
 
-APSA (2021, 2018, 2016, 2014), MPSA (2022, 2018, 2017, 2014), Annual conference of the Society for Political Methodology (2019), European Economic Association Annual Conference (2015), [New York University (2021)](https://www.youtube.com/watch?v=6_3E39SH688), Yale University (2020), Society for Institutional & Organizational Economics Annual Conference (2013), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2021, 2017, 2013), Indiana University (2012)
+APSA (2023, 2021, 2018, 2016, 2014), MPSA (2024, 2022, 2018, 2017, 2014), Annual conference of the Society for Political Methodology (2019), European Economic Association Annual Conference (2015), [New York University (2021)](https://www.youtube.com/watch?v=6_3E39SH688), Yale University (2020), Society for Institutional & Organizational Economics Annual Conference (2013), April International Academic Conference On Economic and Social Development (2013, 2012, 2010, 2011), Moscow Higher School of Economics (2021, 2017, 2013, 2017), Indiana University (2012)
+
 
 
 # SERVICE
 
-**Reviewer:** American Political Science Review, Comparative Political Studies, Economics and Politics, Foreign Policy Analysis, New Media and Society, Journal of International Affairs, Problems of Post-Communism, Post-Soviet Affairs
-
-# SKILLS
-
-**Software:** R (`keras`, `selenium`, `rvest`, `tm`, `ggplot2`, `tidyverse`, `sp`, `raster`),
-
-\hskip 1.9 cm Python (`TensorFlow`, `keras`, `nltk`, `Selenium`, `sklearn`, `pandas`), SQL, Stata, SPSS, \LaTeX
+**Reviewer:** American Political Science Review, American Journal of Political Science, Comparative Political Studies, Computational Communication Research, Economics and Politics, Foreign Policy Analysis, New Media and Society, Journal of International Affairs, Problems of Post-Communism, Post-Soviet Affairs
 
 <!-- 
 # REFERENCES
@@ -170,6 +165,17 @@ Prof. Daniel Treisman (chair of the Ph.D. dissertation committee), Department of
 Prof. Chad Hazlett (chair of the M.Sc. dissertation committee), Department of Statistics, UCLA, 8105G Mathematical Sciences, Los Angeles, CA 90095, [chazlett@ucla.edu](chazlett@ucla.edu)
 
 Prof. Konstantin Sonin (chair of the M.A. dissertation committee), Harris Public Policy School, University of Chicago, 1155 E60 St, Chicago, IL 60637, [ksonin@uchicago.edu](ksonin@uchicago.edu)
+
+
+**University of California, Los Angeles**, ***Department of Political Science***
+
+\hskip 1cm Politics and Government of Post-Communist Russia, with Prof. Daniel Treisman ('14-'17)
+
+\hskip 1cm Diversity, Disagreement, and Democracy, with Prof. Susanne Lohmann ('16)
+
+\hskip 1cm Data Analysis, with Prof. Erin Hartman ('18)
+
+\hskip 1cm Politics and Strategy, with Prof. Michael Chwe ('17)
 -->
 
 
