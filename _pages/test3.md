@@ -12,10 +12,25 @@ output:
 
 
 ---
-<iframe
-  src="https://studio--studio-3319346494-28771.us-central1.hosted.app/chatbot-widget"
-  width="400"
-  height="600"
-  style="border: 1px solid #e0e0e0; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);"
-  allow="clipboard-write"
-></iframe>
+
+<div id="acachat-widget-container" style="position: fixed; bottom: 20px; right: 20px; z-index: 1000;"></div>
+
+<script>
+  (function() {
+    // URL вашего развернутого приложения с чат-ботом
+    const chatbotAppUrl = 'https://studio--studio-3957440689-79ca5.us-central1.hosted.app/'; // <-- ЗАМЕНИТЕ ЭТОТ URL
+
+    const container = document.getElementById('acachat-widget-container');
+    if (!container) return;
+
+    const iframe = document.createElement('iframe');
+    iframe.src = `${chatbotAppUrl}/embed`;
+    iframe.style.width = '400px';
+    iframe.style.height = '650px';
+    iframe.style.border = 'none';
+    iframe.style.boxShadow = '0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05)';
+    iframe.style.borderRadius = '0.5rem';
+    
+    container.appendChild(iframe);
+  })();
+</script>
