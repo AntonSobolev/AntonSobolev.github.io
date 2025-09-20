@@ -11,6 +11,16 @@ output:
 ---
 
 
+<iframe
+  src="https://6000-firebase-studio-1758342349444.cluster-mdgxqvvkkbfpqrfigfiuugu5pk.cloudworkstations.dev/"
+  width="400"
+  height="600"
+  style="border: 1px solid #e0e0e0; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);"
+  allow="clipboard-write"
+></iframe>
+
+
+
 
   ### Some Javascript
 
