@@ -40,7 +40,7 @@ Religious groups, with their moral authority, organizational resources, and mobi
 <br>
 
 
-<span style="font-family:'JetBrains Mono';font-size: 125%;"><b>As If Random:<br>How an Autocrat Times His Media Presence</b></span>
+<span style="font-family:'JetBrains Mono';font-size: 125%;"><b>As If Random:<br>How an Autocrat Times His Public Abscence</b></span>
 
 <figure>
   <img src="/files/figs/Figure-As-If-Random.png" style="max-width:70%; height:auto;">
@@ -49,7 +49,7 @@ Religious groups, with their moral authority, organizational resources, and mobi
 
 <details>
     <summary>
-    <span style="color:Gray;">When and why do political leaders choose to appear or disappear from the public eye? For democratic leaders, visibility is often constrained by institutional calendars, press obligations, and electoral incentives. For autocrats, however, the timing of public presence is more discretionary, and thus potentially strategic. In this project, I examine the logic of such disappearances through the case of Vladimir Putin. [click to expand]</span>
+    <span style="color:Gray;">When and why do political leaders choose to disappear from the public eye? For democratic leaders, visibility is often constrained by institutional calendars, press obligations, and electoral incentives. For autocrats, however, the timing of public presence is more discretionary, and thus potentially strategic. In this project, I examine the logic of such disappearances through the case of Vladimir Putin. [click to expand]</span>
     </summary>
 <br>
 Drawing on twenty-five years of daily data from the Kremlin’s official website, I analyze the logic of Putin’s media presence and absence. I identify systematic patterns in the days when he is missing from the public record and study what happens around stretches of prolonged absence. I juxtapose routine news silence with presidential decree signing, tracing how “appearance” via decrees relates to days without public events and how these dynamics evolve over time. By tracing an autocrat’s public visibility over a quarter-century, I shed light on the broader question of how leaders manage information control and maintain legitimacy.
