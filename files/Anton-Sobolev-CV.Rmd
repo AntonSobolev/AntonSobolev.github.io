@@ -26,7 +26,7 @@ xcolor: yes
 
 # EDUCATION
 
-**University of California, Los Angeles**, Ph.D., Political Science  \hfill 2019
+**University of California, Los Angeles**, Ph.D. Government  \hfill 2019
 
 **University of California, Los Angeles**, M.Sc., Statistics  \hfill 2019
 
@@ -72,17 +72,17 @@ Higher School of Economics
 # TEACHING 
 **UT Dallas**, ***School of Economic, Political and Policy Sciences***
 
-\hskip 1cm Conflict in Cyberspace (F'22-'25)
+\hskip 1cm Conflict in Cyberspace (F'22-'F25)
 
-\hskip 1cm Capstone in Cyber: Security and Policy (S'22-'25)
+\hskip 1cm Capstone in Cyber: Security and Policy (S'22-S'25)
 
-\hskip 1cm Open-Source Intelligence (S'24-'25)
+\hskip 1cm Open-Source Intelligence (S'24-S'25)
 
 \hskip 1cm Cyber Policy (F'21)
 
 **Yale University**, ***Department of Political Science***
 
-\hskip 1cm Big Data, AI, and Russian Politics (S'20-'21)
+\hskip 1cm Big Data, AI, and Russian Politics (S'20, S'21)
 
 **University of California, Los Angeles**, ***Anderson School of Business***
 
