@@ -41,7 +41,7 @@ redirect_from:
 <br>  
 
 <span style="font-family:'JetBrains Mono';font-size: 125%;"><b>Vote-for-Churh: <br>Electoral Cooptation of Religious Voters in an Electoral Autocracy</b></span>
-<span style="font-family:'JetBrains Mono';font-size: 90%;color:#6F6661;">(with Evgeny Sedashov, Daniil Romanov, and Vadim Devyatnikov)</span></span>
+<span style="font-family:'JetBrains Mono';font-size: 90%;color:#6F6661;">(with Evgeny Sedashov, Daniil Romanov, and Vadim Devyatnikov)</span>
 
 
 <figure>
