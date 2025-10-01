@@ -42,13 +42,15 @@ redirect_from:
 
 
 
-<span style="font-family:'JetBrains Mono';font-size: 125%;"><b>Vote-for-Churh:<br>lectoral Cooptation of Religious Voters in an Electoral Autocracy</b><br>
+<span style="font-family:'JetBrains Mono';font-size: 125%;"><b>Vote-for-Churh:<br>Cooptation of Religious Voters in an Electoral Autocracy</b>
 <span style="font-family:'JetBrains Mono';font-size: 90%;color:#6F6661;">(with Evgeny Sedashov, Daniil Romanov, and Vadim Devyatnikov)</span></span>
 
 
 <figure>
   <img src="/files/figs/Figure-Rel-And-Vote.png" style="max-width:70%; height:auto;"><br>
+<!--
   <figcaption><i>Church Construction, Russia, XV-XX</i></figcaption>
+-->
 </figure>
 
 
