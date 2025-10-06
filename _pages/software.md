@@ -8,11 +8,9 @@ redirect_from:
 ---
 
 
-# About
+# Software
 
-These tools are part of a growing family of interactive apps built to teach by intuition, not ritual. Each is designed to make abstract reasoning graspable, competitive, and hard to forget.
-Laws of Statistics via Sampling
-
+I teach students how to create the tools, applications, and systems they need to work and realize themselves as professionals. The examples shown here are real instruments, actively used in courses I run.
 
 [**"Laws of Statistics with Sampling"**](https://studio--cle-dev-09775848-67412.us-central1.hosted.app/)
 
