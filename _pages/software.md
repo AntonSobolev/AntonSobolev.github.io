@@ -19,7 +19,7 @@ Explore the invisible logic behind statistics through simulation. This tool turn
 
 Traditional statistics textbooks often cloud rather than clarify. This simulator unveils the logical core of hypothesis testing by visualizing the twist—the crucial shift from asking “how likely is my sample under the null” to “how likely is the truth around my sample.” The result is a deep, visual intuition for what tests really mean.
 
-[**"The Visual AD/HD Timer"**](https://claude.ai/public/artifacts/6e467978-6422-45de-90cf-cf4ce4c4d678)
+[**"The Visual AD/HD Timer"**](https://studio--timeblocks2-04522399-35e61.us-central1.hosted.app/)
 
 By organizing time into visual blocks, this app brings structure, rhythm, and clarity to your work. Designed for deep focus and gentle urgency, this timer boosts productivity for anyone navigating open-ended, creative, or nonlinear tasks.
 
