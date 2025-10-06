@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 
-# Software
 
 I teach students how to create the tools, applications, and systems they need to work and realize themselves as professionals. The examples shown here are real instruments, actively used in courses I run.
 
