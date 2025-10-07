@@ -20,7 +20,7 @@ Explore the invisible logic behind statistics through simulation. This tool turn
   <img src="/files/figs/sampling.png" style="max-width:70%; height:auto;">
 </figure>
 
-[**"The Twist of Hypothesis Testing"**](https://claude.ai/public/artifacts/6e467978-6422-45de-90cf-cf4ce4c4d678)
+[**"The Twist of Hypothesis Testing"**](https://claude.ai/public/artifacts/b92449ba-731b-417f-acce-78c5ebd8cb96)
 
 Traditional statistics textbooks often cloud rather than clarify. This simulator unveils the logical core of hypothesis testing by visualizing the twist—the crucial shift from asking “how likely is my sample under the null” to “how likely is the truth around my sample.” The result is a deep, visual intuition for what tests really mean.
 
