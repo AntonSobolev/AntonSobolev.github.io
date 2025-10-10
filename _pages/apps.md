@@ -28,6 +28,16 @@ Traditional statistics textbooks often cloud rather than clarify. This simulator
   <img src="/files/figs/twist.png" style="max-width:70%; height:auto;">
 </figure>
 
+[**"Equilibrium in a price competition game.**](https://claude.ai/public/artifacts/0d7f7dd5-8b87-4b4f-ba34-7370651af365)
+
+The concept of equilibrium in game theory is deeply unintuitive. Understanding how it emerges is often difficult. The simple game below is inspired by the well-known Keynesian Beauty Contest. It allows players to grasp the logic of equilibrium formation through experience. By learning to predict others’ choices and adjusting their own best responses, players gradually uncover how equilibrium arises from mutual reasoning and adaptation—how each player’s response shapes, and is shaped by, the responses of others.
+
+<figure>
+  <img src="/files/figs/pricecompetition.png" style="max-width:70%; height:auto;">
+</figure>
+
+
+
 [**"The Visual AD/HD Timer"**](https://studio--timeblocks2-04522399-35e61.us-central1.hosted.app/)
 
 By organizing time into visual blocks, this app brings structure, rhythm, and clarity to your work. Designed for deep focus and gentle urgency, this timer boosts productivity for anyone navigating open-ended, creative, or nonlinear tasks.
