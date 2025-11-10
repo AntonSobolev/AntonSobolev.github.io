@@ -26,11 +26,11 @@ xcolor: yes
 
 # EDUCATION
 
-**University of California, Los Angeles**, Ph.D. Government  \hfill 2019
+**University of California, Los Angeles**, Ph.D., Government  \hfill 2019
 
 **University of California, Los Angeles**, M.Sc., Statistics  \hfill 2019
 
-**Higher School of Economics**, M.A., Political Economy (with Honors)  \hfill 2011
+**Higher School of Economics**, M.A., Public Economics (with Honors)  \hfill 2011
 
 **Higher School of Economics,** B.A., Political Science (with Honors)  \hfill 2009
 
