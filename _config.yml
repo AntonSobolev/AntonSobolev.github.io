@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Anton Sobolev"
 title_separator          : "|"
 name                     : &name "Anton Sobolev"
-description              : &description "Anton Sobolev | Political Science & Cyber Policy"
+description              : &description "Anton Sobolev | Politics & Cyber Policy"
 url                      : https://sobolev.app # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "AntonSobolev/AntonSobolev.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : 
   avatar           : "profile.png"
-  bio              : "Assistant Professor of Political Economy and Cyber Policy"
+  bio              : "Assistant Professor of Cyber Policy & Politics"
   location         : 
   employer         :
   pubmed           : 
