@@ -9,15 +9,15 @@ redirect_from:
 
 ## ARTICLES
 
-[**"The Last Call for Authenticity: AI Voice Scams Reshaping Business and Political Communication"**](https://doi.org/) in *Journal of Cyber Policy*, 2025, forthcoming
+[**"The Last Call for Authenticity: AI Voice Scams Reshaping Business and Political Communication,"**](https://doi.org/10.1080/23738871.2025.2597191) in *Journal of Cyber Policy*, 2025, forthcoming
 
 [**"Diminished Quality-of-Life and Psychosocial Strain of Women under the New Taliban Era,"**](https://doi.org) (with Jessi Hanson-DeFusco and others) in *Societies*, 2025, forthcoming
 
-[**"Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0"**](https://doi.org/10.1371/journal.pmen.0000118) in *PLOS Mental Health*, 2025, (2):1  (with Jessi Hanson-DeFusco, Abdul Stanekzai, Alexis McMaster, Hamid Popalzai, Heer Shah, Min Shi, and Nandita Kumar)
+[**"Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0,"**](https://doi.org/10.1371/journal.pmen.0000118) in *PLOS Mental Health*, 2025, (2):1  (with Jessi Hanson-DeFusco, Abdul Stanekzai, Alexis McMaster, Hamid Popalzai, Heer Shah, Min Shi, and Nandita Kumar)
 
-[**"News and Geolocated Social Media Accurately Measure Protest Size Variation"**](https://doi.org/10.1017/S0003055420000295) in *American Political Science Review*, 2020, 114(4), 1343-1351  (with Keith Chen, Jungseock Joo, and Zachary Steinert-Threlkeld) 
+[**"News and Geolocated Social Media Accurately Measure Protest Size Variation,"**](https://doi.org/10.1017/S0003055420000295) in *American Political Science Review*, 2020, 114(4), 1343-1351  (with Keith Chen, Jungseock Joo, and Zachary Steinert-Threlkeld) 
 
-[**"Stability of Revolutionary Governments in The Face of Mass Protest"**](https://doi.org/10.1016/j.ejpoleco.2019.08.003) in *European Journal of Political Economy*, 2019, 60, 2-20 (with Dmitry Dagaev and Natalia Lamberova)
+[**"Stability of Revolutionary Governments in The Face of Mass Protest,"**](https://doi.org/10.1016/j.ejpoleco.2019.08.003) in *European Journal of Political Economy*, 2019, 60, 2-20 (with Dmitry Dagaev and Natalia Lamberova)
 
 [**“Trial by Fire: a Natural Disaster’s Impact on Support for the Authorities in Rural Russia,”**](http://dx.doi.org/10.1017/S0043887114000215) in *World Politics*, 2014, 66(4), 641-668  (with Egor Lazarev, Irina Soboleva, and Boris Sokolov) 
 
