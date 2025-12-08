@@ -11,6 +11,8 @@ redirect_from:
 
 [**"The Last Call for Authenticity: AI Voice Scams Reshaping Business and Political Communication"**](https://doi.org/) in *Journal of Cyber Policy*, 2025, forthcoming
 
+[**"Diminished Quality-of-Life and Psychosocial Strain of Women under the New Taliban Era,"**](https://doi.org) (with Jessi Hanson-DeFusco and others) in *Societies*, 2025, forthcoming
+
 [**"Quality of Life and Afghan Adults’ Psychosocial Wellbeing Under Taliban 2.0"**](https://doi.org/10.1371/journal.pmen.0000118) in *PLOS Mental Health*, 2025, (2):1  (with Jessi Hanson-DeFusco, Abdul Stanekzai, Alexis McMaster, Hamid Popalzai, Heer Shah, Min Shi, and Nandita Kumar)
 
 [**"News and Geolocated Social Media Accurately Measure Protest Size Variation"**](https://doi.org/10.1017/S0003055420000295) in *American Political Science Review*, 2020, 114(4), 1343-1351  (with Keith Chen, Jungseock Joo, and Zachary Steinert-Threlkeld) 
