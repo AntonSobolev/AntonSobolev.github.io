@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2024.2.21)  26 DEC 2025 11:58
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2025.4.23)  28 DEC 2025 09:26
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -520,13 +520,13 @@ Package rerunfilecheck Info: File `Anton-Sobolev-CV.out' has not changed.
 (rerunfilecheck)             Checksum: 88E1C73914A2D4FFD3A83D582B7A0B72;1166.
  ) 
 Here is how much of TeX's memory you used:
- 14936 strings out of 476025
- 233126 string characters out of 5790017
+ 14919 strings out of 476025
+ 232935 string characters out of 5790017
  1861388 words of memory out of 5000000
  34905 multiletter control sequences out of 15000+600000
- 557938 words of font info for 239 fonts, out of 8000000 for 9000
+ 557664 words of font info for 234 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 63i,12n,67p,1205b,451s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 63i,12n,67p,1205b,473s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2023/texmf-dist/fonts/type1/public/fontawesome/FontAwesom
 e.pfb></usr/local/texlive/2023/texmf-dist/fonts/type1/public/fpl/fplbj8a.pfb></
 usr/local/texlive/2023/texmf-dist/fonts/type1/public/fpl/fplrc8a.pfb></usr/loca
@@ -535,10 +535,10 @@ texlive/2023/texmf-dist/fonts/type1/urw/palatino/uplb8a.pfb></usr/local/texlive
 /2023/texmf-dist/fonts/type1/urw/palatino/uplbi8a.pfb></usr/local/texlive/2023/
 texmf-dist/fonts/type1/urw/palatino/uplr8a.pfb></usr/local/texlive/2023/texmf-d
 ist/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on Anton-Sobolev-CV.pdf (3 pages, 142706 bytes).
+Output written on Anton-Sobolev-CV.pdf (3 pages, 142477 bytes).
 PDF statistics:
- 140 PDF objects out of 1000 (max. 8388607)
- 117 compressed objects within 2 object streams
- 24 named destinations out of 1000 (max. 500000)
+ 129 PDF objects out of 1000 (max. 8388607)
+ 106 compressed objects within 2 object streams
+ 14 named destinations out of 1000 (max. 500000)
  65617 words of extra memory for PDF output out of 74296 (max. 10000000)
 
