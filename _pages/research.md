@@ -92,6 +92,8 @@ The paper contributes to the emerging literature on the economics of public heal
 
 <br>
 
+<!--
+
 <span style="font-family:'JetBrains Mono';font-size: 125%;"><b>The Last Call for Authenticity:<br>AI Voice Scams Reshaping Business and Political Communication</b></span>
 
 <figure>
@@ -109,8 +111,6 @@ The human voice, once a paragon of trust and authenticity, is evolving into a to
 </details>
 
 <br>
-
-<!--
 
 
 
