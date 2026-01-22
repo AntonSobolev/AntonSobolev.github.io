@@ -25,7 +25,7 @@ Explore the invisible logic behind statistics through simulation. This tool turn
 Traditional statistics textbooks often cloud rather than clarify. This simulator unveils the logical core of hypothesis testing by visualizing the twist—the crucial shift from asking “how likely is my sample under the null” to “how likely is the truth around my sample.” The result is a deep, visual intuition for what tests really mean.
 
 <figure>
-  <img src="/files/figs/twist.png" style="max-width:70%; height:auto;">
+  <img src="/files/figs/twist.gif" style="max-width:70%; height:auto;">
 </figure>
 
 [**"Equilibrium in a price competition game"**](https://claude.ai/public/artifacts/0d7f7dd5-8b87-4b4f-ba34-7370651af365)
