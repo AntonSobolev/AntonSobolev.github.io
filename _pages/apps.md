@@ -12,13 +12,6 @@ redirect_from:
 
 I teach students how to develop tools, applications, and systems they need to work and realize themselves as professionals. The examples shown here are real instruments, actively used in courses I run.
 
-[**"Laws of Statistics with Sampling"**](https://studio--cle-dev-09775848-67412.us-central1.hosted.app/)
-
-Explore the invisible logic behind statistics through simulation. This tool turns abstract formulas into intuitive insight, helping students grasp the Central Limit Theorem, Law of Large Numbers, and the Standard Error of the Mean by observing how randomness shapes distribution. A hands-on way to understand how sample means reveal structure—and how comparison tests make sense.
-
-<figure>
-  <img src="/files/figs/sampling.png" style="max-width:70%; height:auto;">
-</figure>
 
 [**"The Twist of Hypothesis Testing"**](https://claude.ai/public/artifacts/b92449ba-731b-417f-acce-78c5ebd8cb96)
 
@@ -44,4 +37,12 @@ By organizing time into visual blocks, this app brings structure, rhythm, and cl
 
 <figure>
   <img src="/files/figs/schedule.gif" style="max-width:70%; height:auto;">
+</figure>
+
+[**"Laws of Statistics with Sampling"**](https://studio--cle-dev-09775848-67412.us-central1.hosted.app/)
+
+Explore the invisible logic behind statistics through simulation. This tool turns abstract formulas into intuitive insight, helping students grasp the Central Limit Theorem, Law of Large Numbers, and the Standard Error of the Mean by observing how randomness shapes distribution. A hands-on way to understand how sample means reveal structure—and how comparison tests make sense.
+
+<figure>
+  <img src="/files/figs/sampling.png" style="max-width:70%; height:auto;">
 </figure>
