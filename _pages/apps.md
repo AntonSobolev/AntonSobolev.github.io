@@ -38,7 +38,7 @@ The concept of equilibrium in game theory is deeply unintuitive. Understanding h
 
 
 
-[**"Scholar's Daily Schedule"**](sobolev.app/schedule-app)
+[**"Scholar's Daily Schedule"**](schedule-app)
 
 By organizing time into visual blocks, this app brings structure, rhythm, and clarity to your work. Designed for deep focus and gentle urgency, this timer boosts productivity for anyone navigating open-ended, creative, or nonlinear tasks.
 
