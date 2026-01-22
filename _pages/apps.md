@@ -38,10 +38,10 @@ The concept of equilibrium in game theory is deeply unintuitive. Understanding h
 
 
 
-[**"The Visual AD/HD Timer"**](https://studio--timeblocks2-04522399-35e61.us-central1.hosted.app/)
+[**"Scholar's Daily Schedule"**](sobolev.app/schedule-app)
 
 By organizing time into visual blocks, this app brings structure, rhythm, and clarity to your work. Designed for deep focus and gentle urgency, this timer boosts productivity for anyone navigating open-ended, creative, or nonlinear tasks.
 
 <figure>
-  <img src="/files/figs/timer.png" style="max-width:70%; height:auto;">
+  <img src="/files/figs/schedule.gif" style="max-width:70%; height:auto;">
 </figure>
