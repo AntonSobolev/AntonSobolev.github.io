@@ -29,8 +29,6 @@ The concept of equilibrium in game theory is deeply unintuitive. Understanding h
   <img src="/files/figs/pricecompetition.png" style="max-width:70%; height:auto;">
 </figure>
 
-
-
 [**"Scholar's Daily Schedule"**](https://sobolev.app/schedule-app)
 
 By organizing time into visual blocks, this app brings structure, rhythm, and clarity to your work. Designed for deep focus and gentle urgency, this timer boosts productivity for anyone navigating open-ended, creative, or nonlinear tasks.
@@ -44,5 +42,5 @@ By organizing time into visual blocks, this app brings structure, rhythm, and cl
 Explore the invisible logic behind statistics through simulation. This tool turns abstract formulas into intuitive insight, helping students grasp the Central Limit Theorem, Law of Large Numbers, and the Standard Error of the Mean by observing how randomness shapes distribution. A hands-on way to understand how sample means reveal structure—and how comparison tests make sense.
 
 <figure>
-  <img src="/files/figs/sampling.png" style="max-width:70%; height:auto;">
+  <img src="/files/figs/sampling.gif" style="max-width:70%; height:auto;">
 </figure>
