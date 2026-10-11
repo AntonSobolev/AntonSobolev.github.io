@@ -10,18 +10,26 @@ redirect_from:
  
 ## CURRENT TEACHING
 
-**UT Dallas**, ***School of Economic, Political and Policy Sciences*** (F'25) 
+**Augusta University**, ***Pamplin College of Arts, Humanities, and Social Sciences*** (F'26)
 
 <details class="drop">
    <summary>
-    <span style="color:Gray;">  PPPE/PSCI 6302 Conflict in Cyberspace <a href = 'https://coursebook.utdallas.edu/search/pppe6302.501.25f'>Class Website</a> ~ <a href = '/files/Syllabus-Cyber-Conflict-F25.pdf'>Syllabus'25</a> 
-    </span>
-    </summary>
-<br> 
+    <span style="color:Gray;">SECR 6600 Research Design and Writing for Intelligence and Security Studies</span>
+   </summary>
+<br>
 
-Cyberspace is not an isolated concept. It expands beyond the conventional concepts of networks. While many of the digital security issues faced by companies and customers are highly technical, their underlying causes and systematic effects are inherently behavioral. Despite its technical specificities, cyberspace is a domain of human interactions. It makes little sense to approach cybersecurity from a narrow, purely technical perspective. Yet many courses focus on 'mechanics' of cybersecurity at the expense of behavioral and political aspects. In contrast, this class explores cyberspace as a synergistic entity. First, it examines conflicts and violence in pre-digital age. Next, it discusses orgins, organization, and evolution of cyberspace. Finally, it explores how cyberspace reshapes conventional conflicts and produces new ones.
+This course introduces the logic and practice of scientific research design in intelligence and security studies. Its central goal is to move from a compelling question about the world to a defensible scientific claim. Students learn how to develop theories and hypotheses, conceptualize and measure political phenomena, and evaluate empirical evidence. The course covers statistical inference, regression, causal reasoning, experiments, and quasi-experimental methods, including instrumental variables, difference-in-differences, matching, and synthetic control. Particular attention is paid to the assumptions and limitations of each approach. Students use artificial intelligence as a research assistant and develop an individual research design portfolio around a question of their choice.
 
-Students get free access to DataCamp to prepare themselves for the coding part of this course.
+<br>
+</details>
+
+<details class="drop">
+   <summary>
+    <span style="color:Gray;">SECR 7101 U.S. Grand Strategy and Foreign Policy</span>
+   </summary>
+<br>
+
+What is grand strategy, and how do states choose their long-term goals and instruments of power? This course examines U.S. grand strategy through theories of international politics, game theory, and the origins and organization of states. It develops a framework that treats states not only as actors in an international system, but also as political systems shaped by conflicts among leaders, elites, bureaucracies, opposition groups, and citizens. Students apply this perspective to economic sanctions, energy security, technological competition, and international AI governance. In an individual AI-assisted project, students build a visual map of a conflict involving the United States, analyze its domestic and international actors, and explore the conditions under which strategic behavior might change.
 
 <br>
 </details>
@@ -34,7 +42,7 @@ Students get free access to DataCamp to prepare themselves for the coding part o
 
 <details class="drop">
    <summary>
-    <span style="color:Gray;">Conflict in Cyberspace (F'22-F'25)</span>
+    <span style="color:Gray;">Conflict in Cyberspace (F'22-F'25) <a href="https://coursebook.utdallas.edu/search/pppe6302.501.25f">Class Website</a> ~ <a href="/files/Syllabus-Cyber-Conflict-F25.pdf">Syllabus'25</a></span>
     </summary>
 <br> 
 Cyberspace is not an isolated concept. It expands beyond the conventional concepts of networks. While many of the digital security issues faced by companies and customers are highly technical, their underlying causes and systematic effects are inherently behavioral. Despite its technical specificities, cyberspace is a domain of human interactions. It makes little sense to approach cybersecurity from a narrow, purely technical perspective. Yet many courses focus on 'mechanics' of cybersecurity at the expense of behavioral and political aspects. In contrast, this class explores cyberspace as a synergistic entity. First, it examines conflicts and violence in pre-digital age. Next, it discusses orgins, organization, and evolution of cyberspace. Finally, it explores how cyberspace reshapes conventional conflicts and produces new ones.
